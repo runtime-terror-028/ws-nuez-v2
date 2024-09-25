@@ -43,3 +43,13 @@
 .featured_section {
     margin-bottom: 50px;
 }
+
+@media (max-width: 750px) {
+    .swiper-button-next,
+    .swiper-button-prev {
+        display: none !important;
+    }
+    .featured_section_header {
+        padding: 0 25px;
+    }
+}

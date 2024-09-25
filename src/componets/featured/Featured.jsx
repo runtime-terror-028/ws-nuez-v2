@@ -4,7 +4,9 @@ import ProductCard from '../product-card/Product-card';
 import 'swiper/css';
 import 'swiper/css/navigation';
 import './Featured.css';
-import Product_data from '../../data/product.json'
+import Product_light_data from '../../data/light/product.json';
+import Product_cctv_data from '../../data/cctv/product.json';
+import Product_solar_data from '../../data/solar/product.json';
 import Category_data from '../../data/category.json'
 import Button from 'react-bootstrap/Button';
 
@@ -41,6 +43,8 @@ function ProductCardList({ json_data }) {
             <ProductCard
               title={json_data[key].short_title}
               image={json_data[key].image}
+              short_description={json_data[key].short_description}
+              long_description={json_data[key].long_description}
               product_spec={json_data[key].specification}
             />
           </SwiperSlide>
@@ -53,6 +57,20 @@ function ProductCardList({ json_data }) {
 
 
 function Featured() {
+
+  const getProductData = (key) => {
+    switch (key) {
+      case 'light':
+        return Product_light_data;
+      case 'cctv':
+        return Product_cctv_data;
+      case 'solar':
+        return Product_solar_data;
+      default:
+        return {};
+    }
+  };
+
   return (
     <>
       <div className="featured_heading w-100 text-center">
@@ -63,14 +81,14 @@ function Featured() {
       {Object.keys(Category_data).map((key) => (
         <div className="featured_section">
           <div className="featured_section_header">
-          <h2>{Category_data[key].title}</h2>
-          <hr />
+            <h2>{Category_data[key].title}</h2>
+            <hr />
           </div>
           <ProductCardList key={key}
-            json_data={Product_data}
+            json_data={getProductData(key)}
           />
           <div className="featured_section_footer d-flex justify-content-center">
-          <Button variant="outline-secondary">View more Products</Button>{''}
+            <Button variant="outline-secondary">View more Products</Button>{''}
           </div>
         </div>
       ))}

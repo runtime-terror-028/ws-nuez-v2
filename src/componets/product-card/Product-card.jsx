@@ -8,7 +8,7 @@ import "./Product-card.css";
 
 const CARD_SIZE = "200px";
 
-function ProductCard({ title, image, product_spec }) {
+function ProductCard({ title, image, short_description, long_description, product_spec }) {
   const [show, setShow] = useState(false);
   const handleClose = () => setShow(false);
   const handleShow = () => setShow(true);
@@ -22,7 +22,7 @@ function ProductCard({ title, image, product_spec }) {
   return (
     <>
       <Card style={{ width: CARD_SIZE }} onClick={handleShow}>
-        <Card.Img variant="top" src={image} width={CARD_SIZE} height={CARD_SIZE}/>
+        <Card.Img variant="top" src={image} width={CARD_SIZE} height={CARD_SIZE} />
         <Card.Body className="product_card_body">
           <Card.Title className="w-100 text-center">{title}</Card.Title>
         </Card.Body>
@@ -32,29 +32,49 @@ function ProductCard({ title, image, product_spec }) {
         <Modal.Header closeButton>
           <Modal.Title className="w-100 text-center">{title}</Modal.Title>
         </Modal.Header>
-        <Modal.Body className='d-flex flex-row'>
+        <Modal.Body className='d-flex flex-column flex-md-row align-item-center'>
           <div className="Modal_body_image">
             <img src={image} alt="Product Image" />
           </div>
           <div className="Modal_body_text">
-            <div className="product_spec">
-            <Table striped bordered hover>
-                <thead>
-                  <tr>
-                    <th>Specification</th>
-                    <th>Details</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  {specifications.map((spec, index) => (
-                    <tr key={index}>
-                      <td>{spec.item || "N/A"}</td>
-                      <td>{spec.value || "N/A"}</td>
-                    </tr>
+            {/* Render short and long descriptions if they exist */}
+            {short_description && (
+              <div className="short_description mb-3">
+                <p>{short_description}</p>
+              </div>
+            )}
+
+            {long_description && long_description.length > 0 && (
+              <div className="long_description mb-3">
+                <ul>
+                  {long_description.map((desc, index) => (
+                    <li key={index}>{desc}</li>
                   ))}
-                </tbody>
-              </Table>
-            </div>
+                </ul>
+              </div>
+            )}
+
+            {/* Render product specifications if no descriptions exist */}
+            {!short_description && (!long_description || long_description.length === 0) && (
+              <div className="product_spec">
+                <Table striped bordered hover>
+                  <thead>
+                    <tr>
+                      <th>Specification</th>
+                      <th>Details</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {specifications.map((spec, index) => (
+                      <tr key={index}>
+                        <td>{spec.item || "N/A"}</td>
+                        <td>{spec.value || "N/A"}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </Table>
+              </div>
+            )}
           </div>
         </Modal.Body>
         <Modal.Footer className="d-flex justify-content-center">
@@ -67,4 +87,4 @@ function ProductCard({ title, image, product_spec }) {
   );
 }
 
-export default ProductCard
+export default ProductCard;

@@ -3,7 +3,10 @@
     height: var(--nav_height);
   }
   
-
 #basic-nav-dropdown::after {
   display: none;
+}
+.nav .dropdown-item.active,
+.nav .dropdown-item:active {
+  background-color:red;
 }

@@ -10,11 +10,28 @@
 }
 
 .Modal_body_image {
+    padding: 45px;
     width: 50%;
 }
-.Modal_body_image img{
+
+.Modal_body_image img {
     width: 100%;
 }
+
 .Modal_body_text {
     width: 50%;
+    padding: 35px;
+}
+
+@media (max-width: 750px) {
+
+    .Modal_body_image,
+    .Modal_body_text {
+        padding: 0 5px !important;
+        width: 100%;
+    }
+
+    .Modal_body_text {
+        margin-top: 15px;
+    }
 }
