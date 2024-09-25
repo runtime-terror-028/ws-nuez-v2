@@ -1,0 +1,104 @@
+{
+    "01_001_001": {
+      "model": "2035-1",
+      "short_description": "",
+      "long_description": [],
+      "long_title": "HANGING LAMPS 2035-1",
+      "short_title": "HANGING LAMPS 2035-1",
+      "variation": [],
+      "specification": [
+        "ITEM NO.: 2035-1",
+        "LAMP: LED 12W",
+        "SIZE: D100MM X FH220MM X H1200MM",
+        "FINISH: ANTIQUE BRASS",
+        "MATERIAL: METAL + ONYX MARBLE",
+        "PRICE: 10400"
+      ],
+      "image": "demo.jpg"
+    },
+    "01_001_002": {
+      "model": "2039-H",
+      "short_description": "",
+      "long_description": [],
+      "long_title": "HANGING LAMPS 2039-H",
+      "short_title": "HANGING LAMPS 2039-H",
+      "variation": [],
+      "specification": [
+        "ITEM NO.: 2039-H",
+        "LAMP: 1XE14",
+        "SIZE: D130MM X FH150MM X H1200MM",
+        "FINISH: ANTIQUE BRASS",
+        "MATERIAL: METAL + ONYX MARBLE",
+        "PRICE: 7800"
+      ],
+      "image": "demo.jpg"
+    },
+    "01_001_003": {
+      "model": "2026-RD",
+      "short_description": "",
+      "long_description": [],
+      "long_title": "HANGING LAMPS 2026-RD",
+      "short_title": "HANGING LAMPS 2026-RD",
+      "variation": [],
+      "specification": [
+        "ITEM NO.: 2026-RD",
+        "LAMP: 1XE14",
+        "SIZE: W100MM X FH210MM X H1200MM",
+        "FINISH: ANTIQUE BRASS",
+        "MATERIAL: METAL + ONYX MARBLE",
+        "PRICE: 7900"
+      ],
+      "image": "demo.jpg"
+    },
+    "01_001_004": {
+      "model": "2026-1SQ",
+      "short_description": "",
+      "long_description": [],
+      "long_title": "HANGING LAMPS 2026-1SQ",
+      "short_title": "HANGING LAMPS 2026-1SQ",
+      "variation": [],
+      "specification": [
+        "ITEM NO.: 2026-1SQ",
+        "LAMP: 1XE14",
+        "SIZE: W100MM X FH210MM X H1200MM",
+        "FINISH: ANTIQUE BRASS",
+        "MATERIAL: METAL + ONYX MARBLE",
+        "PRICE: 7900"
+      ],
+      "image": "demo.jpg"
+    },
+    "01_001_005": {
+      "model": "2041-H",
+      "short_description": "",
+      "long_description": [],
+      "long_title": "HANGING LAMPS 2041-H",
+      "short_title": "HANGING LAMPS 2041-H",
+      "variation": [],
+      "specification": [
+        "ITEM NO.: 2041-H",
+        "LAMP: 1XE27",
+        "SIZE: W130MM X H350MM",
+        "FINISH: ANTIQUE BRASS",
+        "MATERIAL: METAL + ONYX MARBLE",
+        "PRICE: 9600"
+      ],
+      "image": "demo.jpg"
+    },
+    "01_001_006": {
+      "model": "2031-1",
+      "short_description": "",
+      "long_description": [],
+      "long_title": "HANGING LAMPS 2031-1",
+      "short_title": "HANGING LAMPS 2031-1",
+      "variation": [],
+      "specification": [
+        "ITEM NO.: 2031-1",
+        "LAMP: 1XG9",
+        "SIZE: D100MM X H1200MM",
+        "FINISH: ANTIQUE BRASS",
+        "MATERIAL: METAL + ONYX MARBLE",
+        "PRICE: 7900"
+      ],
+      "image": "demo.jpg"
+    }
+}

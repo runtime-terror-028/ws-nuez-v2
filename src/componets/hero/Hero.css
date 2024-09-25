@@ -1,0 +1,4 @@
+.hero_img {
+    height: calc(100vh - var(--nav_height));
+    width: 100%;
+}

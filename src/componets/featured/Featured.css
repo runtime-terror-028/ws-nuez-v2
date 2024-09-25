@@ -1,0 +1,45 @@
+.test {
+    height: 200px;
+    width: 200px;
+    border: solid black 2px;
+}
+
+
+.swiper-button-next,
+.swiper-button-prev {
+    color: #fff;
+    height: 40px;
+    width: 40px;
+    background-color: rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(10px);
+    border-radius: 100px;
+    right: 40px;
+}
+
+.swiper-button-next::after,
+.swiper-button-prev::after {
+    font-size: 1rem;
+} 
+
+.featured_heading {
+    font-size: 25px;
+    font-weight: 900;
+    margin-bottom: 70px;
+}
+
+.product_class_list {
+    margin: 25px 20px;
+}
+
+.swiper-slide {
+    width: fit-content !important;
+    height: fit-content !important;
+}
+
+.featured_section_header {
+    padding: 0 45px;
+}
+
+.featured_section {
+    margin-bottom: 50px;
+}

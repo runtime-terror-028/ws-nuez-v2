@@ -1,0 +1,20 @@
+.product_card_body {
+    height: 50px !important;
+}
+
+.card-body {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    padding: 0 !important;
+}
+
+.Modal_body_image {
+    width: 50%;
+}
+.Modal_body_image img{
+    width: 100%;
+}
+.Modal_body_text {
+    width: 50%;
+}

@@ -1,0 +1,9 @@
+.nav {
+    background: #be3c3c;
+    height: var(--nav_height);
+  }
+  
+
+#basic-nav-dropdown::after {
+  display: none;
+}

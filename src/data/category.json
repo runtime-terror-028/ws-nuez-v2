@@ -1,0 +1,32 @@
+{
+    "light": {
+        "title": "Light",
+        "header": "Light",
+        "footer": ""
+    },
+    "cctv": {
+        "title": "CCTV",
+        "header": "CCTV",
+        "footer": ""
+    },
+    "solar": {
+        "title": "Solar Solutions",
+        "header": "Solar Solutions",
+        "footer": ""
+    },
+    "automation": {
+        "title": "Automation",
+        "header": "Automation",
+        "footer": ""
+    },
+    "smart-bench": {
+        "title": "SmartBench",
+        "header": "HeaSmartBenchder",
+        "footer": ""
+    },
+    "bms": {
+        "title": "BMS",
+        "header": "BMS",
+        "footer": ""
+    }
+}
