@@ -1,0 +1,160 @@
+{
+    "02_001_001": {
+      "model": " DS-2CD2046G2H-IU",
+      "short_description": "The 4 MP Darkfighter Fixed Mini Bullet Network Camera (Model: DS-2CD2046G2H-IU) delivers superior low-light performance, ideal for high-definition surveillance in challenging environments.",
+      "long_description": [
+        " High quality imaging with 4 MP resolution",
+        " Excellent low-light performance with powered-by-DarkFighter technology",
+        "Clear imaging against strong backlight due to 120 dB true WDR technology",
+        "Efficient H.265+ compression technology",
+        "Audio and alarm interface available",
+        " Focus on human and vehicle targets classification based on deep learning",
+        " Built-in microphone for real-time auto security(-U)",
+        "Water and dust resistant (IP67)"
+      ],
+      "long_title": "4 MP Powered by Darkfighter",
+      "short_title": "4 MP Powered",
+      "specification": []
+    },
+    "02_001_002": {
+      "model": "DS-2CD2147G2H-LISU",
+      "short_description": " The 4 MP Smart Hybrid Light ColorVu Fixed Dome Network Camera (Model: DS-2CD2147G2H-LISU) offers vivid color imaging in low-light conditions, ensuring reliable, round-the-clock surveillance.",
+      "long_description": [
+        "High quality imaging with 4 MP resolution",
+        "Smart Hybrid Light: advanced technology with long range",
+        "Clear imaging against strong back light due to 130 dB WDR technology",
+        "Efficient H.265+ compression technology",
+        "Focus on human and vehicle classification based on deep learning",
+        "-U: Built-in microphone for real-time audio security",
+        "Water and dust resistant (IP67) and vandal-resistant (IK10)"
+      ],
+      "long_title": "4 MP Smart Hybrid Light",
+      "short_title": "4 MP Smart",
+      "specification": []
+    },
+    "02_001_003": {
+      "model": "DS-2CD6D42G0-IS",
+      "short_description": " The Dual-Directional PanoVu Camera (Model: DS-2CD6D42G0-IS) provides comprehensive, 360-degree coverage with two lenses, ideal for wide-area surveillance with minimal blind spots.",
+      "long_description": [
+        "High quality imaging with 4 MP resolution",
+        "3D DNR technology delivers clean and sharp images",
+        "Supports 2-channel WDR to realize clear imaging against strong back light",
+        "Efficient H.265 compression technology",
+        "Water and dust resistant (IP67) and vandal resistant (IK10)",
+        "Built-in microphone for real-time audio security",
+        "Easy installation with Power over Ethernet (PoE) technology"
+      ],
+      "long_title": " Dual-Directional PanoVu Camera",
+      "short_title": "Dual-Directional PanoVu",
+      "specification": []
+    },
+    "02_001_004": {
+      "model": "DS-2CD6D54G2-IZHS(/NFC)",
+      "short_description": "   The 4-Directional Multisensor Network Camera (Model: DS-2CD6D54G2-IZHS/NFC) captures expansive views with four adjustable lenses, offering versatile surveillance for large areas with high detail.",
+      "long_description": [
+        "   4 adjustable lenses in one camera cover up to 360° field of view, ensuring no blind area monitoring and the monitoring tilt angle can be adjusted",
+        "Each lens up to 5 MP, capturing clear images, and more details can be displayed on video wall",
+        "Clear imaging against strong back light due to 120 dB true WDR technology",
+        "Water and dust resistant (IP67) and vandal proof (IK10)",
+        "Human and vehicle target classification based on deep learning for up to 4 channels",
+        "Unique PTRZ capability for efficient installation",
+        "Audio and alarm interface available"
+      ],
+      "long_title": " 4-Directional Multisensor Network Camera",
+      "short_title": "4-Directional Multisensor",
+      "specification": []
+    },
+    "02_001_005": {
+      "model": "iDS-2CD8447G0/B-RS",
+      "short_description": "The DeepinView Triple-Lens Activity Analysis Camera (Model: iDS-2CD8447G0/B-RS) features advanced AI-driven analytics across three lenses, enabling precise activity detection and monitoring for enhanced security.",
+      "long_description": [
+        "   High quality imaging with 4 MP resolution",
+        "Efficient H.265+ compression technology",
+        "3D DNR technology delivers clean and sharp images",
+        "Detects up to 10 abnormal events, such as loitering and people falling down",
+        "Adopts high-performance GPU, advanced binocular stereo imaging algorithm and deep learning algorithm",
+        "Supports auto, manual and smart calibration modes",
+        "Filters targets whose height is lower than the threshold and does not perform falling down detection"
+      ],
+      "long_title": "DeepinView Triple-Lens Activity Analysis Camera",
+      "short_title": "DeepinView Triple-Lens Activity",
+      "specification": []
+    },
+    "02_001_006": {
+      "model": "DS-2CD3146G2H-LIS(U)",
+      "short_description": "  The 4 MP Smart Hybrid Light with Darkfighter S Fixed Mini Dome Network Camera (Model: DS-2CD3146G2H-LIS(U)) delivers superior low-light performance and smart lighting for reliable surveillance.",
+      "long_description": [
+        " Supports Hikvision Embedded Open Platform (HEOP) and importing third party applications",
+        "Supports 1.5 Tops computing power, 60 MB system memory, 400 MB smart RAM, and 2 GB eMMC storage for sharing resources",
+        "High quality imaging with 4 MP resolution",
+        "Clear imaging against strong back light due to 130 dB WDR technology",
+        "Efficient H.265+ compression technology",
+        "Focus on human and vehicle classification based on deep learning",
+        "Smart Dual-Light: advanced technology with long range",
+        "-U: Built-in microphone for real-time audio security",
+        "Water and dust resistant (IP67) and vandal resistant (IK10)"
+      ],
+      "long_title": "4 MP Smart hybrid light",
+      "short_title": "4 MP Smart",
+      "specification": []
+    },
+    "02_001_007": {
+      "model": "DS-2CD3523G2-IS",
+      "short_description": "  The 2 MP AcuSense Fixed Mini Dome Network Camera (Model: DS-2CD3523G2-IS) provides accurate motion detection with advanced AI capabilities, ideal for efficient and reliable security monitoring.",
+      "long_description": [
+        " High quality imaging with 2 MP resolution",
+        "Clear imaging against strong backlight due to 120 dB WDR technology",
+        "Efficient H.265+ compression technology",
+        "Focus on human and vehicle targets classification based on deep learning",
+        "Water and dust resistant (IP67)"
+      ],
+      "long_title": "2 MP Acusense Fixed Mini",
+      "short_title": "2 MP Acusense",
+      "specification": []
+    },
+    "02_001_008": {
+      "model": "DS-2CD1023G2-LIDUF/4G/SL",
+      "short_description": "    The 2 MP Smart Hybrid Light 4G Fixed Bullet Network Camera (Model: DS-2CD1023G2-LIDUF/4G/SL) offers reliable remote surveillance with hybrid lighting and 4G connectivity for versatile outdoor monitoring.",
+      "long_description": [
+        "High quality imaging with 2 MP resolution",
+        "Support Human and Vehicle Detection",
+        "Support 4G LTE data transmission",
+        "Provide real-time security via built-in two-way audio",
+        "Smart Hybrid Light: advanced technology up to 30 meters",
+        "Support on-board storage up to 512 GB (SD card slot)",
+        "Water and dust resistant (IP67)",
+        "Efficient H.265+ compression technology"
+      ],
+      "long_title": "2 MP Smart Hybrid Light",
+      "short_title": "2 MP Smart",
+      "specification": []
+    },
+    "02_001_009": {
+      "model": "DS-2CD2421G0-I(D)W",
+      "short_description": "    The 2 MP Indoor Audio Fixed PIR Cube Network Camera (Model: DS-2CD2421G0-I(D)W) combines high-definition video with PIR motion detection and audio capabilities, perfect for comprehensive indoor security.",
+      "long_description": [
+        " High quality imaging with 2 MP resolution",
+        "Efficient H.265+ compression technology",
+        "Provide real-time security via built-in two-way audio",
+        "Detect human body through passive infrared which is sensitive to body temperature (PIR)"
+      ],
+      "long_title": "2 MP Indoor Audio Fixed",
+      "short_title": "2 MP Indoor",
+      "specification": []
+    },
+    "02_001_010": {
+      "model": "DS-2DE2C400MWG-4G",
+      "short_description": " The 4 MP Fixed Outdoor Smart Hybrid-Light 4G PT Network Camera (Model: DS-2DE2C400MWG-4G) offers high-definition monitoring with 4G connectivity and hybrid lighting, ideal for versatile outdoor surveillance.",
+      "long_description": [
+        "High quality imaging with 4 MP resolution",
+        "Support Human and Vehicle Detection",
+        "Support 4G LTE data transmission",
+        "Built-in microphone and speaker, support two-way audio",
+        "Smart Hybrid Light: advanced technology up to 30 meters",
+        "Support on-board storage up to 512 GB (SD card slot)",
+        "Water and dust resistant (IP66)"
+      ],
+      "long_title": "4 MP Fixed Outdoor Smart",
+      "short_title": "4 MP Fixed",
+      "specification": []
+    }}
