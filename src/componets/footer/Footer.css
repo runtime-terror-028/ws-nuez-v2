@@ -1,0 +1,14 @@
+#footer{
+    display: flex;
+    flex-direction: column;
+    background-color: wheat;
+
+}
+
+
+.footer_buttom{
+    background: gray;
+    text-align: center;
+    height: fit-content;
+    padding-top: 15px;
+}
