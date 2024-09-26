@@ -1,22 +1,26 @@
-import Hero from '../../componets/hero/Hero'
-import Featured from '../../componets/featured/Featured'
-import About from '../../componets/aboutus/About'
-import Contact from '../../componets/contactus/Contact'
-import Footer from '../../componets/footer/Footer'
-
-
+import Hero from '../../componets/hero/Hero';
+import Featured from '../../componets/featured/Featured';
+import About from '../../componets/aboutus/About';
+import Contact from '../../componets/contactus/Contact';
+import Footer from '../../componets/footer/Footer';
 
 const Home = () => {
-    return (
-      <>
-      <Hero />
+  return (
+    <>
+      {/* Added id for Hero Section */}
+      <div id="hero">
+        <Hero />
+      </div>
       <Featured />
-      <About/>
-      <Contact/>
-      <Footer/>
-  
-      </>
-    )
-  };
-  
-  export default Home;
+      <div id="about">
+        <About />
+      </div>
+      <div id="contact">
+        <Contact />
+      </div>
+      <Footer />
+    </>
+  );
+};
+
+export default Home;
