@@ -29,7 +29,9 @@ export default Footer
 
 
 
-
+// --------------------------------|Rajashree's footer|---------------------------------
+// Dont delete
+// worked overnight for this
 
 
 
