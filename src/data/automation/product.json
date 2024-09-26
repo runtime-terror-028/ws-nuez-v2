@@ -14,7 +14,7 @@
     "short_title": "Smart RGB+CCT LED",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_001_001/04_001_001_1.png"
+    "image": "./image/product/automation/smart_lights/04_001_001/04_001_001.jpeg"
   },
   "04_001_002": {
     "model": "SKU:N/A",
@@ -30,7 +30,7 @@
     "short_title": "Smart CCT Bulb",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_001_002/04_001_002_1.png"
+    "image": "./image/product/automation/smart_lights/04_001_002/04_001_002.jpeg"
   },
   "04_001_003": {
     "model": "SKU:N/A",
@@ -46,7 +46,7 @@
     "short_title": "Smart CCT Downlight-Round",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_001_003/04_001_003_1.png"
+    "image": "./image/product/automation/smart_lights/04_001_003/04_001_003.jpeg"
   },
   "04_001_004": {
     "model": "SKU:N/A",
@@ -63,7 +63,7 @@
     "short_title": "Smart CCT Downlight-Square",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_001_004/04_001_004_1.png"
+    "image": "./image/product/automation/smart_lights/04_001_004/04_001_004.jpeg"
   },
   "04_001_005": {
     "model": "SKU:RGBW15WDL",
@@ -80,7 +80,7 @@
     "short_title": "Wifi Smart",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_001_005/04_001_005_1.png"
+    "image": "./image/product/automation/smart_lights/04_001_005/04_001_005.jpeg"
   },
   "04_001_006": {
     "model": "SKU:RGBW9W-1",
@@ -97,7 +97,7 @@
     "short_title": "WiFi Smart LED",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_001_006/04_001_006_1.png"
+    "image": "./image/product/automation/smart_lights/04_001_006/04_001_006.jpeg"
   },
   "04_001_007": {
     "model": "SKU:HMCOB12",
@@ -114,7 +114,7 @@
     "short_title": "SMART CCT LED",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_001_007/04_001_007_1.png"
+    "image": "./image/product/automation/smart_lights/04_001_007/04_001_007.jpeg"
   },
   "04_001_008": {
     "model": "SKU:HMRGB5M",
@@ -131,7 +131,7 @@
     "short_title": "Wi-Fi RGB LED",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_001_008/04_001_008_1.png"
+    "image": "./image/product/automation/smart_lights/04_001_008/04_001_008.jpeg"
   },
   "04_001_009": {
     "model": "SKU:HMRGB5M-2-1",
@@ -147,7 +147,7 @@
     "short_title": "Smart LED Strip",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_001_009/04_001_009_1.png"
+    "image": "./image/product/automation/smart_lights/04_001_009/04_001_009.jpeg"
   },
   "04_001_010": {
     "model": "SKU:HMRGB5M-2",
@@ -164,7 +164,7 @@
     "short_title": "Wi-Fi+BLE RGBIC Dreamcolor",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_001_0010/04_001_010_1.png"
+    "image": "./image/product/automation/smart_lights/04_001_010/04_001_010.jpeg"
   },
   "04_002_001": {
     "model": "SKU:HMPLUG",
@@ -181,7 +181,7 @@
     "short_title": "Smart Plug Socket-10A",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_002_001/04_002_001_1.png"
+    "image": "./image/product/automation/actuators/04_002_001/04_002_001.jpeg"
   },
   "04_002_002": {
     "model": "SKU:HMLPG16",
@@ -198,7 +198,7 @@
     "short_title": "Smart Heavy Duty",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_002_002/04_002_002_1.png"
+    "image": "./image/product/automation/actuators/04_002_002/04_002_002.jpeg"
   },
   "04_002_003": {
     "model": "SKU:1NODE",
@@ -214,7 +214,7 @@
     "short_title": "Smart 1 Node",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_002_003/04_002_003_1.png"
+    "image": "./image/product/automation/actuators/04_002_003/04_002_003.jpeg"
   },
   "04_002_004": {
     "model": "SKU:2NODE",
@@ -230,7 +230,7 @@
     "short_title": "Smart 2 Node",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_002_004/04_002_004_1.png"
+    "image": "./image/product/automation/actuators/04_002_004/04_002_004.jpeg"
   },
   "04_002_005": {
     "model": "SKU:4NODE",
@@ -246,7 +246,7 @@
     "short_title": "Smart 4 Node",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_002_005/04_002_005_1.png"
+    "image": "./image/product/automation/actuators/04_002_005/04_002_005.jpeg"
   },
   "04_002_006": {
     "model": "SKU:2NODE-1",
@@ -262,7 +262,7 @@
     "short_title": "Smart 3+1 Node",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_002_006/04_002_006_1.png"
+    "image": "./image/product/automation/actuators/04_002_006/04_002_006.jpeg"
   },
   "04_002_007": {
     "model": "SKU:2NODE-2",
@@ -278,7 +278,7 @@
     "short_title": "Smart Curtain Node",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_002_007/04_002_007_1.png"
+    "image": "./image/product/automation/actuators/04_002_007/04_002_007.jpeg"
   },
   "04_002_008": {
     "model": "SKU:HMDMR",
@@ -293,7 +293,7 @@
     "short_title": "Smart Dimmer Node",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_002_008/04_002_008_1.png"
+    "image": "./image/product/automation/actuators/04_002_008/04_002_008.jpeg"
   },
   "04_002_009": {
     "model": "SKU:SB10",
@@ -308,7 +308,7 @@
     "short_title": "Smart Switch Breaker",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_002_009/04_002_009_1.png"
+    "image": "./image/product/automation/actuators/04_002_009/04_002_009.jpeg"
   },
   "04_002_010": {
     "model": "SKU:HMPS10A",
@@ -326,7 +326,7 @@
     "short_title": "4 Sockets Extension",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_002_010/04_002_010_1.png"
+    "image": "./image/product/automation/actuators/04_002_010/04_002_010.jpeg"
   },
   "04_003_001": {
     "model": "SKU:HMT014",
@@ -342,7 +342,7 @@
     "short_title": "Smart Control Panel",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_003_001/04_003_001_1.png"
+    "image": "./image/product/automation/touch_switches/04_003_001/04_003_001.jpeg"
   },
   "04_003_002": {
     "model": "SKU:TP4B",
@@ -360,7 +360,7 @@
     "short_title": "Smart 4 Gang",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_003_002/04_003_002_1.png"
+    "image": "./image/product/automation/touch_switches/04_003_002/04_003_002.jpeg"
   },
   "04_003_003": {
     "model": "SKU:TP4B-1",
@@ -378,7 +378,7 @@
     "short_title": "Smart 2 Gang",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_003_003/04_003_003_1.png"
+    "image": "./image/product/automation/touch_switches/04_003_003/04_003_003.jpeg"
   },
   "04_003_004": {
     "model": "SKU:TP24",
@@ -396,7 +396,7 @@
     "short_title": "Smart 1 Gang",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_003_004/04_003_004_1.png"
+    "image": "./image/product/automation/touch_switches/04_003_004/04_003_004.jpeg"
   },
   "04_003_005": {
     "model": "SKU:TPFTPB",
@@ -414,7 +414,7 @@
     "short_title": "Smart Fan Regulator",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_003_005/04_003_005_1.png"
+    "image": "./image/product/automation/touch_switches/04_003_005/04_003_005.jpeg"
   },
   "04_003_006": {
     "model": "SKU:TP2WB",
@@ -431,7 +431,7 @@
     "short_title": "Smart 2-Way Switch",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_003_006/04_003_006_1.png"
+    "image": "./image/product/automation/touch_switches/04_003_006/04_003_006.jpeg"
   },
   "04_003_007": {
     "model": "SKU:TPDMB",
@@ -448,7 +448,7 @@
     "short_title": "Smart Dimmer Switch",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_003_007/04_003_007_1.png"
+    "image": "./image/product/automation/touch_switches/04_003_007/04_003_007.jpeg"
   },
   "04_003_008": {
     "model": "SKU:N_A",
@@ -467,7 +467,7 @@
     "short_title": "Smart Curtain Switch",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_003_008/04_003_008_1.png"
+    "image": "./image/product/automation/touch_switches/04_003_008/04_003_008.jpeg"
   },
   "04_003_009": {
     "model": "SKU:TPDBB",
@@ -483,7 +483,7 @@
     "short_title": "DoorBell Touch Smart",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_003_009/04_003_009_1.png"
+    "image": "./image/product/automation/touch_switches/04_003_009/04_003_009.jpeg"
   },
   "04_004_001": {
     "model": "SKU:HMSSB",
@@ -500,7 +500,7 @@
     "short_title": "Smart Door Sensor",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_004_001/04_004_001_1.png"
+    "image": "./image/product/automation/security/04_004_001/04_004_001.jpeg"
   },
   "04_004_002": {
     "model": "SKU:HMMSS",
@@ -517,7 +517,7 @@
     "short_title": "Smart Motion Sensor",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_004_002/04_004_002_1.png"
+    "image": "./image/product/automation/security/04_004_002/04_004_002.jpeg"
   },
   "04_004_003": {
     "model": "Security_Siren_Alarm",
@@ -534,7 +534,7 @@
     "short_title": "Security Siren Alarm",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_004_003/04_004_003_1.png"
+    "image": "./image/product/automation/security/04_004_003/04_004_003.jpeg"
   },
   "04_004_004": {
     "model": "Indoor_PTZ_Camera",
@@ -551,7 +551,7 @@
     "short_title": "Indoor PTZ Camera",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_004_004/04_004_004_1.png"
+    "image": "./image/product/automation/security/04_004_004/04_004_004.jpeg"
   },
   "04_004_005": {
     "model": "Smart_Outdoor_Camera",
@@ -569,7 +569,7 @@
     "short_title": "Smart Outdoor Camera",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_004_005/04_004_005_1.png"
+    "image": "./image/product/automation/security/04_004_005/04_004_005.jpeg"
   },
   "04_004_006": {
     "model": "Smart_Lock",
@@ -591,7 +591,7 @@
     "short_title": "Smart Lock",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_004_006/04_004_006_1.png"
+    "image": "./image/product/automation/security/04_004_006/04_004_006.jpeg"
   },
   "04_004_007": {
     "model": "Smart_LCD_Door_Lock",
@@ -610,7 +610,7 @@
     "short_title": "Smart LCD Door",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_004_007/04_004_007_1.png"
+    "image": "./image/product/automation/security/04_004_007/04_004_007.jpeg"
   },
   "04_004_008": {
     "model": "Smart_Door_Lock",
@@ -628,7 +628,7 @@
     "short_title": "Smart Door Lock",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_004_008/04_004_008_1.png"
+    "image": "./image/product/automation/security/04_004_008/04_004_008.jpeg"
   },
   "04_004_009": {
     "model": "Smart_Glass_Door_Lock",
@@ -646,7 +646,7 @@
     "short_title": "Smart Glass Door",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_004_009/04_004_009_1.png"
+    "image": "./image/product/automation/security/04_004_009/04_004_009.jpeg"
   },
   "04_004_010": {
     "model": "Smart_Biometric_Cabinet_Lock",
@@ -661,6 +661,6 @@
     "short_title": "Smart Biometric Cabinet",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/04_004_0010/04_004_0010_1.png"
+    "image": "./image/product/automation/security/04_004_010/04_004_010.jpeg"
   }
 }
