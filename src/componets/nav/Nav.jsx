@@ -49,14 +49,6 @@ function NavBar() {
                 <NavDropdown.Item as={Link} to="/solar">Solar Solutions</NavDropdown.Item>
                 <NavDropdown.Item as={Link} to="/bms">BMS</NavDropdown.Item>
                 <NavDropdown.Item as={Link} to="/smart-bench">Smart Bench</NavDropdown.Item>
-              <Nav.Link className="text-light" as={Link} to="/">Home</Nav.Link>
-              <NavDropdown title={<span className="product_button_color">Products</span>} id="basic-nav-dropdown">
-                <NavDropdown.Item className="nav_button" as={Link} to="/light">Light</NavDropdown.Item>
-                <NavDropdown.Item className="nav_button" as={Link} to="/cctv">CCTV</NavDropdown.Item>
-                <NavDropdown.Item className="nav_button" as={Link} to="/automation">Home Autotmation</NavDropdown.Item>
-                <NavDropdown.Item className="nav_button" as={Link} to="/solar">Solar Solutions</NavDropdown.Item>
-                <NavDropdown.Item className="nav_button" as={Link} to="/bms">BMS</NavDropdown.Item>
-                <NavDropdown.Item className="nav_button" as={Link} to="/smart-bench">Smart Bench</NavDropdown.Item>
               </NavDropdown>
               {/* About and Contact scroll links */}
               <Nav.Link className="text-white cursor-pointer" onClick={() => handleNavigation('about')}>About us</Nav.Link>
