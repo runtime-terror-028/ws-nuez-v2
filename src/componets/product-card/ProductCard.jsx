@@ -4,7 +4,7 @@ import { useState } from 'react';
 import Button from 'react-bootstrap/Button';
 import Modal from 'react-bootstrap/Modal';
 
-import "./Product-card.css";
+import "./ProductCard.css";
 
 const CARD_SIZE = "200px";
 
@@ -13,8 +13,8 @@ function ProductCard({ title, image, short_description, long_description, produc
   const handleClose = () => setShow(false);
   const handleShow = () => setShow(true);
 
-  // Convert product_spec array into key-value pairs
-  const specifications = product_spec.map(spec => {
+  // Ensure product_spec is defined and is an array
+  const specifications = (product_spec || []).map(spec => {
     const [item, value] = spec.split(/:(.+)/); // Split each spec into key and value
     return { item: item.trim(), value: value.trim() }; // Trim whitespace
   });
@@ -32,19 +32,20 @@ function ProductCard({ title, image, short_description, long_description, produc
         <Modal.Header closeButton>
           <Modal.Title className="w-100 text-center">{title}</Modal.Title>
         </Modal.Header>
-        <Modal.Body className='d-flex flex-column flex-md-row align-item-center'>
+        <Modal.Body className='d-flex flex-column flex-md-row align-items-center'>
           <div className="Modal_body_image">
-            <img src={image} alt="Product Image" />
+            <img src={image} alt="Product" />
           </div>
           <div className="Modal_body_text">
-            {/* Render short and long descriptions if they exist */}
+            {/* Render short description if it exists */}
             {short_description && (
               <div className="short_description mb-3">
                 <p>{short_description}</p>
               </div>
             )}
 
-            {long_description && long_description.length > 0 && (
+            {/* Render long description if it exists and is an array */}
+            {Array.isArray(long_description) && long_description.length > 0 && (
               <div className="long_description mb-3">
                 <ul>
                   {long_description.map((desc, index) => (

@@ -8,7 +8,7 @@ import "./Nav.css"
 function NavBar() {
   return (
     <>
-      <Navbar sticky={'top'} expand="lg" className="nav">
+      <Navbar sticky={'top'} expand="lg" className="main_nav">
         <Container>
           <Navbar.Brand as={Link} to="/">
             <img
