@@ -13,7 +13,7 @@ export default function App() {
       <Routes>
         <Route path="/" element={<Nav />}>
           <Route index element={<Home />} />
-          <Route path="/product/:categoryID" element={<ProductPage />} />
+          <Route path="/:categoryID" element={<ProductPage />} />
           <Route path="*" element={<NoPage />} />
         </Route>
       </Routes>
@@ -22,4 +22,4 @@ export default function App() {
 }
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(<App />);
+root.render(<App />);   

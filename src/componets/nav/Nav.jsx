@@ -23,10 +23,10 @@ function NavBar() {
             <Nav className="ms-auto nav_text_1">
               <Nav.Link className="text-light" as={Link} to="/">Home</Nav.Link>
               <NavDropdown title={<span className="text-white">Products</span>} id="basic-nav-dropdown">
-                <NavDropdown.Item as={Link} to="/product/light">Light</NavDropdown.Item>
-                <NavDropdown.Item as={Link} to="/product/cctv">CCTV</NavDropdown.Item>
-                <NavDropdown.Item as={Link} to="/product/automaton">Home Autotmation</NavDropdown.Item>
-                <NavDropdown.Item as={Link} to="/product/solar">Solar Solutions</NavDropdown.Item>
+                <NavDropdown.Item as={Link} to="/light">Light</NavDropdown.Item>
+                <NavDropdown.Item as={Link} to="/cctv">CCTV</NavDropdown.Item>
+                <NavDropdown.Item as={Link} to="/automation">Home Autotmation</NavDropdown.Item>
+                <NavDropdown.Item as={Link} to="/solar">Solar Solutions</NavDropdown.Item>
                 <NavDropdown.Item as={Link} to="/bms">BMS</NavDropdown.Item>
                 <NavDropdown.Item as={Link} to="/smart-bench">Smart Bench</NavDropdown.Item>
               </NavDropdown>
