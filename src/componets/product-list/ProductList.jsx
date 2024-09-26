@@ -22,11 +22,11 @@ const loadJsonData = async (category_id) => {
         ProductData: await import('../../data/automation/product.json'),
         CategoryData: await import('../../data/automation/sub-category.json'),
       };
-    case 'solar':
-      return {
-        ProductData: await import('../../data/solar/product.json'),
-        CategoryData: await import('../../data/solar/sub-category.json'),
-      };
+    // case 'solar':
+    //   return {
+    //     ProductData: await import('../../data/solar/product.json'),
+    //     CategoryData: await import('../../data/solar/sub-category.json'),
+    //   };
     default:
       return {};
   }

@@ -1,0 +1,666 @@
+{
+  "04_001_001": {
+    "model": "SKU:RGBW9W",
+    "short_description": "The Smart RGB+CCT LED Bulb (SKU: RGBW9W) offers customizable color and color temperature, enhancing your lighting experience with vibrant hues and adjustable white tones.",
+    "long_description": [
+      "16 Million of colors with pre-defined modes.",
+      "Easy sharing with family and friend.",
+      "Music Sync function.",
+      "Timers and schedules function.",
+      "Control light from anywhere in the world using HomeMate Smart App.",
+      "Voice control through Amazon Alexa, Google Assistant & Siri shortcuts compatible."
+    ],
+    "long_title": "Smart RGB+CCT LED Bulb",
+    "short_title": "Smart RGB+CCT LED",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_001_001/04_001_001_1.png"
+  },
+  "04_001_002": {
+    "model": "SKU:N/A",
+    "short_description": "The Smart CCT Bulb offers adjustable color temperature and brightness control via a smartphone app, making it ideal for personalized lighting in any room. Model: SKU/A",
+    "long_description": [
+      "Adjustable color temperature from Warm to Cool and more.",
+      "Easy sharing with family and friend.",
+      "Timers and schedules function.",
+      "Control light from anywhere in the world using HomeMate Smart App.",
+      "Voice control through Amazon Alexa, Google Assistant & Siri shortcuts compatible."
+    ],
+    "long_title": "Smart CCT Bulb",
+    "short_title": "Smart CCT Bulb",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_001_002/04_001_002_1.png"
+  },
+  "04_001_003": {
+    "model": "SKU:N/A",
+    "short_description": "A versatile round smart CCT downlight offering adjustable color temperatures, suitable for various lighting needs. Ideal for modern interiors, it blends seamlessly with any decor. Model: SKU/A",
+    "long_description": [
+      "Adjustable color temperature from Warm to Cool and more.",
+      "Easy sharing with family and friend.",
+      "Timers and schedules function.",
+      "Control light from anywhere in the world using HomeMate Smart App.",
+      "Voice control through Amazon Alexa, Google Assistant & Siri shortcuts compatible."
+    ],
+    "long_title": "Smart CCT Downlight-Round",
+    "short_title": "Smart CCT Downlight-Round",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_001_003/04_001_003_1.png"
+  },
+  "04_001_004": {
+    "model": "SKU:N/A",
+    "short_description": "Smart CCT Downlight-Square offers customizable color temperature control. Modern, energy-efficient lighting solution, perfect for any space. Model: SKU:N/A.",
+    "long_description": [
+      "Adjustable color temperature from Warm to Cool and more.",
+      "Easy sharing with family and friend.",
+      "Timers and schedules function.",
+      "Control light from anywhere in the world using HomeMate Smart App.",
+      "Voice control through Amazon Alexa, Google Assistant & Siri shortcuts compatible.",
+      "15W Smart Downlight come with 1 Year replacement warranty."
+    ],
+    "long_title": "Smart CCT Downlight-Square",
+    "short_title": "Smart CCT Downlight-Square",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_001_004/04_001_004_1.png"
+  },
+  "04_001_005": {
+    "model": "SKU:RGBW15WDL",
+    "short_description": "A versatile WiFi Smart RGB+CCT LED Downlight, model SKU, offering customizable color and temperature settings for dynamic lighting control via smartphone or voice assistants.",
+    "long_description": [
+      "16 Million of colors with pre-defined modes.",
+      "Easy sharing with family and friend.",
+      "Music Sync function.",
+      "Timers and schedules function.",
+      "Control light from anywhere in the world using HomeMate Smart App.",
+      "Voice control through Amazon Alexa, Google Assistant & Siri shortcuts compatible."
+    ],
+    "long_title": " Wifi Smart RGB+CCT LED Downlight",
+    "short_title": "Wifi Smart",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_001_005/04_001_005_1.png"
+  },
+  "04_001_006": {
+    "model": "SKU:RGBW9W-1",
+    "short_description": "WiFi Smart LED Surface Light offers customizable RGBW lighting with app control, enabling dynamic ambiance settings and energy-efficient illumination for any room.",
+    "long_description": [
+      "16 Million of colors with pre-defined modes.",
+      "Easy sharing with family and friend.",
+      "Music Sync function.",
+      "Timers and schedules function.",
+      "Control light from anywhere in the world using HomeMate Smart App.",
+      "Voice control through Amazon Alexa, Google Assistant & Siri shortcuts compatible."
+    ],
+    "long_title": "WiFi Smart LED Surface Light",
+    "short_title": "WiFi Smart LED",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_001_006/04_001_006_1.png"
+  },
+  "04_001_007": {
+    "model": "SKU:HMCOB12",
+    "short_description": "SMART CCT LED COB Light, Model: SKU:HMCOB12 Versatile and energy-efficient lighting solution with adjustable color temperature, ideal for enhancing ambiance in any space.",
+    "long_description": [
+      "Adjustable color temperature from Warm to Cool White and more.",
+      "Easy sharing with family and friend.",
+      "Timers and schedules function.",
+      "Control light from anywhere in the world using HomeMate Smart App.",
+      "Voice control through Amazon Alexa, Google Assistant & Siri shortcuts compatible.",
+      "This Smart CCT COB Light come with 1Year replacement warranty."
+    ],
+    "long_title": "SMART CCT LED COB Light",
+    "short_title": "SMART CCT LED",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_001_007/04_001_007_1.png"
+  },
+  "04_001_008": {
+    "model": "SKU:HMRGB5M",
+    "short_description": "The Wi-Fi RGB LED Kit (SKU: HMRGB5M) offers vibrant, customizable lighting controlled via Wi-Fi. Perfect for ambient lighting, it's ideal for modern smart homes and creative setups.",
+    "long_description": [
+      "16 Million of colors with pre-defined modes.",
+      "Easy sharing with family and friend.",
+      " Smart LED Strip has Music Sync function.",
+      "Timers and schedules function.",
+      "Control light from anywhere in the world using HomeMate Smart App.",
+      "Voice control through Amazon Alexa, Google Assistant & Siri shortcuts compatible."
+    ],
+    "long_title": "Wi-Fi RGB LED KIT",
+    "short_title": "Wi-Fi RGB LED",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_001_008/04_001_008_1.png"
+  },
+  "04_001_009": {
+    "model": "SKU:HMRGB5M-2-1",
+    "short_description": "A versatile Smart LED Strip with tunable white color temperature (CCT). Model SKU: HMRGB5M-2-1, ideal for customizable lighting in any space.",
+    "long_description": [
+      "Adjustable color temperature from Warm to Cool White and more.",
+      "Easy sharing with family and friend.",
+      "Timers and schedules function.",
+      "Control light from anywhere in the world using HomeMate Smart App.",
+      "Voice control through Amazon Alexa, Google Assistant & Siri shortcuts compatible."
+    ],
+    "long_title": "Smart LED Strip Tunable White(CCT)",
+    "short_title": "Smart LED Strip",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_001_009/04_001_009_1.png"
+  },
+  "04_001_010": {
+    "model": "SKU:HMRGB5M-2",
+    "short_description": "The Wi-Fi+BLE RGBIC Dreamcolor LED Kit (SKU) offers customizable, vibrant lighting with both Wi-Fi and Bluetooth control, perfect for enhancing any space with dynamic colors.",
+    "long_description": [
+      "RGBIC Dreamcolor LED Kit comes with 16 Million color effects.",
+      "This strip light has segmented control so you can easily select different color of different segments.",
+      "This strip light has voice control function. You can easily control strip light using Alexa, Google Assistant and more.",
+      "You can enjoy lights on beat with music sync function.",
+      "You can control this strip light from anywhere using HomeMate Smart App.",
+      "It has may other features such as Timer Mode, Remotely control, predefined scenes, sharing with family, group device and many more."
+    ],
+    "long_title": "Wi-Fi+BLE RGBIC Dreamcolor LED Kit",
+    "short_title": "Wi-Fi+BLE RGBIC Dreamcolor",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_001_0010/04_001_010_1.png"
+  },
+  "04_002_001": {
+    "model": "SKU:HMPLUG",
+    "short_description": "Smart Plug Socket-10A (SKU: HMPLUG) offers convenient control of your devices with easy smart features and a 10A capacity. Perfect for automating and managing home electronics effortlessly. ",
+    "long_description": [
+      "Easy to install, portable and suitable for any home Electronics or appliances such as lamps, Lighting, coffee maker, etc.",
+      "Voice control through Amazon Alexa, Google Assistant & Siri shortcuts compatible.",
+      "Monitor the energy consumption of all your appliances connection with HomeMate smart plug.",
+      "Control all your appliances connected with HomeMate Smart Plug from anywhere in the world using HomeMate Smart App.",
+      "It features multiple safety protections such as fireproof resistance, UV- resistance, overload protection, surge protection, short circuit protection which is safe to use.",
+      "HomeMate product is designed, developed and proudly MADE IN INDIA."
+    ],
+    "long_title": "Smart Plug Socket-10A",
+    "short_title": "Smart Plug Socket-10A",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_002_001/04_002_001_1.png"
+  },
+  "04_002_002": {
+    "model": "SKU:HMLPG16",
+    "short_description": "The Smart Heavy Duty Plug Socket-16A (Model SKU:HMLPG16) is a robust, high-capacity socket designed for heavy-duty use, offering reliability and advanced smart features for enhanced control.",
+    "long_description": [
+      "Easy to install, portable and suitable for heavy duty appliances like geyser, room heater, microwave, refrigerator, etc.",
+      "Voice control through Amazon Alexa, Google Assistant & Siri shortcuts compatible.",
+      "Monitor the energy consumption of all your appliances connection with HomeMate smart plug.",
+      "Control all your appliances connected with HomeMate Smart Plug from anywhere in the world using HomeMate Smart App.",
+      "It features multiple safety protections such as fireproof resistance, UV- resistance, overload protection, surge protection, short circuit protection which is safe to use.",
+      "HomeMate product is designed, developed and proudly MADE IN INDIA."
+    ],
+    "long_title": "Smart Heavy Duty Plug Socket-16A",
+    "short_title": "Smart Heavy Duty",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_002_002/04_002_002_1.png"
+  },
+  "04_002_003": {
+    "model": "SKU:1NODE",
+    "short_description": "The Smart 1 Node (SKU: 1NODE) is an advanced, single-node device designed for efficient, scalable performance in data management and networking applications. Ideal for streamlined operations. ",
+    "long_description": [
+      "This WiFi 1-Node Smart Switch can be easily installed, No additional wiring required and compatible with exiting manual switches.",
+      "Control all your heavy appliances such as Geyser, Room Heater, Large oven etc. in smart way with HomeMate 1-Node Smart Switch.",
+      "Voice control through Amazon Alexa, Google Assistant & Siri shortcuts compatible.",
+      "Control all your appliances connected from anywhere in the world using HomeMate Smart App.",
+      "HomeMate product is designed, developed and proudly MADE IN INDIA."
+    ],
+    "long_title": "Smart 1 Node",
+    "short_title": "Smart 1 Node",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_002_003/04_002_003_1.png"
+  },
+  "04_002_004": {
+    "model": "SKU:2NODE",
+    "short_description": "Smart 2 Node SKU:2NODE is a cutting-edge dual-node system designed for efficient performance and scalability, perfect for high-demand computing environments and advanced applications.",
+    "long_description": [
+      "This WiFi 2-Node Smart Switch can be easily installed, No additional wiring required and compatible with exiting manual switches.",
+      "Control all your heavy appliances such as Geyser, Room Heater, Large oven etc. in smart way with HomeMate 2-Node Smart Switch.",
+      "Voice control through Amazon Alexa, Google Assistant & Siri shortcuts compatible.",
+      "Control all your appliances connected from anywhere in the world using HomeMate Smart App.",
+      "HomeMate product is designed, developed and proudly MADE IN INDIA."
+    ],
+    "long_title": "Smart 2 Node",
+    "short_title": "Smart 2 Node",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_002_004/04_002_004_1.png"
+  },
+  "04_002_005": {
+    "model": "SKU:4NODE",
+    "short_description": "The Smart 4 Node (SKU:4NODE) is a cutting-edge multi-node system designed for seamless integration and enhanced performance in advanced computing environments. Ideal for efficient and scalable operations. ",
+    "long_description": [
+      "This WiFi 4-Node Smart Switch can be easily installed, No additional wiring required and compatible with exiting manual switches.",
+      "Control all your small appliances such as Coffee maker, Air purifier, Lamps, Electric kettle etc. in smart way with HomeMate 4-Node Smart Switch.",
+      "Voice control through Amazon Alexa, Google Assistant & Siri shortcuts compatible.",
+      "Control all your appliances connected from anywhere in the world using HomeMate Smart App.",
+      "HomeMate product is designed, developed and proudly MADE IN INDIA."
+    ],
+    "long_title": "Smart 4 Node",
+    "short_title": "Smart 4 Node",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_002_005/04_002_005_1.png"
+  },
+  "04_002_006": {
+    "model": "SKU:2NODE-1",
+    "short_description": "The Smart 3+1 Node (Model: SKU:2NODE-1) is an advanced, multi-functional device designed to enhance connectivity and performance in your tech setup with intuitive features and seamless integration. ",
+    "long_description": [
+      "This WiFi+BLE 3+1 Fan In-Wall Node Smart Switch can be easily installed, No additional wiring required and compatible with exiting manual switches.",
+      "This smart retrofit module can control 3 Switches and 1 Fan switch with speed control.",
+      "Voice control through Amazon Alexa, Google Assistant & Siri shortcuts compatible.",
+      "Control all your appliances connected from anywhere in the world using HomeMate Smart App.",
+      "HomeMate product is designed, developed and proudly MADE IN INDIA."
+    ],
+    "long_title": "Smart 3+1 Node",
+    "short_title": "Smart 3+1 Node",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_002_006/04_002_006_1.png"
+  },
+  "04_002_007": {
+    "model": "SKU:2NODE-2",
+    "short_description": "Smart Curtain Node (SKU:2NODE-2) offers seamless control of your curtains through advanced automation, enhancing convenience and energy efficiency with easy integration into smart home systems.",
+    "long_description": [
+      "This WiFi Curtain Smart Switch can be easily installed with 4 wire motor.",
+      "Using this smart curtain switch you can easily control your curtain with smartphone.",
+      "Voice control through Amazon Alexa, Google Assistant & Siri shortcuts compatible.",
+      "This switch has timing schedules funciton which enables you to set the time to Open / Close the curtain anytime.",
+      "HomeMate product is designed, developed and proudly MADE IN INDIA."
+    ],
+    "long_title": "Smart Curtain Node",
+    "short_title": "Smart Curtain Node",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_002_007/04_002_007_1.png"
+  },
+  "04_002_008": {
+    "model": "SKU:HMDMR",
+    "short_description": "Smart Dimmer Node (SKU:HMDMR): A versatile, user-friendly dimmer switch that adjusts lighting intensity with ease, enhancing comfort and energy efficiency in any smart home setup.",
+    "long_description": [
+      "This Smart Dimmer Switch can be easily installed. No additional wiring required and compatible with exiting manual switches.",
+      "This dimmer smart switch can be used to dim the light to create perfect ambiance.",
+      "Voice control through Amazon Alexa, Google Assistant & Siri shortcuts compatible.",
+      "This switch has timing schedules funciton which enables you to set the time to dim the light anytime."
+    ],
+    "long_title": "Smart Dimmer Node",
+    "short_title": "Smart Dimmer Node",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_002_008/04_002_008_1.png"
+  },
+  "04_002_009": {
+    "model": "SKU:SB10",
+    "short_description": "The Smart Switch Breaker (SKU:SB10) is an advanced electrical breaker that combines intelligent circuit protection with smart technology, offering real-time monitoring and control for enhanced safety and convenience. ",
+    "long_description": [
+      "This Smart Switch Breaker can be easily installed.",
+      "It enables users to control all the connected appliances using HomeMate Smart App.",
+      "Voice control through Amazon Alexa, Google Assistant & Siri shortcuts compatible.",
+      "HomeMate product is designed, developed and proudly MADE IN INDIA."
+    ],
+    "long_title": "Smart Switch Breaker",
+    "short_title": "Smart Switch Breaker",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_002_009/04_002_009_1.png"
+  },
+  "04_002_010": {
+    "model": "SKU:HMPS10A",
+    "short_description": " The 4 Sockets Extension (SKU: HMPS10A) is a versatile power strip offering four outlets for convenient, safe, and efficient power distribution in any workspace or home setting.",
+    "long_description": [
+      "Easy to install, portable and suitable for Laptop charging, Bluetooth Speakers, TV, Wi-Fi Router, Mobile Charging and many more appliances.",
+      "Voice control through Amazon Alexa, Google Assistant & Siri shortcuts compatible.",
+      "You can control each power outlet independently of this Smart Power Extension using HomeMate Smart App.",
+      "It allows Sharing (Multi-person control of one device) and Grouping (multiple devices can be grouped).",
+      "Monitor the energy consumption of all your appliances connection with HomeMate Smart Extension.",
+      "You can control this Smart Extension from anywhere in the world using HomeMate Smart App.",
+      "HomeMate product is designed, developed and proudly MADE IN INDIA."
+    ],
+    "long_title": "4 Sockets Extension",
+    "short_title": "4 Sockets Extension",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_002_010/04_002_010_1.png"
+  },
+  "04_003_001": {
+    "model": "SKU:HMT014",
+    "short_description": " The Smart Control Panel (SKU:HMT014) is a cutting-edge interface designed for seamless management of connected devices, featuring intuitive controls and real-time feedback for enhanced user experience.",
+    "long_description": [
+      "Compatible with a wide range of smart home devices, including lights, thermostats, security cameras, smart locks, and more. ",
+      "It has inbuilt Alexa so you can control your device using voice command.",
+      "Enhance home security with built-in features like real-time camera monitoring, door/window sensor integration, and smart lock control directly from the touch panel.",
+      "The user interface is designed to be user-friendly. You can also setup different different scene according to your mood.",
+      "The ZigBee and BT function technology ensures you have the latest and greatest in smart home control."
+    ],
+    "long_title": "Smart Control Panel",
+    "short_title": "Smart Control Panel",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_003_001/04_003_001_1.png"
+  },
+  "04_003_002": {
+    "model": "SKU:TP4B",
+    "short_description": " The Smart 4 Gang Switch (Model: SKU:TP4B) allows you to control four electrical devices independently via a sleek, modern interface, integrating seamlessly with smart home systems for convenience and efficiency.",
+    "long_description": [
+      "This 4 Gang Touch Switch can be easily installed, No additional wiring required.",
+      "Dual colored LED indication makes it easy to know the switch state and its backlight LED help you to locate switch in darkness.",
+      "Thin design and capacitive touch of switch gives more comfort, No need to press heavily, just touch lightly and turn On/Off electric appliances.",
+      "Control all your small appliances such as Coffee maker, Air purifier, Lamps, Electric kettle etc. in smart way with HomeMate 4 Gang Touch Switch..",
+      "Voice control through Amazon Alexa, Google Assistant & Siri shortcuts compatible.",
+      "With the help of HomeMate Smart App you can control the switch and connected appliances from anywhere.",
+      "HomeMate product is designed, developed and proudly MADE IN INDIA."
+    ],
+    "long_title": "Smart 4 Gang Switch",
+    "short_title": "Smart 4 Gang",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_003_002/04_003_002_1.png"
+  },
+  "04_003_003": {
+    "model": "SKU:TP4B-1",
+    "short_description": "Smart 2 Gang Switch (Model: SKU:TP4B-1) offers seamless control with two programmable switches, enhancing convenience and automation for modern homes. Easy installation and compatibility with smart systems.",
+    "long_description": [
+      "This 2 Gang Touch Switch can be easily installed, No additional wiring required.",
+      "Dual colored LED indication makes it easy to know the switch state and its backlight LED help you to locate switch in darkness.",
+      "Thin design and capacitive touch of switch gives more comfort, No need to press heavily, just touch lightly and turn On/Off electric appliances.",
+      "Control all your small appliances such as Coffee maker, Air purifier, Lamps, Electric kettle etc. in smart way with HomeMate 2 Gang Touch Switch..",
+      "Voice control through Amazon Alexa, Google Assistant & Siri shortcuts compatible.",
+      "With the help of HomeMate Smart App you can control the switch and connected appliances from anywhere.",
+      "HomeMate product is designed, developed and proudly MADE IN INDIA."
+    ],
+    "long_title": "Smart 2 Gang Switch",
+    "short_title": "Smart 2 Gang",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_003_003/04_003_003_1.png"
+  },
+  "04_003_004": {
+    "model": "SKU:TP24",
+    "short_description": "Smart 1 Gang Switch (SKU: TP24) offers modern, intuitive control with a single gang design, allowing seamless operation and integration into smart home systems for enhanced convenience and efficiency. ",
+    "long_description": [
+      "This 24 Amp Touch Switch can be easily installed, No additional wiring required.",
+      "Dual colored LED indication makes it easy to know the switch state and its backlight LED help you to locate switch in darkness.",
+      "Thin design and capacitive touch of switch gives more comfort, No need to press heavily, just touch lightly and turn On/Off electric appliances.",
+      "Control all  heavy duty appliances such as Air Conditioners, Geyser,Heater etc Electric kettle etc.",
+      "Voice control through Amazon Alexa, Google Assistant & Siri shortcuts compatible.",
+      "With the help of HomeMate Smart App you can control the switch and connected appliances from anywhere.",
+      "HomeMate product is designed, developed and proudly MADE IN INDIA."
+    ],
+    "long_title": "Smart 1 Gang Switch",
+    "short_title": "Smart 1 Gang",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_003_004/04_003_004_1.png"
+  },
+  "04_003_005": {
+    "model": "SKU:TPFTPB",
+    "short_description": "Smart Fan Regulator (Model SKU:TPFTPB) offers precise fan speed control with advanced features, enhancing comfort and energy efficiency for modern living spaces.",
+    "long_description": [
+      "This Smart Fan Regulator Touch Switch can be easily installed, No additional wiring required.",
+      "Dual colored LED indication makes it easy to know the switch state and its backlight LED help you to locate switch in darkness.",
+      "Thin design and capacitive touch of switch gives more comfort, No need to press heavily, just touch lightly and turn On/Off electric appliances.",
+      "You can control fan speed and turn On/Off your Fan using with the help of Smartphone.",
+      "Voice control through Amazon Alexa, Google Assistant & Siri shortcuts compatible.",
+      "With the help of HomeMate Smart App you can control the switch and connected appliances from anywhere.",
+      "HomeMate product is designed, developed and proudly MADE IN INDIA."
+    ],
+    "long_title": "Smart Fan Regulator",
+    "short_title": "Smart Fan Regulator",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_003_005/04_003_005_1.png"
+  },
+  "04_003_006": {
+    "model": "SKU:TP2WB",
+    "short_description": "Smart 2-Way Switch (SKU: TP2WB) offers convenient control of lighting from two locations. Enhance your home’s automation with seamless integration and remote access features.",
+    "long_description": [
+      "Two-Way touch switch let you control 2 same device from two switches.",
+      "This Smart Fan Regulator Touch Switch can be easily installed, No additional wiring required.",
+      "Thin design and capacitive touch of switch gives more comfort, No need to press heavily, just touch lightly and turn On/Off electric appliances.",
+      "Voice control through Amazon Alexa, Google Assistant & Siri shortcuts compatible.",
+      "With the help of HomeMate Smart App you can control the switch and connected appliances from anywhere.",
+      "HomeMate product is designed, developed and proudly MADE IN INDIA."
+    ],
+    "long_title": "Smart 2-Way Switch",
+    "short_title": "Smart 2-Way Switch",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_003_006/04_003_006_1.png"
+  },
+  "04_003_007": {
+    "model": "SKU:TPDMB",
+    "short_description": "Smart Dimmer Switch (SKU: TPDMB) offers seamless lighting control with adjustable brightness and remote access. Enhance your home's ambiance with easy installation and intuitive smartphone integration.",
+    "long_description": [
+      "Dimmer smart touch switch is compatible with dimmable LED driver LEDs.",
+      "You can control the dimming of LED from 0% to 100% using Switch/ Homemate Smart App/ Voice Assistant.",
+      "Thin design and capacitive touch of switch gives more comfort, No need to press heavily, just touch lightly and turn On/Off electric appliances.",
+      "Voice control through Amazon Alexa, Google Assistant & Siri shortcuts compatible.",
+      "With the help of HomeMate Smart App you can control the switch and connected appliances from anywhere.",
+      "HomeMate product is designed, developed and proudly MADE IN INDIA."
+    ],
+    "long_title": "Smart Dimmer Switch",
+    "short_title": "Smart Dimmer Switch",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_003_007/04_003_007_1.png"
+  },
+  "04_003_008": {
+    "model": "SKU:N_A",
+    "short_description": "Smart Curtain Switch: Effortlessly control your curtains with this sleek, intuitive switch. Ideal for modern homes, it offers easy installation and seamless integration with smart home systems.",
+    "long_description": [
+      "This WiFi Smart Curtain Touch Switch can be easily installed, No additional wiring required.",
+      "This WiFi Curtain Switch can work with smart curtains. Curtains can be easily controlled with phone and voice assistant.",
+      "This curtain touch switch supports maximum power of 600W that can work with most WT curtain motors (4 Wire)",
+      "Dual colored LED indication makes it easy to know the switch state and its backlight LED help you to locate switch in darkness.",
+      "Thin design and capacitive touch of switch gives more comfort, No need to press heavily, just touch lightly and turn On/Off electric appliances.",
+      "Voice control through Amazon Alexa, Google Assistant & Siri shortcuts compatible.",
+      "With the help of HomeMate Smart App you can control the switch and connected appliances from anywhere.",
+      "HomeMate product is designed, developed and proudly MADE IN INDIA."
+    ],
+    "long_title": "Smart Curtain Switch",
+    "short_title": "Smart Curtain Switch",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_003_008/04_003_008_1.png"
+  },
+  "04_003_009": {
+    "model": "SKU:TPDBB",
+    "short_description": " The DoorBell Touch Smart (Model SKU:TPDBB) is a sleek, modern doorbell featuring touch controls, a high-resolution camera, and smart connectivity for effortless home security and convenience.",
+    "long_description": [
+      "This DoorBell Touch Switch Fits in Anchor Roma Classic and similar plates.",
+      "Easily set up the HomeMate NON Smart Touch Switch Bell in minutes, with no complex wiring required.",
+      "Replace outdated and clunky doorbells with this sleek touch switch bell, embracing the future of home automation and improving the functionality of your home.",
+      "Thin design and capacitive touch of switch gives more comfort, No need to press heavily, just touch lightly and turn On/Off electric appliances.",
+      "HomeMate product is designed, developed and proudly MADE IN INDIA."
+    ],
+    "long_title": "DoorBell Touch Smart",
+    "short_title": "DoorBell Touch Smart",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_003_009/04_003_009_1.png"
+  },
+  "04_004_001": {
+    "model": "SKU:HMSSB",
+    "short_description": "Smart Door Sensor (Model: SKU:HMSSB) enhances security with real-time alerts and remote monitoring. Ideal for home automation, it notifies you of door status changes instantly.",
+    "long_description": [
+      "HomeMate product is designed, developed and proudly MADE IN INDIA.",
+      "Use on your Doors, Window, Cabinets, Drawers or anywhere you want to notified when it is opened or closed. It catch every activity and send notification to your phone.",
+      "Get a Push Notification if Door or Window is opened.",
+      "Very Easy installation with flexible mounting option.",
+      "Compatible with all other HomeMate devices.",
+      "Its size is 71*21*22mm / 40*11*11mm and have the 2 Years standby time."
+    ],
+    "long_title": "Smart Door Sensor",
+    "short_title": "Smart Door Sensor",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_004_001/04_004_001_1.png"
+  },
+  "04_004_002": {
+    "model": "SKU:HMMSS",
+    "short_description": "Smart Motion Sensor (SKU:HMMSS):Enhance security with this intelligent motion sensor, offering precise detection and real-time alerts. Ideal for home and office use, it ensures safety and efficiency. ",
+    "long_description": [
+      "Detect the status of your indoor or outdoor motion activity with HomeMate Motion Sensor.",
+      "A built-in adapter keeps track any area that you want to monitor with.",
+      "HomeMate smart sensor small, sleek and compact design make this smart sensor simple and convenient to install.",
+      "Compatible with all other HomeMate device.",
+      "You easily get notification on your phone with the help of HomeMate Smart App.",
+      "It is battery operated, connected to WiFI, No hub required."
+    ],
+    "long_title": "Smart Motion Sensor",
+    "short_title": "Smart Motion Sensor",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_004_002/04_004_002_1.png"
+  },
+  "04_004_003": {
+    "model": "Security_Siren_Alarm",
+    "short_description": " The Security Siren Alarm is a high-decibel alert system designed to deter intruders and notify you of potential breaches with its loud, piercing sound. Ideal for home or business security.",
+    "long_description": [
+      "WiFi Siren Alarm powered by USB Cable, make sound and light when triggered.",
+      "You can choose multiple type of sound.",
+      "HomeMate security alarm is small, sleek and compact design.",
+      "Very Easy installation with flexible mounting option.",
+      "Compatible with all other HomeMate devices.",
+      "It can be operated with battery ( Not Included ), connected directly to WiFi, No hub required."
+    ],
+    "long_title": "Security Siren Alarm",
+    "short_title": "Security Siren Alarm",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_004_003/04_004_003_1.png"
+  },
+  "04_004_004": {
+    "model": "Indoor_PTZ_Camera",
+    "short_description": " The Indoor PTZ Camera offers high-definition video surveillance with pan, tilt, and zoom capabilities, ideal for monitoring large indoor areas with precise control and clear image quality.",
+    "long_description": [
+      "HomeMate Smart Indoor PTZ Camera gives you a colorful high-quality image in 1080p resolution day and night and combined a 110° wide lens to cover more space.",
+      "This camera comes with Night Vision features which gives more clear image even in pitch dark with distance upto 32ft.",
+      "Two Way Audio  It has fiited with Mic and Speaker which allows you to communicate remotely.",
+      "Intelligent Alert Smart detection feature givves you real time notification of action and sound while detected.",
+      "With the help of HomeMate Smart App you can easily monitor your home from anywhere.",
+      "Voice Control  This Indoor Camera work with Alexa. Just command the Alexa and camera will follow it."
+    ],
+    "long_title": "Indoor PTZ Camera",
+    "short_title": "Indoor PTZ Camera",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_004_004/04_004_004_1.png"
+  },
+  "04_004_005": {
+    "model": "Smart_Outdoor_Camera",
+    "short_description": "Smart Outdoor Camera: Keep your home secure with this high-definition, weather-resistant camera. It features motion detection, real-time alerts, and remote viewing, ensuring peace of mind 24/7.",
+    "long_description": [
+      "HomeMate Smart Indoor PTZ Camera gives you a colorful high-quality image in 1080p resolution day and night and combined a 110° wide lens to cover more space.",
+      "This camera comes with Night Vision features which gives more clear image even in pitch dark with distance upto 32ft.",
+      "Two Way Audio It has fiited with Mic and Speaker which allows you to communicate with the guest remotely.",
+      "Intelligent Alert Smart detection feature givves you real time notification of action and sound while detected.",
+      "With the help of HomeMate Smart App you can easily monitor your home from anywhere.",
+      "Weatherproof The IP65 weatherproof can be placed both indoor and outdoor. It can record FHD images even it is raining or shiny outside.",
+      "Voice Control This Indoor Camera work with Alexa. Just command the Alexa and camera will follow it."
+    ],
+    "long_title": "Smart Outdoor Camera",
+    "short_title": "Smart Outdoor Camera",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_004_005/04_004_005_1.png"
+  },
+  "04_004_006": {
+    "model": "Smart_Lock",
+    "short_description": " Smart Lock offers advanced security with keyless entry, remote access, and real-time monitoring. Conveniently control and monitor your door from anywhere using a smartphone app.",
+    "long_description": [
+      "Approved Guests can unlock using Fingerprint, HomeMate Smart App, User Password, RFID card and Mechanical key.",
+      "Lock will automatically relock after every time the door is used.",
+      "It support upto 3 master code, 100 fingerprints and 100 ID cards.",
+      "Doorbell has voice guide function for easier and more convenient use. It is suitable for 35  100mm door thickness.",
+      "With the help of HomeMate Smart App you can Monitor Access Remotely. You can view logs ( About who has opened the door, what time and how they gained access). ",
+      "You can give access using your phone with the help of HomeMate Smart App.",
+      "Equipped with emergency charging port and back up charger.",
+      "It has backlit kaypad which will automatically lights up when press any button. When you press correct code the Green light will be ON.",
+      "Made of Zinc Alloy stainless steel that durable and secure.It works prerfectly in most weather conditinos.",
+      "It has Privacy Protection And Anti-Peeping function. Add the random number before and after the correct passowrd., the dorr be unlock as long as the password are correct.",
+      "You can schedule Temporary keys for visitors and Guests."
+    ],
+    "long_title": "Smart Lock",
+    "short_title": "Smart Lock",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_004_006/04_004_006_1.png"
+  },
+  "04_004_007": {
+    "model": "Smart_LCD_Door_Lock",
+    "short_description": "The Smart LCD Door Lock combines advanced security with modern convenience, featuring a sleek LCD touchscreen for keyless entry, customizable access codes, and real-time monitoring to enhance home safety. ",
+    "long_description": [
+      "Our intelligent door  lock employs cutting-edge 3D face recognitions technology, ensuring precise identification of authorized individual for secure access.",
+      "The sophisticated biometric feature enhance security by analyzing facial features in three dimensions, guaranteeing hightened accuracy in Authentiction.",
+      "With the help of HomeMate Smart App you can Monitor Access Remotely. You can view logs ( About who has opened the door, what time and how they gained access).",
+      "Designed for the door with a thickness ranging from 35mm to 70mm., this lock is specifically ideal for wooden doors, metal doors, sliding doors or grill gates. ",
+      "It is perfectly suited for use in Houses, Hotels, Apartments and Offices.",
+      "It has many unlocking option such as Face Id (100 users), Fingerprints (100 users), App (No limit), RFID Card(2 provided)(250 users memory card + PIN), 2 Manual Keys(Provided), PIN.",
+      "RF remote control included need router around 8 Feet from lock.",
+      "HomeMate Smart Door Lock comes with 1 Year standard warranty."
+    ],
+    "long_title": "Smart LCD Door Lock",
+    "short_title": "Smart LCD Door",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_004_007/04_004_007_1.png"
+  },
+  "04_004_008": {
+    "model": "Smart_Door_Lock",
+    "short_description": "Smart Door Lock offers advanced security with keyless entry, remote access, and customizable access codes. Control and monitor your door from anywhere using your smartphone or voice commands.",
+    "long_description": [
+      "Protect your home with advanced access control features including Remote Control, Fingerprint Recognition, Password Entry, RFID Card and HomeMate Smart App Control.",
+      "With the help of HomeMate Smart App you can Monitor Access Remotely. You can view logs ( About who has opened the door, what time and how they gained access).",
+      "Lock or Unlock your door from anywhere using your smartphone using HomeMate Smart App.",
+      "Enjoy quick and reliable access with built-in Fingerprint scanner.",
+      "Set unique codes for different users, ensuring personalized security for your household.",
+      "This Smart Digital Door Lock is very easy to install and integrate into home with staright forward installation and built-in WiFi functionality.",
+      "HomeMate Smart Door Lock comes with 1 Year standard warranty."
+    ],
+    "long_title": "Smart Door Lock",
+    "short_title": "Smart Door Lock",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_004_008/04_004_008_1.png"
+  },
+  "04_004_009": {
+    "model": "Smart_Glass_Door_Lock",
+    "short_description": "Secure and modern, the Smart Glass Door Lock combines sleek design with advanced technology for keyless entry and enhanced safety, perfect for contemporary homes and offices.",
+    "long_description": [
+      "Designed for the glass door with a thickness ranging from 8-10mm, providing a secure and versatile solution.",
+      "Its adaptable design caters to both left-handed and right-handed doors, ensuring compatibilty with various door configuration.",
+      "Powered by Four AA batteries, this lock showcases an impresive battery life of 6-8 months.",
+      "It has Auto-Locking feature which ensures that the door is automatically locked once the door is closed.",
+      "With the help of HomeMate Smart App you can Monitor Access Remotely. You can view logs ( About who has opened the door, what time and how they gained access).",
+      "It is perfectly suited for use in Houses, Hotels, Apartments and Offices.",
+      "HomeMate Smart Door Lock comes with 1 Year standard warranty."
+    ],
+    "long_title": "Smart Glass Door Lock",
+    "short_title": "Smart Glass Door",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_004_009/04_004_009_1.png"
+  },
+  "04_004_010": {
+    "model": "Smart_Biometric_Cabinet_Lock",
+    "short_description": "Secure your valuables with the Smart Biometric Cabinet Lock, featuring advanced fingerprint recognition technology for quick, keyless access and enhanced security. Ideal for homes and offices.",
+    "long_description": [
+      "Smart and Keyless Security: Enjoy fingerprint or code control for effortless access. Experience Quick Unlock & Auto Lock features: Utilizing advanced fingerprint lock technology for enhanced responsiveness and sensitivity, unlocking in just 0.5 seconds. No need for extra cards, keys, apps, or Bluetooth connections—your fingerprints serve as the sole keys. Additionally, benefit from a 1-10 digit user code (PIN) and AI Memory capable of storing up to 20 fingerprints.",
+      "Battery: The power supply uses 3 x AAA batteries; Low-power design, works for about a year without having to change batteries . Low power warning, Micro USB port for providing power in emergencies",
+      "Motorised mechanism: Suitable for installation in drawer cabinets, single door, double door and other wooden cabinets Door thickness requirement > 10 mm, standard screw for 15-20 mm Door panel",
+      "Privacy Protection: More secure! Our fingerprint lock is definitely your choice to improve the safety of personal items and secrets! Especially If there’s a troublemaker at home. It can effectively prevent your files from getting messed up or items from being damaged Simple DIY Installation: Effortlessly install this lock with ease – suitable for any regular carpenter. Access our installation video for step-by-step guidance, and receive additional support from our customer care team via calls and video calls for a hassle-free setup experience."
+    ],
+    "long_title": "Smart Biometric Cabinet Lock",
+    "short_title": "Smart Biometric Cabinet",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/04_004_0010/04_004_0010_1.png"
+  }
+}

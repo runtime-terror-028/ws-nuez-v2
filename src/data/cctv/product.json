@@ -16,7 +16,7 @@
     "short_title": "4 MP Powered",
     "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "image": "./image/product/cctv/network_camera/02_001_001/02_001_001.jpeg"
   },
   "02_001_002": {
     "model": "DS-2CD2147G2H-LISU",
@@ -31,9 +31,10 @@
       "Water and dust resistant (IP67) and vandal-resistant (IK10)"
     ],
     "long_title": "4 MP Smart Hybrid Light",
-    "short_title": "4 MP Smart",    "variation": [],
+    "short_title": "4 MP Smart",
+    "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "image": "./image/product/cctv/network_camera/02_001_002/02_001_002.jpeg"
   },
   "02_001_003": {
     "model": "DS-2CD6D42G0-IS",
@@ -48,10 +49,10 @@
       "Easy installation with Power over Ethernet (PoE) technology"
     ],
     "long_title": " Dual-Directional PanoVu Camera",
-    "short_title": "Dual-Directional PanoVu", 
-       "variation": [],
+    "short_title": "Dual-Directional PanoVu",
+    "variation": [],
     "specification": [],
-    "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "image": "./image/product/cctv/network_camera/02_001_003/02_001_003.jpeg"
   },
   "02_001_004": {
     "model": "DS-2CD6D54G2-IZHS(/NFC)",
@@ -66,10 +67,10 @@
       "Audio and alarm interface available"
     ],
     "long_title": " 4-Directional Multisensor Network Camera",
-    "short_title": "4-Directional Multisensor", 
+    "short_title": "4-Directional Multisensor",
     "variation": [],
- "specification": [],
- "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "specification": [],
+    "image": "./image/product/cctv/network_camera/02_001_004/02_001_004.jpeg"
   },
   "02_001_005": {
     "model": "iDS-2CD8447G0/B-RS",
@@ -84,10 +85,10 @@
       "Filters targets whose height is lower than the threshold and does not perform falling down detection"
     ],
     "long_title": "DeepinView Triple-Lens Activity Analysis Camera",
-    "short_title": "DeepinView Triple-Lens Activity", 
+    "short_title": "DeepinView Triple-Lens Activity",
     "variation": [],
- "specification": [],
- "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "specification": [],
+    "image": "./image/product/cctv/network_camera/02_001_005/02_001_005.jpeg"
   },
   "02_001_006": {
     "model": "DS-2CD3146G2H-LIS(U)",
@@ -104,10 +105,10 @@
       "Water and dust resistant (IP67) and vandal resistant (IK10)"
     ],
     "long_title": "4 MP Smart hybrid light",
-    "short_title": "4 MP Smart", 
+    "short_title": "4 MP Smart",
     "variation": [],
- "specification": [],
- "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "specification": [],
+    "image": "./image/product/cctv/network_camera/02_001_006/02_001_006.jpeg"
   },
   "02_001_007": {
     "model": "DS-2CD3523G2-IS",
@@ -120,10 +121,10 @@
       "Water and dust resistant (IP67)"
     ],
     "long_title": "2 MP Acusense Fixed Mini",
-    "short_title": "2 MP Acusense", 
+    "short_title": "2 MP Acusense",
     "variation": [],
- "specification": [],
- "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "specification": [],
+    "image": "./image/product/cctv/network_camera/02_001_007/02_001_007.jpeg"
   },
   "02_001_008": {
     "model": "DS-2CD1023G2-LIDUF/4G/SL",
@@ -139,10 +140,10 @@
       "Efficient H.265+ compression technology"
     ],
     "long_title": "2 MP Smart Hybrid Light",
-    "short_title": "2 MP Smart", 
+    "short_title": "2 MP Smart",
     "variation": [],
- "specification": [],
- "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "specification": [],
+    "image": "./image/product/cctv/network_camera/02_001_008/02_001_008.jpeg"
   },
   "02_001_009": {
     "model": "DS-2CD2421G0-I(D)W",
@@ -154,10 +155,10 @@
       "Detect human body through passive infrared which is sensitive to body temperature (PIR)"
     ],
     "long_title": "2 MP Indoor Audio Fixed",
-    "short_title": "2 MP Indoor", 
+    "short_title": "2 MP Indoor",
     "variation": [],
- "specification": [],
- "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "specification": [],
+    "image": "./image/product/cctv/network_camera/02_001_009/02_001_009.jpeg"
   },
   "02_001_010": {
     "model": "DS-2DE2C400MWG-4G",
@@ -172,10 +173,10 @@
       "Water and dust resistant (IP66)"
     ],
     "long_title": "4 MP Fixed Outdoor Smart",
-    "short_title": "4 MP Fixed", 
+    "short_title": "4 MP Fixed",
     "variation": [],
- "specification": [],
- "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "specification": [],
+    "image": "./image/product/cctv/network_camera/02_001_010/02_001_010.jpeg"
   },
   "02_002_001": {
     "model": "DS-2DF7A436IXG-EL(Y)",
@@ -192,10 +193,10 @@
       "Water and dust resistant (IP67), vandal proof (IK10) and corrosion resistant (NEMA 4X, optional)"
     ],
     "long_title": "7A Series 4MP 36X DarkFighter",
-    "short_title": "7A Series 4MP", 
+    "short_title": "7A Series 4MP",
     "variation": [],
- "specification": [],
- "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "specification": [],
+    "image": "./image/product/cctv/ptz_camera/02_002_001/02_002_001.jpeg"
   },
   "02_002_002": {
     "model": "DS-2DP3236ZIXS-D/440(F0)(P5)",
@@ -211,10 +212,10 @@
       "Supports 7 alarm inputs, 2 alarm outputs, 1 audio input, and 1 audio output"
     ],
     "long_title": "32MP 360° Panoramic & PTZ",
-    "short_title": "32MP 360° Panoramic", 
+    "short_title": "32MP 360° Panoramic",
     "variation": [],
- "specification": [],
- "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "specification": [],
+    "image": "./image/product/cctv/ptz_camera/02_002_002/02_002_002.jpeg"
   },
   "02_002_003": {
     "model": "DS-2SF8C425MXS-DLW(14F1)(P3)",
@@ -230,10 +231,10 @@
       "Water and dust resistant (IP67) and vandal resistant (IK10)"
     ],
     "long_title": "TandemVu 8C Series 4 MP",
-    "short_title": "TandemVu 8C Series", 
+    "short_title": "TandemVu 8C Series",
     "variation": [],
- "specification": [],
- "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "specification": [],
+    "image": "./image/product/cctv/ptz_camera/02_002_003/02_002_003.jpeg"
   },
   "02_002_004": {
     "model": "DS-2DE7A432IWG-EB",
@@ -248,10 +249,10 @@
       "Face capture: Up to 5 faces captured at the same time"
     ],
     "long_title": "4 MP 32X Powered by",
-    "short_title": "4 MP 32X", 
+    "short_title": "4 MP 32X",
     "variation": [],
- "specification": [],
- "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "specification": [],
+    "image": "./image/product/cctv/ptz_camera/02_002_004/02_002_004.jpeg"
   },
   "02_002_005": {
     "model": "DS-2SE4C225MWG-E/12(F0)",
@@ -267,10 +268,10 @@
       "Focuses on human and vehicle targets classification based on deep learning"
     ],
     "long_title": "TandemVu 4-inch 2 MP 25X",
-    "short_title": "TandemVu 4-inch 2", 
+    "short_title": "TandemVu 4-inch 2",
     "variation": [],
- "specification": [],
- "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "specification": [],
+    "image": "./image/product/cctv/ptz_camera/02_002_005/02_002_005.jpeg"
   },
   "02_002_006": {
     "model": "DS-2SE4C225MWG-E/26(F0)",
@@ -286,10 +287,10 @@
       "Focuses on human and vehicle targets classification based on deep learning"
     ],
     "long_title": "TandemVu 6+2MP 25X Colorful &",
-    "short_title": "TandemVu 6+2MP 25X", 
+    "short_title": "TandemVu 6+2MP 25X",
     "variation": [],
- "specification": [],
- "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "specification": [],
+    "image": "./image/product/cctv/ptz_camera/02_002_006/02_002_006.jpeg"
   },
   "02_002_007": {
     "model": "DS-2SE7C432IWG-4G/14(F0)",
@@ -307,10 +308,10 @@
       "5 W in sleep mode"
     ],
     "long_title": "TandemVu 4+4MP 32x Solar-powered Security",
-    "short_title": "TandemVu 4+4MP 32x", 
+    "short_title": "TandemVu 4+4MP 32x",
     "variation": [],
- "specification": [],
- "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "specification": [],
+    "image": "./image/product/cctv/ptz_camera/02_002_007/02_002_007.jpeg"
   },
   "02_002_008": {
     "model": "DS-2DE5225W-AE3(T5)",
@@ -325,10 +326,10 @@
       "Efficient H.265+/H.265 compression technology"
     ],
     "long_title": "2 MP 25X Powered by",
-    "short_title": "2 MP 25X", 
+    "short_title": "2 MP 25X",
     "variation": [],
- "specification": [],
- "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "specification": [],
+    "image": "./image/product/cctv/ptz_camera/02_002_008/02_002_008.jpeg"
   },
   "02_002_009": {
     "model": "DS-2DE4215IW-DE(T5)",
@@ -344,10 +345,10 @@
       "Support H.265+/H.265 video compression"
     ],
     "long_title": "2 MP 15X Powered by",
-    "short_title": "2 MP 15X", 
+    "short_title": "2 MP 15X",
     "variation": [],
- "specification": [],
- "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "specification": [],
+    "image": "./image/product/cctv/ptz_camera/02_002_009/02_002_009.jpeg"
   },
   "02_002_010": {
     "model": "DS-2DF3C400SCG-D(/4G)(/WL15 WL40)(F1)",
@@ -363,10 +364,10 @@
       "The detection distance ranges from 0.15 m to 15 m/40 m, and the precision reaches to ±1 mm"
     ],
     "long_title": "3C Series 4MP Water-Level Detection",
-    "short_title": "3C Series 4MP", 
+    "short_title": "3C Series 4MP",
     "variation": [],
- "specification": [],
- "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "specification": [],
+    "image": "./image/product/cctv/ptz_camera/02_002_010/02_002_010.jpeg"
   },
   "02_003_001": {
     "model": "DS-2CE12UF3T-E",
@@ -381,10 +382,10 @@
       "Water and dust resistant (IP67)"
     ],
     "long_title": "4K ColorVu PoC Fixed Mini",
-    "short_title": "4K ColorVu PoC", 
+    "short_title": "4K ColorVu PoC",
     "variation": [],
- "specification": [],
- "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "specification": [],
+    "image": "./image/product/cctv/turbo_camera/02_003_001/02_003_001.jpeg"
   },
   "02_003_002": {
     "model": "DS-2CE72UF3T-E",
@@ -399,10 +400,10 @@
       "Water and dust resistant (IP67)"
     ],
     "long_title": "4K ColorVu PoC Fixed Turret",
-    "short_title": "4K ColorVu PoC", 
+    "short_title": "4K ColorVu PoC",
     "variation": [],
- "specification": [],
- "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "specification": [],
+    "image": "./image/product/cctv/turbo_camera/02_003_002/02_003_002.jpeg"
   },
   "02_003_003": {
     "model": "DS-2CE59U7T-AVPIT3ZF",
@@ -417,10 +418,10 @@
       "4 in 1 (4 signals switchable TVI/AHD/CVI/CVBS)"
     ],
     "long_title": "4K Ultra Low Light Vandal",
-    "short_title": "4K Ultra Low", 
+    "short_title": "4K Ultra Low",
     "variation": [],
- "specification": [],
- "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "specification": [],
+    "image": "./image/product/cctv/turbo_camera/02_003_003/02_003_003.jpeg"
   },
   "02_003_004": {
     "model": "DS-2CE76U7T-ITMF",
@@ -435,10 +436,10 @@
       "4 in 1 (4 signals switchable TVI/AHD/CVI/CVBS)"
     ],
     "long_title": "4K Ultra Low Light Fixed",
-    "short_title": "4K Ultra Low", 
+    "short_title": "4K Ultra Low",
     "variation": [],
- "specification": [],
- "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "specification": [],
+    "image": "./image/product/cctv/turbo_camera/02_003_004/02_003_004.jpeg"
   },
   "02_003_005": {
     "model": "DS-2CE5AD3T-AVPIT3ZF",
@@ -454,10 +455,10 @@
       "4 in 1 (4 signals switchable TVI/AHD/CVI/CVBS)"
     ],
     "long_title": "2 MP Ultra Low Light",
-    "short_title": "2 MP Ultra", 
+    "short_title": "2 MP Ultra",
     "variation": [],
- "specification": [],
- "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "specification": [],
+    "image": "./image/product/cctv/turbo_camera/02_003_005/02_003_005.jpeg"
   },
   "02_003_006": {
     "model": "DS-2CE70D0T-PTLTS",
@@ -472,10 +473,10 @@
       "Provide real-time communication via built-in two-way audio"
     ],
     "long_title": "2MP Two Way Audio Fixed",
-    "short_title": "2MP Two Way", 
+    "short_title": "2MP Two Way",
     "variation": [],
- "specification": [],
- "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "specification": [],
+    "image": "./image/product/cctv/turbo_camera/02_003_006/02_003_006.jpeg"
   },
   "02_003_007": {
     "model": "DS-2CC12D9T-A",
@@ -488,10 +489,10 @@
       "Dual outputs (HDTVI and CVBS signals output simultaneously)"
     ],
     "long_title": "2 MP Box Camera",
-    "short_title": "2 MP Box", 
+    "short_title": "2 MP Box",
     "variation": [],
- "specification": [],
- "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "specification": [],
+    "image": "./image/product/cctv/turbo_camera/02_003_007/02_003_007.jpeg"
   },
   "02_003_008": {
     "model": "DS-2CE16D9T-AIRAZH",
@@ -509,10 +510,10 @@
       "Heater is available with 24 VAC"
     ],
     "long_title": "2 MP Motorized Varifocal Bullet",
-    "short_title": "2 MP Motorized", 
+    "short_title": "2 MP Motorized",
     "variation": [],
- "specification": [],
- "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "specification": [],
+    "image": "./image/product/cctv/turbo_camera/02_003_008/02_003_008.jpeg"
   },
   "02_003_009": {
     "model": "DS-2CE12H0T-PIRLO",
@@ -524,10 +525,10 @@
       "Water and dust resistant (IP67)"
     ],
     "long_title": "5 MP PIR Fixed Bullet",
-    "short_title": "5 MP PIR", 
+    "short_title": "5 MP PIR",
     "variation": [],
- "specification": [],
- "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "specification": [],
+    "image": "./image/product/cctv/turbo_camera/02_003_009/02_003_009.jpeg"
   },
   "02_003_010": {
     "model": "DS-2CE12UF3T-PIRXO",
@@ -545,10 +546,10 @@
       "High quality audio with built-in speaker"
     ],
     "long_title": "4K ColorVu PIR Siren Fixed",
-    "short_title": "4K ColorVu PIR", 
+    "short_title": "4K ColorVu PIR",
     "variation": [],
- "specification": [],
- "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "specification": [],
+    "image": "./image/product/cctv/turbo_camera/02_003_010/02_003_010.jpeg"
   },
   "02_004_001": {
     "model": "iDS-7208HQHI-M1/FA",
@@ -563,10 +564,10 @@
       "Up to 12 network cameras can be connected"
     ],
     "long_title": "8-ch 1080p 1U H.265 AcuSense",
-    "short_title": "8-ch 1080p 1U", 
+    "short_title": "8-ch 1080p 1U",
     "variation": [],
- "specification": [],
- "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "specification": [],
+    "image": "./image/product/cctv/dvr/02_004_001/02_004_001.jpeg"
   },
   "02_004_002": {
     "model": "iDS-7204HQHI-M1/XT",
@@ -582,10 +583,10 @@
       "Support All channels Motion Detection technology"
     ],
     "long_title": "4-ch 1080p 1DVRU H.265 AcuSense",
-    "short_title": "4-ch 1080p 1DVRU", 
+    "short_title": "4-ch 1080p 1DVRU",
     "variation": [],
- "specification": [],
- "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "specification": [],
+    "image": "./image/product/cctv/dvr/02_004_002/02_004_002.jpeg"
   },
   "02_004_003": {
     "model": "iDS-8116HQHI-M8/S",
@@ -600,10 +601,10 @@
       "POS triggered recording and POS information overlay"
     ],
     "long_title": "16-ch 1080P 2U H.265 AcuSense",
-    "short_title": "16-ch 1080P 2U", 
+    "short_title": "16-ch 1080P 2U",
     "variation": [],
- "specification": [],
- "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "specification": [],
+    "image": "./image/product/cctv/dvr/02_004_003/02_004_003.jpeg"
   },
   "02_004_004": {
     "model": "iDS-9016HUHI-M8/S",
@@ -619,10 +620,10 @@
       "POS triggered recording and POS information overlay"
     ],
     "long_title": "16-ch 5MP 2U H.265 AcuSense",
-    "short_title": "16-ch 5MP 2U", 
+    "short_title": "16-ch 5MP 2U",
     "variation": [],
- "specification": [],
- "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "specification": [],
+    "image": "./image/product/cctv/dvr/02_004_004/02_004_004.jpeg"
   },
   "02_004_005": {
     "model": "iDS-7104HUHI-M1/S",
@@ -637,10 +638,10 @@
       "Up to 8 MP@8 fps encoding capability"
     ],
     "long_title": "4-ch 5MP Mini 1U H.265",
-    "short_title": "4-ch 5MP Mini", 
+    "short_title": "4-ch 5MP Mini",
     "variation": [],
- "specification": [],
- "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "specification": [],
+    "image": "./image/product/cctv/dvr/02_004_005/02_004_005.jpeg"
   },
   "02_004_006": {
     "model": "iDS-7108HUHI-M1/S",
@@ -654,10 +655,10 @@
       "Up to 16 network cameras can be connected"
     ],
     "long_title": "8-ch 5MP Mini 1U H.265",
-    "short_title": "8-ch 5MP Mini", 
+    "short_title": "8-ch 5MP Mini",
     "variation": [],
- "specification": [],
- "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "specification": [],
+    "image": "./image/product/cctv/dvr/02_004_006/02_004_006.jpeg"
   },
   "02_004_007": {
     "model": "DS-8104AHGH(L)I-E4",
@@ -673,10 +674,10 @@
       "Privacy mask for masking specific regions and protecting sensitive information"
     ],
     "long_title": "4-ch 720P H.264 ATM DVR",
-    "short_title": "4-ch 720P H.264", 
+    "short_title": "4-ch 720P H.264",
     "variation": [],
- "specification": [],
- "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "specification": [],
+    "image": "./image/product/cctv/dvr/02_004_007/02_004_007.jpeg"
   },
   "02_004_008": {
     "model": "DS-6701HFHI/V",
@@ -689,10 +690,10 @@
       "Up to 128G Micro SD card available"
     ],
     "long_title": "1-ch 1080p H.264 DVS",
-    "short_title": "1-ch 1080p H.264", 
+    "short_title": "1-ch 1080p H.264",
     "variation": [],
- "specification": [],
- "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "specification": [],
+    "image": "./image/product/cctv/dvr/02_004_008/02_004_008.jpeg"
   },
   "02_004_009": {
     "model": "DS-1TP04I/AT",
@@ -702,10 +703,10 @@
       "Powers TVI PoC camera"
     ],
     "long_title": "1U 4-ch POC Unit",
-    "short_title": "1U 4-ch POC", 
+    "short_title": "1U 4-ch POC",
     "variation": [],
- "specification": [],
- "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "specification": [],
+    "image": "./image/product/cctv/dvr/02_004_009/02_004_009.jpeg"
   },
   "02_004_010": {
     "model": "DS-1TP08I/AT",
@@ -715,9 +716,9 @@
       "Powers TVI PoC camera"
     ],
     "long_title": "1U 8-ch POC Unit",
-    "short_title": "1U 8-ch POC", 
+    "short_title": "1U 8-ch POC",
     "variation": [],
- "specification": [],
- "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+    "specification": [],
+    "image": "./image/product/cctv/dvr/02_004_010/02_004_010.jpeg"
   }
 }
