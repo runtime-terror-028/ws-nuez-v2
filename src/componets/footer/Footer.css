@@ -1,13 +1,19 @@
 #footer{
     display: flex;
     flex-direction: column;
-    background-color: wheat;
+    background: #f9f9f9;
 
+}
+
+.footer_social_container{
+    display:flex;
+    justify-content: center;
+    gap:10px;
 }
 
 
 .footer_buttom{
-    background: gray;
+  
     text-align: center;
     height: fit-content;
     padding-top: 15px;
