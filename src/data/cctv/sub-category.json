@@ -1,0 +1,75 @@
+{
+    "02_001": {
+        "title": "Network Camera",
+        "header": "Network Camera",
+        "footer": "VIEW MORE",
+        "short_description": " Cameras that connect to a network for video streaming and management, often featuring remote access, high resolution, and smart features like motion detection and analytics",
+        "product_list": [
+            "02_001_001",
+            "02_001_002",
+            "02_001_003",
+            "02_001_004",
+            "02_001_005",
+            "02_001_006",
+            "02_001_008",
+            "02_001_007", 
+            "02_001_009",
+            "02_001_010"
+        ]
+     
+    },
+    "02_002": {
+        "title": "PTZ Camera",
+        "header": "PTZ Camera",
+        "footer": "VIEW MORE",
+        "short_description": "Pan-Tilt-Zoom cameras that can be remotely controlled to move horizontally (pan), vertically (tilt), and zoom in or out, ideal for covering large areas and tracking movements.",
+        "product_list": [
+            "02_002_001",
+            "02_002_002",
+            "02_002_003",
+            "02_002_004",
+            "02_002_005",
+            "02_002_006",
+            "02_002_007",
+            "02_002_008",
+            "02_002_009",
+            "02_002_010"
+        ]
+    },
+    "02_003": {
+        "title": "Turbo Camera",
+        "header": "Turbo HD Camera",
+        "footer": "VIEW MORE",
+        "short_description": "High-definition cameras that use analog technology for video transmission, providing superior image quality while maintaining compatibility with traditional coaxial cable systems.",
+        "product_list": [
+            "02_003_001",
+            "02_003_002",
+            "02_003_003",
+            "02_003_004",
+            "02_003_005",
+            "02_003_006",
+            "02_003_007",
+            "02_003_008",
+            "02_003_009",
+            "02_003_010"
+        ]
+    },
+    "02_004": {
+        "title": "DVR",
+        "header": "DVR",
+        "footer": "VIEW MORE",
+        "short_description": "A device that records video from analog cameras, storing footage on a hard drive and allowing playback, search, and remote access to recorded video.",
+        "product_list": [
+            "02_004_001",
+            "02_004_002",
+            "02_004_003",
+            "02_004_004",
+            "02_004_005",
+            "02_004_006",
+            "02_004_007",
+            "02_004_008",
+            "02_004_009",
+            "02_004_010"
+        ]
+    }
+}

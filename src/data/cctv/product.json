@@ -1,160 +1,723 @@
 {
-    "02_001_001": {
-      "model": " DS-2CD2046G2H-IU",
-      "short_description": "The 4 MP Darkfighter Fixed Mini Bullet Network Camera (Model: DS-2CD2046G2H-IU) delivers superior low-light performance, ideal for high-definition surveillance in challenging environments.",
-      "long_description": [
-        " High quality imaging with 4 MP resolution",
-        " Excellent low-light performance with powered-by-DarkFighter technology",
-        "Clear imaging against strong backlight due to 120 dB true WDR technology",
-        "Efficient H.265+ compression technology",
-        "Audio and alarm interface available",
-        " Focus on human and vehicle targets classification based on deep learning",
-        " Built-in microphone for real-time auto security(-U)",
-        "Water and dust resistant (IP67)"
-      ],
-      "long_title": "4 MP Powered by Darkfighter",
-      "short_title": "4 MP Powered",
-      "specification": []
-    },
-    "02_001_002": {
-      "model": "DS-2CD2147G2H-LISU",
-      "short_description": " The 4 MP Smart Hybrid Light ColorVu Fixed Dome Network Camera (Model: DS-2CD2147G2H-LISU) offers vivid color imaging in low-light conditions, ensuring reliable, round-the-clock surveillance.",
-      "long_description": [
-        "High quality imaging with 4 MP resolution",
-        "Smart Hybrid Light: advanced technology with long range",
-        "Clear imaging against strong back light due to 130 dB WDR technology",
-        "Efficient H.265+ compression technology",
-        "Focus on human and vehicle classification based on deep learning",
-        "-U: Built-in microphone for real-time audio security",
-        "Water and dust resistant (IP67) and vandal-resistant (IK10)"
-      ],
-      "long_title": "4 MP Smart Hybrid Light",
-      "short_title": "4 MP Smart",
-      "specification": []
-    },
-    "02_001_003": {
-      "model": "DS-2CD6D42G0-IS",
-      "short_description": " The Dual-Directional PanoVu Camera (Model: DS-2CD6D42G0-IS) provides comprehensive, 360-degree coverage with two lenses, ideal for wide-area surveillance with minimal blind spots.",
-      "long_description": [
-        "High quality imaging with 4 MP resolution",
-        "3D DNR technology delivers clean and sharp images",
-        "Supports 2-channel WDR to realize clear imaging against strong back light",
-        "Efficient H.265 compression technology",
-        "Water and dust resistant (IP67) and vandal resistant (IK10)",
-        "Built-in microphone for real-time audio security",
-        "Easy installation with Power over Ethernet (PoE) technology"
-      ],
-      "long_title": " Dual-Directional PanoVu Camera",
-      "short_title": "Dual-Directional PanoVu",
-      "specification": []
-    },
-    "02_001_004": {
-      "model": "DS-2CD6D54G2-IZHS(/NFC)",
-      "short_description": "   The 4-Directional Multisensor Network Camera (Model: DS-2CD6D54G2-IZHS/NFC) captures expansive views with four adjustable lenses, offering versatile surveillance for large areas with high detail.",
-      "long_description": [
-        "   4 adjustable lenses in one camera cover up to 360° field of view, ensuring no blind area monitoring and the monitoring tilt angle can be adjusted",
-        "Each lens up to 5 MP, capturing clear images, and more details can be displayed on video wall",
-        "Clear imaging against strong back light due to 120 dB true WDR technology",
-        "Water and dust resistant (IP67) and vandal proof (IK10)",
-        "Human and vehicle target classification based on deep learning for up to 4 channels",
-        "Unique PTRZ capability for efficient installation",
-        "Audio and alarm interface available"
-      ],
-      "long_title": " 4-Directional Multisensor Network Camera",
-      "short_title": "4-Directional Multisensor",
-      "specification": []
-    },
-    "02_001_005": {
-      "model": "iDS-2CD8447G0/B-RS",
-      "short_description": "The DeepinView Triple-Lens Activity Analysis Camera (Model: iDS-2CD8447G0/B-RS) features advanced AI-driven analytics across three lenses, enabling precise activity detection and monitoring for enhanced security.",
-      "long_description": [
-        "   High quality imaging with 4 MP resolution",
-        "Efficient H.265+ compression technology",
-        "3D DNR technology delivers clean and sharp images",
-        "Detects up to 10 abnormal events, such as loitering and people falling down",
-        "Adopts high-performance GPU, advanced binocular stereo imaging algorithm and deep learning algorithm",
-        "Supports auto, manual and smart calibration modes",
-        "Filters targets whose height is lower than the threshold and does not perform falling down detection"
-      ],
-      "long_title": "DeepinView Triple-Lens Activity Analysis Camera",
-      "short_title": "DeepinView Triple-Lens Activity",
-      "specification": []
-    },
-    "02_001_006": {
-      "model": "DS-2CD3146G2H-LIS(U)",
-      "short_description": "  The 4 MP Smart Hybrid Light with Darkfighter S Fixed Mini Dome Network Camera (Model: DS-2CD3146G2H-LIS(U)) delivers superior low-light performance and smart lighting for reliable surveillance.",
-      "long_description": [
-        " Supports Hikvision Embedded Open Platform (HEOP) and importing third party applications",
-        "Supports 1.5 Tops computing power, 60 MB system memory, 400 MB smart RAM, and 2 GB eMMC storage for sharing resources",
-        "High quality imaging with 4 MP resolution",
-        "Clear imaging against strong back light due to 130 dB WDR technology",
-        "Efficient H.265+ compression technology",
-        "Focus on human and vehicle classification based on deep learning",
-        "Smart Dual-Light: advanced technology with long range",
-        "-U: Built-in microphone for real-time audio security",
-        "Water and dust resistant (IP67) and vandal resistant (IK10)"
-      ],
-      "long_title": "4 MP Smart hybrid light",
-      "short_title": "4 MP Smart",
-      "specification": []
-    },
-    "02_001_007": {
-      "model": "DS-2CD3523G2-IS",
-      "short_description": "  The 2 MP AcuSense Fixed Mini Dome Network Camera (Model: DS-2CD3523G2-IS) provides accurate motion detection with advanced AI capabilities, ideal for efficient and reliable security monitoring.",
-      "long_description": [
-        " High quality imaging with 2 MP resolution",
-        "Clear imaging against strong backlight due to 120 dB WDR technology",
-        "Efficient H.265+ compression technology",
-        "Focus on human and vehicle targets classification based on deep learning",
-        "Water and dust resistant (IP67)"
-      ],
-      "long_title": "2 MP Acusense Fixed Mini",
-      "short_title": "2 MP Acusense",
-      "specification": []
-    },
-    "02_001_008": {
-      "model": "DS-2CD1023G2-LIDUF/4G/SL",
-      "short_description": "    The 2 MP Smart Hybrid Light 4G Fixed Bullet Network Camera (Model: DS-2CD1023G2-LIDUF/4G/SL) offers reliable remote surveillance with hybrid lighting and 4G connectivity for versatile outdoor monitoring.",
-      "long_description": [
-        "High quality imaging with 2 MP resolution",
-        "Support Human and Vehicle Detection",
-        "Support 4G LTE data transmission",
-        "Provide real-time security via built-in two-way audio",
-        "Smart Hybrid Light: advanced technology up to 30 meters",
-        "Support on-board storage up to 512 GB (SD card slot)",
-        "Water and dust resistant (IP67)",
-        "Efficient H.265+ compression technology"
-      ],
-      "long_title": "2 MP Smart Hybrid Light",
-      "short_title": "2 MP Smart",
-      "specification": []
-    },
-    "02_001_009": {
-      "model": "DS-2CD2421G0-I(D)W",
-      "short_description": "    The 2 MP Indoor Audio Fixed PIR Cube Network Camera (Model: DS-2CD2421G0-I(D)W) combines high-definition video with PIR motion detection and audio capabilities, perfect for comprehensive indoor security.",
-      "long_description": [
-        " High quality imaging with 2 MP resolution",
-        "Efficient H.265+ compression technology",
-        "Provide real-time security via built-in two-way audio",
-        "Detect human body through passive infrared which is sensitive to body temperature (PIR)"
-      ],
-      "long_title": "2 MP Indoor Audio Fixed",
-      "short_title": "2 MP Indoor",
-      "specification": []
-    },
-    "02_001_010": {
-      "model": "DS-2DE2C400MWG-4G",
-      "short_description": " The 4 MP Fixed Outdoor Smart Hybrid-Light 4G PT Network Camera (Model: DS-2DE2C400MWG-4G) offers high-definition monitoring with 4G connectivity and hybrid lighting, ideal for versatile outdoor surveillance.",
-      "long_description": [
-        "High quality imaging with 4 MP resolution",
-        "Support Human and Vehicle Detection",
-        "Support 4G LTE data transmission",
-        "Built-in microphone and speaker, support two-way audio",
-        "Smart Hybrid Light: advanced technology up to 30 meters",
-        "Support on-board storage up to 512 GB (SD card slot)",
-        "Water and dust resistant (IP66)"
-      ],
-      "long_title": "4 MP Fixed Outdoor Smart",
-      "short_title": "4 MP Fixed",
-      "specification": []
-    }}
+  "02_001_001": {
+    "model": "DS-2CD2046G2H-IU",
+    "short_description": "The 4 MP Darkfighter Fixed Mini Bullet Network Camera (Model: DS-2CD2046G2H-IU) delivers superior low-light performance, ideal for high-definition surveillance in challenging environments.",
+    "long_description": [
+      "High quality imaging with 4 MP resolution",
+      "Excellent low-light performance with powered-by-DarkFighter technology",
+      "Clear imaging against strong backlight due to 120 dB true WDR technology",
+      "Efficient H.265+ compression technology",
+      "Audio and alarm interface available",
+      "Focus on human and vehicle targets classification based on deep learning",
+      "Built-in microphone for real-time auto security(-U)",
+      "Water and dust resistant (IP67)"
+    ],
+    "long_title": "4 MP Powered by Darkfighter",
+    "short_title": "4 MP Powered",
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_001_002": {
+    "model": "DS-2CD2147G2H-LISU",
+    "short_description": " The 4 MP Smart Hybrid Light ColorVu Fixed Dome Network Camera (Model: DS-2CD2147G2H-LISU) offers vivid color imaging in low-light conditions, ensuring reliable, round-the-clock surveillance.",
+    "long_description": [
+      "High quality imaging with 4 MP resolution",
+      "Smart Hybrid Light: advanced technology with long range",
+      "Clear imaging against strong back light due to 130 dB WDR technology",
+      "Efficient H.265+ compression technology",
+      "Focus on human and vehicle classification based on deep learning",
+      "-U: Built-in microphone for real-time audio security",
+      "Water and dust resistant (IP67) and vandal-resistant (IK10)"
+    ],
+    "long_title": "4 MP Smart Hybrid Light",
+    "short_title": "4 MP Smart",    "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_001_003": {
+    "model": "DS-2CD6D42G0-IS",
+    "short_description": " The Dual-Directional PanoVu Camera (Model: DS-2CD6D42G0-IS) provides comprehensive, 360-degree coverage with two lenses, ideal for wide-area surveillance with minimal blind spots.",
+    "long_description": [
+      "High quality imaging with 4 MP resolution",
+      "3D DNR technology delivers clean and sharp images",
+      "Supports 2-channel WDR to realize clear imaging against strong back light",
+      "Efficient H.265 compression technology",
+      "Water and dust resistant (IP67) and vandal resistant (IK10)",
+      "Built-in microphone for real-time audio security",
+      "Easy installation with Power over Ethernet (PoE) technology"
+    ],
+    "long_title": " Dual-Directional PanoVu Camera",
+    "short_title": "Dual-Directional PanoVu", 
+       "variation": [],
+    "specification": [],
+    "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_001_004": {
+    "model": "DS-2CD6D54G2-IZHS(/NFC)",
+    "short_description": "   The 4-Directional Multisensor Network Camera (Model: DS-2CD6D54G2-IZHS/NFC) captures expansive views with four adjustable lenses, offering versatile surveillance for large areas with high detail.",
+    "long_description": [
+      "4 adjustable lenses in one camera cover up to 360° field of view, ensuring no blind area monitoring and the monitoring tilt angle can be adjusted",
+      "Each lens up to 5 MP, capturing clear images, and more details can be displayed on video wall",
+      "Clear imaging against strong back light due to 120 dB true WDR technology",
+      "Water and dust resistant (IP67) and vandal proof (IK10)",
+      "Human and vehicle target classification based on deep learning for up to 4 channels",
+      "Unique PTRZ capability for efficient installation",
+      "Audio and alarm interface available"
+    ],
+    "long_title": " 4-Directional Multisensor Network Camera",
+    "short_title": "4-Directional Multisensor", 
+    "variation": [],
+ "specification": [],
+ "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_001_005": {
+    "model": "iDS-2CD8447G0/B-RS",
+    "short_description": "The DeepinView Triple-Lens Activity Analysis Camera (Model: iDS-2CD8447G0/B-RS) features advanced AI-driven analytics across three lenses, enabling precise activity detection and monitoring for enhanced security.",
+    "long_description": [
+      "   High quality imaging with 4 MP resolution",
+      "Efficient H.265+ compression technology",
+      "3D DNR technology delivers clean and sharp images",
+      "Detects up to 10 abnormal events, such as loitering and people falling down",
+      "Adopts high-performance GPU, advanced binocular stereo imaging algorithm and deep learning algorithm",
+      "Supports auto, manual and smart calibration modes",
+      "Filters targets whose height is lower than the threshold and does not perform falling down detection"
+    ],
+    "long_title": "DeepinView Triple-Lens Activity Analysis Camera",
+    "short_title": "DeepinView Triple-Lens Activity", 
+    "variation": [],
+ "specification": [],
+ "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_001_006": {
+    "model": "DS-2CD3146G2H-LIS(U)",
+    "short_description": "  The 4 MP Smart Hybrid Light with Darkfighter S Fixed Mini Dome Network Camera (Model: DS-2CD3146G2H-LIS(U)) delivers superior low-light performance and smart lighting for reliable surveillance.",
+    "long_description": [
+      " Supports Hikvision Embedded Open Platform (HEOP) and importing third party applications",
+      "Supports 1.5 Tops computing power, 60 MB system memory, 400 MB smart RAM, and 2 GB eMMC storage for sharing resources",
+      "High quality imaging with 4 MP resolution",
+      "Clear imaging against strong back light due to 130 dB WDR technology",
+      "Efficient H.265+ compression technology",
+      "Focus on human and vehicle classification based on deep learning",
+      "Smart Dual-Light: advanced technology with long range",
+      "-U: Built-in microphone for real-time audio security",
+      "Water and dust resistant (IP67) and vandal resistant (IK10)"
+    ],
+    "long_title": "4 MP Smart hybrid light",
+    "short_title": "4 MP Smart", 
+    "variation": [],
+ "specification": [],
+ "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_001_007": {
+    "model": "DS-2CD3523G2-IS",
+    "short_description": "  The 2 MP AcuSense Fixed Mini Dome Network Camera (Model: DS-2CD3523G2-IS) provides accurate motion detection with advanced AI capabilities, ideal for efficient and reliable security monitoring.",
+    "long_description": [
+      "High quality imaging with 2 MP resolution",
+      "Clear imaging against strong backlight due to 120 dB WDR technology",
+      "Efficient H.265+ compression technology",
+      "Focus on human and vehicle targets classification based on deep learning",
+      "Water and dust resistant (IP67)"
+    ],
+    "long_title": "2 MP Acusense Fixed Mini",
+    "short_title": "2 MP Acusense", 
+    "variation": [],
+ "specification": [],
+ "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_001_008": {
+    "model": "DS-2CD1023G2-LIDUF/4G/SL",
+    "short_description": "    The 2 MP Smart Hybrid Light 4G Fixed Bullet Network Camera (Model: DS-2CD1023G2-LIDUF/4G/SL) offers reliable remote surveillance with hybrid lighting and 4G connectivity for versatile outdoor monitoring.",
+    "long_description": [
+      "High quality imaging with 2 MP resolution",
+      "Support Human and Vehicle Detection",
+      "Support 4G LTE data transmission",
+      "Provide real-time security via built-in two-way audio",
+      "Smart Hybrid Light: advanced technology up to 30 meters",
+      "Support on-board storage up to 512 GB (SD card slot)",
+      "Water and dust resistant (IP67)",
+      "Efficient H.265+ compression technology"
+    ],
+    "long_title": "2 MP Smart Hybrid Light",
+    "short_title": "2 MP Smart", 
+    "variation": [],
+ "specification": [],
+ "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_001_009": {
+    "model": "DS-2CD2421G0-I(D)W",
+    "short_description": "    The 2 MP Indoor Audio Fixed PIR Cube Network Camera (Model: DS-2CD2421G0-I(D)W) combines high-definition video with PIR motion detection and audio capabilities, perfect for comprehensive indoor security.",
+    "long_description": [
+      " High quality imaging with 2 MP resolution",
+      "Efficient H.265+ compression technology",
+      "Provide real-time security via built-in two-way audio",
+      "Detect human body through passive infrared which is sensitive to body temperature (PIR)"
+    ],
+    "long_title": "2 MP Indoor Audio Fixed",
+    "short_title": "2 MP Indoor", 
+    "variation": [],
+ "specification": [],
+ "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_001_010": {
+    "model": "DS-2DE2C400MWG-4G",
+    "short_description": " The 4 MP Fixed Outdoor Smart Hybrid-Light 4G PT Network Camera (Model: DS-2DE2C400MWG-4G) offers high-definition monitoring with 4G connectivity and hybrid lighting, ideal for versatile outdoor surveillance.",
+    "long_description": [
+      "High quality imaging with 4 MP resolution",
+      "Support Human and Vehicle Detection",
+      "Support 4G LTE data transmission",
+      "Built-in microphone and speaker, support two-way audio",
+      "Smart Hybrid Light: advanced technology up to 30 meters",
+      "Support on-board storage up to 512 GB (SD card slot)",
+      "Water and dust resistant (IP66)"
+    ],
+    "long_title": "4 MP Fixed Outdoor Smart",
+    "short_title": "4 MP Fixed", 
+    "variation": [],
+ "specification": [],
+ "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_002_001": {
+    "model": "DS-2DF7A436IXG-EL(Y)",
+    "short_description": "The 7A Series 4 MP 36X DarkFighter IR Network Speed Dome (Model: DS-2DF7A436IXG-EL(Y)) offers high-resolution imaging with powerful 36x optical zoom and advanced IR capabilities for long-range surveillance.",
+    "long_description": [
+      "1/1.8' Progressive Scan CMOS",
+      "High quality imaging with 4 MP resolution",
+      "36 × optical zoom and 16 × digital zoom provide close up views over expansive areas",
+      "Excellent low-light performance via DarkFighter 2.0 technology",
+      "Clear imaging against strong back light due to 150 dB AWDR technology",
+      "Supports rapid focus",
+      "Smart Pan-Tilt Correction",
+      "Built-in gyroscope to ensure stable image output",
+      "Water and dust resistant (IP67), vandal proof (IK10) and corrosion resistant (NEMA 4X, optional)"
+    ],
+    "long_title": "7A Series 4MP 36X DarkFighter",
+    "short_title": "7A Series 4MP", 
+    "variation": [],
+ "specification": [],
+ "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_002_002": {
+    "model": "DS-2DP3236ZIXS-D/440(F0)(P5)",
+    "short_description": "  The 32 MP 360° Panoramic & PTZ Camera (Model: DS-2DP3236ZIXS-D/440(F0)(P5)) provides ultra-high-resolution panoramic coverage and precise PTZ functionality for comprehensive and detailed surveillance.",
+    "long_description": [
+      "   High quality imaging with 32 MP resolution, up to 2 × 5520 × 2400 @30 fps for panoramic channels",
+      "Excellent low-light performance with DarkFighter technology",
+      "40x optical zoom and 16x digital zoom provide close up views over expansive areas",
+      "Expansive night view with up to 250 m IR distance",
+      "With one click on the panoramic channel, the PTZ channel shows the details automatically",
+      "Continous and stable manual tracking, auto-tracking, and panorama tracking",
+      "Automatic switch between multiple targets",
+      "Supports 7 alarm inputs, 2 alarm outputs, 1 audio input, and 1 audio output"
+    ],
+    "long_title": "32MP 360° Panoramic & PTZ",
+    "short_title": "32MP 360° Panoramic", 
+    "variation": [],
+ "specification": [],
+ "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_002_003": {
+    "model": "DS-2SF8C425MXS-DLW(14F1)(P3)",
+    "short_description": "The TandemVu 8C Series 4 MP 25X DarkFighter Network Speed Dome (Model: DS-2SF8C425MXS-DLW(14F1)(P3)) offers high-resolution imaging with 25x optical zoom and enhanced low-light performance for versatile surveillance.",
+    "long_description": [
+      "Captures a large area and great details at the same time",
+      "High quality imaging with 4 MP resolution for both bullet channel and PTZ channel",
+      "24/7 colorful imaging and excellent low-light performance with DarkFighter technology",
+      "Bullet channel tilt adjustable from 7° to 17°",
+      "Secures an expansive area with 25 × optical zoom and 16 × digital zoom",
+      "Expansive night view with up to 30 m white light distance and 300 m IR distance",
+      "Supports deep learning functions",
+      "Water and dust resistant (IP67) and vandal resistant (IK10)"
+    ],
+    "long_title": "TandemVu 8C Series 4 MP",
+    "short_title": "TandemVu 8C Series", 
+    "variation": [],
+ "specification": [],
+ "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_002_004": {
+    "model": "DS-2DE7A432IWG-EB",
+    "short_description": "    The 4 MP 32X Powered by DarkFighter IR AcuSense Network Speed Dome (Model: DS-2DE7A432IWG-EB) delivers high-resolution images with 32x optical zoom and advanced IR for precise, low-light surveillance.",
+    "long_description": [
+      "24/7 colorful imaging",
+      "High quality imaging with 4 MP resolution",
+      "Audio visual alarm: The white flashing light and audible warning can be triggered by certain events",
+      "32 × optical zoom and 16 × digital zoom provide close up views over expansive areas",
+      "Expansive night view with up to 150 m IR distance and 100 m white light",
+      "Focuses on human and vehicle targets classification based on deep learning",
+      "Face capture: Up to 5 faces captured at the same time"
+    ],
+    "long_title": "4 MP 32X Powered by",
+    "short_title": "4 MP 32X", 
+    "variation": [],
+ "specification": [],
+ "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_002_005": {
+    "model": "DS-2SE4C225MWG-E/12(F0)",
+    "short_description": "   The TandemVu 4-inch 2 MP 25X Colorful & IR Network Speed Dome (Model: DS-2SE4C225MWG-E/12(F0)) provides vivid color imaging with 25x optical zoom and IR capabilities for versatile, high-quality surveillance.",
+    "long_description": [
+      "Captures a large area and great details at the same time",
+      "High quality imaging with 2 MP resolution",
+      "Excellent low-light performance with powered-by-DarkFighter technology and ColorVu technology",
+      "Secures an expansive area with 25× optical zoom and 16× digital zoom",
+      "Supports WDR, HLC, BLC, 3D DNR, defog, regional exposure, regional focus",
+      "Expansive night view with up to 100 m IR distance & 30 m white light",
+      "Supports 12V DC & PoE+",
+      "Focuses on human and vehicle targets classification based on deep learning"
+    ],
+    "long_title": "TandemVu 4-inch 2 MP 25X",
+    "short_title": "TandemVu 4-inch 2", 
+    "variation": [],
+ "specification": [],
+ "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_002_006": {
+    "model": "DS-2SE4C225MWG-E/26(F0)",
+    "short_description": "  The TandemVu 6+2 MP 25X Colorful & IR Panoramic & PTZ Camera (Model: DS-2SE4C225MWG-E/26(F0)) offers high-definition panoramic views with 25x optical zoom and IR for comprehensive surveillance.",
+    "long_description": [
+      "Captures a large area and great details at the same time",
+      "High quality imaging with 2 MP resolution",
+      "Excellent low-light performance with powered-by-DarkFighter technology and ColorVu technology",
+      "Secures an expansive area with 25× optical zoom and 16× digital zoom",
+      "Supports WDR, HLC, BLC, 3D DNR, defog, regional exposure, regional focus",
+      "Expansive night view with up to 100 m IR distance & 30 m white light",
+      "Supports 12V DC & PoE+",
+      "Focuses on human and vehicle targets classification based on deep learning"
+    ],
+    "long_title": "TandemVu 6+2MP 25X Colorful &",
+    "short_title": "TandemVu 6+2MP 25X", 
+    "variation": [],
+ "specification": [],
+ "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_002_007": {
+    "model": "DS-2SE7C432IWG-4G/14(F0)",
+    "short_description": "  The TandemVu 4+4 MP 32x Solar-Powered Security Network Speed Dome (Model: DS-2SE7C432IWG-4G/14(F0)) provides high-resolution imaging and 32x zoom with solar power for sustainable, versatile surveillance.",
+    "long_description": [
+      "Captures a large area and great details at the same time",
+      "High quality imaging with 4 MP resolution",
+      "Excellent low-light performance with ColorVu technology in bullet channel",
+      "Secures an expansive area with 32 × optical zoom and 16 × digital zoom",
+      "Supports WDR, HLC, BLC, 3D DNR, defog, regional exposure, regional focus, rapid focus",
+      "Expansive night view with up to 30 m IR distance in bullet channel, and 200 m IR distance in PTZ channel",
+      "Supports 12 VDC output",
+      "Supports scheduled sleep mode and low power sleep mode. ",
+      "The consumption reaches 0.",
+      "5 W in sleep mode"
+    ],
+    "long_title": "TandemVu 4+4MP 32x Solar-powered Security",
+    "short_title": "TandemVu 4+4MP 32x", 
+    "variation": [],
+ "specification": [],
+ "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_002_008": {
+    "model": "DS-2DE5225W-AE3(T5)",
+    "short_description": "The 2 MP 25X Powered by DarkFighter Network Speed Dome (Model: DS-2DE5225W-AE3(T5)) offers high-definition imaging with 25x optical zoom and advanced low-light capabilities for precise surveillance.",
+    "long_description": [
+      " 1/2.8' Progressive Scan CMOS",
+      "High quality imaging with 2 MP resolution",
+      "Excellent low-light performance with powered-by-DarkFighter technology",
+      "25× optical zoom and 16× digital zoom provide close up views over expansive areas",
+      "WDR, HLC, BLC, 3D DNR, defog, regional exposure, regional focus",
+      "24 VAC & PoE (802.3at)",
+      "Efficient H.265+/H.265 compression technology"
+    ],
+    "long_title": "2 MP 25X Powered by",
+    "short_title": "2 MP 25X", 
+    "variation": [],
+ "specification": [],
+ "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_002_009": {
+    "model": "DS-2DE4215IW-DE(T5)",
+    "short_description": "The 2 MP 15X Powered by DarkFighter IR Network Speed Dome (Model: DS-2DE4215IW-DE(T5)) delivers clear, high-resolution video with 15x optical zoom and enhanced IR for effective low-light monitoring.",
+    "long_description": [
+      "Focuses on human and vehicle targets classification based on deep learning",
+      "Support face capture. Up to 5 faces captured at the same time",
+      "1/2.8' Progressive Scan CMOS",
+      "High quality imaging with 2 MP resolution",
+      "Excellent low-light performance with powered-by-DarkFighter technology",
+      "15× optical zoom and 16× digital zoom provide close up views over expansive areas",
+      "Expansive night view with up to 100 m IR distance",
+      "Support H.265+/H.265 video compression"
+    ],
+    "long_title": "2 MP 15X Powered by",
+    "short_title": "2 MP 15X", 
+    "variation": [],
+ "specification": [],
+ "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_002_010": {
+    "model": "DS-2DF3C400SCG-D(/4G)(/WL15 WL40)(F1)",
+    "short_description": "   The 3C Series 4 MP Water-Level Detection Network Speed Dome (Model: DS-2DF3C400SCG-D(/4G)(/WL15 WL40)(F1)) provides high-resolution surveillance with integrated water-level monitoring and 4G connectivity for versatile applications.",
+    "long_description": [
+      "24/7 colorful imaging",
+      "High quality imaging with 4 MP resolution",
+      "Clear imaging against strong back lighting thanks to 120 dB WDR technology",
+      "30m white light distance",
+      "Water and dust resistant (IP67)",
+      "Supports 4G and low power consumption design. The lowest power consumption is less than 1 W.",
+      "Supports water level detection with millimeter wave radar. ",
+      "The detection distance ranges from 0.15 m to 15 m/40 m, and the precision reaches to ±1 mm"
+    ],
+    "long_title": "3C Series 4MP Water-Level Detection",
+    "short_title": "3C Series 4MP", 
+    "variation": [],
+ "specification": [],
+ "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_003_001": {
+    "model": "DS-2CE12UF3T-E",
+    "short_description": " The 4K ColorVu PoC Fixed Mini Bullet Camera (Model: DS-2CE12UF3T-E) delivers ultra-high-definition color imaging with Power over Coax (PoC) for easy installation and superior video quality.",
+    "long_description": [
+      "High quality imaging with 8 MP, 3840 × 2160 resolution",
+      "24/7 color imaging",
+      "Clear imaging against strong back light due to 130 dB true WDR technology",
+      "3D DNR technology delivers clean and sharp images",
+      "2.8 mm, 3.6 mm, 6mm fixed focal lens",
+      "Up to 40 m white light distance for bright night imaging",
+      "Water and dust resistant (IP67)"
+    ],
+    "long_title": "4K ColorVu PoC Fixed Mini",
+    "short_title": "4K ColorVu PoC", 
+    "variation": [],
+ "specification": [],
+ "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_003_002": {
+    "model": "DS-2CE72UF3T-E",
+    "short_description": "  The 4K ColorVu PoC Fixed Turret Camera (Model: DS-2CE72UF3T-E) offers high-resolution color imaging with Power over Coax (PoC) for efficient installation and exceptional video clarity.",
+    "long_description": [
+      "High quality imaging with 8 MP, 3840 × 2160 resolution",
+      "24/7 color imaging",
+      "Clear imaging against strong back light due to 130 dB true WDR technology",
+      "3D DNR technology delivers clean and sharp images",
+      "2.8 mm, 3.6 mm fixed focal lens",
+      "Up to 40 m white light distance for bright night imaging",
+      "Water and dust resistant (IP67)"
+    ],
+    "long_title": "4K ColorVu PoC Fixed Turret",
+    "short_title": "4K ColorVu PoC", 
+    "variation": [],
+ "specification": [],
+ "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_003_003": {
+    "model": "DS-2CE59U7T-AVPIT3ZF",
+    "short_description": "The 4K Ultra Low Light Vandal Motorized Varifocal Dome Camera (Model: DS-2CE59U7T-AVPIT3ZF) provides high-resolution, adjustable viewing with advanced low-light performance and vandal-resistant design for robust security.",
+    "long_description": [
+      "8 MP high performance turret camera",
+      "Strong night performance, capturing images in ultra-low light down to 0.003 lux",
+      "Clear imaging even against strong back lighting due to 130 dB true WDR technology",
+      "3D DNR technology delivers clean and sharp images",
+      "EXIR 2.0: advanced infrared technology with 30 m IR distance",
+      "Water and dust resistant (IP67)",
+      "4 in 1 (4 signals switchable TVI/AHD/CVI/CVBS)"
+    ],
+    "long_title": "4K Ultra Low Light Vandal",
+    "short_title": "4K Ultra Low", 
+    "variation": [],
+ "specification": [],
+ "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_003_004": {
+    "model": "DS-2CE76U7T-ITMF",
+    "short_description": "    The 4K Ultra Low Light Fixed Turret Camera (Model: DS-2CE76U7T-ITMF) delivers high-definition video with exceptional low-light sensitivity, ensuring clear, detailed images in challenging lighting conditions.",
+    "long_description": [
+      "8 MP high performance turret camera",
+      "Strong night performance, capturing images in ultra-low light down to 0.003 lux",
+      "Clear imaging even against strong back lighting due to 130 dB true WDR technology",
+      " 3D DNR technology delivers clean and sharp images",
+      "EXIR 2.0: advanced infrared technology with 30 m IR distance",
+      "Water and dust resistant (IP67)",
+      "4 in 1 (4 signals switchable TVI/AHD/CVI/CVBS)"
+    ],
+    "long_title": "4K Ultra Low Light Fixed",
+    "short_title": "4K Ultra Low", 
+    "variation": [],
+ "specification": [],
+ "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_003_005": {
+    "model": "DS-2CE5AD3T-AVPIT3ZF",
+    "short_description": "    The 2 MP Ultra Low Light Vandal Motorized Varifocal Dome Camera (Model: DS-2CE5AD3T-AVPIT3ZF) provides clear, high-resolution footage with adjustable focus and enhanced low-light performance in a vandal-resistant design.",
+    "long_description": [
+      "2 MP dome camera",
+      "Strong night performance, capturing images in ultra-low light down to 0.005 lux",
+      "Clear imaging even against strong back lighting due to 120 dB true WDR technology",
+      "3D DNR technology delivers clean and sharp images",
+      "Lens focuses automatically when zooming in or out",
+      "EXIR 2.0: advanced infrared technology with 70 m IR distance",
+      "Water and dust resistant (IP67) and vandal proof (IK10)",
+      "4 in 1 (4 signals switchable TVI/AHD/CVI/CVBS)"
+    ],
+    "long_title": "2 MP Ultra Low Light",
+    "short_title": "2 MP Ultra", 
+    "variation": [],
+ "specification": [],
+ "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_003_006": {
+    "model": "DS-2CE70D0T-PTLTS",
+    "short_description": "  The 2 MP Two-Way Audio Fixed PT Camera (Model: DS-2CE70D0T-PTLTS) offers high-definition video with pan-tilt functionality and two-way audio, enabling interactive and flexible surveillance.",
+    "long_description": [
+      "High quality imaging with 2 MP, 1920 × 1080 resolution",
+      "2.8 mm, 3.6 mm fixed focal lens",
+      "Up to 25 m IR distance for bright night imaging",
+      "Up to 20 m white light distance for bright night imaging",
+      "Smart-Hybrid Light, optimize your security with flexible lighting options",
+      "High quality audio with audio over coaxial cable, built-in mic, and built-in speaker",
+      "Provide real-time communication via built-in two-way audio"
+    ],
+    "long_title": "2MP Two Way Audio Fixed",
+    "short_title": "2MP Two Way", 
+    "variation": [],
+ "specification": [],
+ "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_003_007": {
+    "model": "DS-2CC12D9T-A",
+    "short_description": " The 2 MP Box Camera (Model: DS-2CC12D9T-A) delivers high-resolution video with a flexible design, ideal for various surveillance applications requiring robust performance and customizable mounting options.",
+    "long_description": [
+      "2 MP high performance box camera",
+      "Strong night performance, capturing images in ultra-low light down to 0.003 lux",
+      "Clear imaging even against strong back lighting due to 120 dB true WDR technology",
+      "3D DNR technology delivers clean and sharp images",
+      "Dual outputs (HDTVI and CVBS signals output simultaneously)"
+    ],
+    "long_title": "2 MP Box Camera",
+    "short_title": "2 MP Box", 
+    "variation": [],
+ "specification": [],
+ "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_003_008": {
+    "model": "DS-2CE16D9T-AIRAZH",
+    "short_description": "The 2 MP Motorized Varifocal Bullet Camera (Model: DS-2CE16D9T-AIRAZH) offers high-resolution video with motorized zoom and focus, providing adjustable viewing for versatile and detailed surveillance.",
+    "long_description": [
+      "2 MP high performance bullet camera",
+      "Strong night performance, capturing images in ultra-low light down to 0.003 lux",
+      "Clear imaging even against strong back lighting due to 120 dB true WDR technology",
+      "3D DNR technology delivers clean and sharp images",
+      "5 mm to 50 mm motorized varifocal lens focuses automatically when zooming in or out",
+      "Up to 120 m IR distance for bright night imaging",
+      "Water and dust resistant (IP67)",
+      "Dual outputs (HDTVI and CVBS signals output simultaneously)",
+      "Transmits both HD video and power over the same coaxial cable",
+      "Heater is available with 24 VAC"
+    ],
+    "long_title": "2 MP Motorized Varifocal Bullet",
+    "short_title": "2 MP Motorized", 
+    "variation": [],
+ "specification": [],
+ "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_003_009": {
+    "model": "DS-2CE12H0T-PIRLO",
+    "short_description": " The 5 MP PIR Fixed Bullet Camera (Model: DS-2CE12H0T-PIRLO) provides high-resolution video with integrated PIR motion detection, offering enhanced security and accurate event triggering for effective surveillance.",
+    "long_description": [
+      "5 MP PIR bullet camera",
+      "PIR detection, strobe light alarm and alarm out to warn off intruders in real time",
+      "EXIR 2.0: advanced infrared technology with 20 m IR distance",
+      "Water and dust resistant (IP67)"
+    ],
+    "long_title": "5 MP PIR Fixed Bullet",
+    "short_title": "5 MP PIR", 
+    "variation": [],
+ "specification": [],
+ "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_003_010": {
+    "model": "DS-2CE12UF3T-PIRXO",
+    "short_description": "   The 4K ColorVu PIR Siren Fixed Bullet Camera (Model: DS-2CE12UF3T-PIRXO) delivers ultra-high-definition color video with integrated PIR motion detection and a built-in siren for proactive security and deterrence.",
+    "long_description": [
+      "High quality imaging with 8 MP, 3840 × 2160 resolution",
+      "24/7 color imaging",
+      "Clear imaging against strong back light due to 130 dB true WDR technology",
+      "3D DNR technology delivers clean and sharp images",
+      "2.8 mm, 3.6 mm fixed focal lens",
+      "Up to 40 m White Light distance for bright night imaging",
+      "Detects human body through heat-sensitive passive infrared (PIR)",
+      "Active strobe light and audio alarm to warn intruders off",
+      "Water and dust resistant (IP67)",
+      "High quality audio with built-in speaker"
+    ],
+    "long_title": "4K ColorVu PIR Siren Fixed",
+    "short_title": "4K ColorVu PIR", 
+    "variation": [],
+ "specification": [],
+ "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_004_001": {
+    "model": "iDS-7208HQHI-M1/FA",
+    "short_description": " The 8-ch 1080p 1U H.265 AcuSense DVR (Model: iDS-7208HQHI-M1/FA) offers high-definition recording with advanced H.265 compression and AcuSense technology for efficient, intelligent video surveillance.",
+    "long_description": [
+      "8 channels and 1 HDD 1U AcuSense DVR",
+      "Supports facial recognition or false alarm reduction based on deep learning algorithm",
+      "Supports face picture comparison and face picture search",
+      "Efficient H.265 pro+ compression technology",
+      "Encoding ability up to 3K/5M Lite @ 12 fps",
+      "5 signals input adaptively (HDTVI/AHD/CVI/CVBS/IP)",
+      "Up to 12 network cameras can be connected"
+    ],
+    "long_title": "8-ch 1080p 1U H.265 AcuSense",
+    "short_title": "8-ch 1080p 1U", 
+    "variation": [],
+ "specification": [],
+ "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_004_002": {
+    "model": "iDS-7204HQHI-M1/XT",
+    "short_description": "The 4-ch 1080p 1U H.265 AcuSense DVR (Model: iDS-7204HQHI-M1/XT) provides high-definition video recording with H.265 compression and AcuSense technology for optimized and intelligent surveillance.",
+    "long_description": [
+      "4 channels and 1 HDD 1U AcuSense DVR",
+      "Support 1-ch Facial Recognition or 2-ch advanced model Perimeter Protection based on Deep Learning algorithm",
+      "Support HDTVI Two-Way Audio technology",
+      "Efficient H.265 pro+ compression technology",
+      "Encoding ability up to 3K/5MP Lite @ 12 fps",
+      "5 signals input adaptively (HDTVI/AHD/CVI/CVBS/IP)",
+      "Up to 6 network cameras can be connected",
+      "Support All channels Motion Detection technology"
+    ],
+    "long_title": "4-ch 1080p 1DVRU H.265 AcuSense",
+    "short_title": "4-ch 1080p 1DVRU", 
+    "variation": [],
+ "specification": [],
+ "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_004_003": {
+    "model": "iDS-8116HQHI-M8/S",
+    "short_description": "The 16-ch 1080P 2U H.265 AcuSense DVR (Model: iDS-8116HQHI-M8/S) offers robust, high-definition recording with advanced H.265 compression and AcuSense technology for efficient and intelligent video management.",
+    "long_description": [
+      "Deep learning-based perimeter protection",
+      "Deep learning-based motion detection 2.0 for all analog channels",
+      "H.265 Pro+/H.265 Pro/H.265/H.264+/H.264 video compression",
+      "Up to 24-ch IP camera inputs and 8 SATA interfaces",
+      "Up to 1080p@15 fps encoding capability",
+      "HDTVI/AHD/CVI/CVBS/IP video inputs",
+      "POS triggered recording and POS information overlay"
+    ],
+    "long_title": "16-ch 1080P 2U H.265 AcuSense",
+    "short_title": "16-ch 1080P 2U", 
+    "variation": [],
+ "specification": [],
+ "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_004_004": {
+    "model": "iDS-9016HUHI-M8/S",
+    "short_description": "The 16-ch 5MP 2U H.265 AcuSense DVR (Model: iDS-9016HUHI-M8/S) delivers high-resolution 5MP recording with efficient H.265 compression and AcuSense technology for advanced and intelligent surveillance.",
+    "long_description": [
+      "Deep learning-based perimeter protection",
+      "Deep learning-based motion detection 2.0 for all analog channels",
+      "Up to 16-ch analog camera inputs and 8 SATA interfaces",
+      "H.265 Pro+/H.265 Pro/H.265/H.264+/H.264 video compression",
+      "Up to 8 MP@8 fps/5 MP@12 fps encoding capability",
+      "Up to 34-ch network camera inputs",
+      "HDTVI/AHD/CVI/CVBS/IP video inputs",
+      "POS triggered recording and POS information overlay"
+    ],
+    "long_title": "16-ch 5MP 2U H.265 AcuSense",
+    "short_title": "16-ch 5MP 2U", 
+    "variation": [],
+ "specification": [],
+ "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_004_005": {
+    "model": "iDS-7104HUHI-M1/S",
+    "short_description": " The 4-ch 5MP Mini 1U H.265 AcuSense DVR (Model: iDS-7104HUHI-M1/S) provides compact, high-resolution 5MP recording with H.265 compression and AcuSense technology for efficient, intelligent video management.",
+    "long_description": [
+      "Deep learning based human and vehicle targets classification of Motion Detection 2.0'",
+      "Deep learning-based perimeter protection",
+      "H.265 Pro+/H.265 Pro/H.265 video compression",
+      "HDTVI/AHD/CVI/CVBS/IP video inputs",
+      "4 × optical zoom allows for closer viewing of subjects in expansive areas",
+      "Up to 6-ch IP camera inputs (up to 8 MP)",
+      "Up to 8 MP@8 fps encoding capability"
+    ],
+    "long_title": "4-ch 5MP Mini 1U H.265",
+    "short_title": "4-ch 5MP Mini", 
+    "variation": [],
+ "specification": [],
+ "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_004_006": {
+    "model": "iDS-7108HUHI-M1/S",
+    "short_description": "  The 8-ch 5MP Mini 1U H.265 AcuSense DVR (Model: iDS-7108HUHI-M1/S) offers compact, high-definition 5MP recording with efficient H.265 compression and AcuSense technology for enhanced, intelligent surveillance.",
+    "long_description": [
+      "Deep learning based human and vehicle targets classification of Motion Detection 2.0",
+      "8 analog channels and 1 HDD 1U DVR",
+      "Efficient H.265 Pro+ compression technology",
+      "Up to 8 MP@8 fps and 5 MP@12 fps encoding capability",
+      "HDTVI/AHD/CVI/CVBS/IP video inputs",
+      "Up to 16 network cameras can be connected"
+    ],
+    "long_title": "8-ch 5MP Mini 1U H.265",
+    "short_title": "8-ch 5MP Mini", 
+    "variation": [],
+ "specification": [],
+ "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_004_007": {
+    "model": "DS-8104AHGH(L)I-E4",
+    "short_description": "   The 4-ch 720P H.264 ATM DVR (Model: DS-8104AHGH(L)I-E4) provides reliable recording with 720P resolution and H.264 compression, specifically designed for secure ATM surveillance and monitoring.",
+    "long_description": [
+      "4 channels and 4 HDDs ATM DVR",
+      "H.264+ video compression technology",
+      "Encoding ability up to 720p @ 25/30 fps",
+      "Up to 6 network cameras can be connected",
+      "Supports overlapping multiple AMT card numbers and multiple protocols",
+      "Supports triggering recording once inserting ATM card",
+      "Supports triggering recording through ATM transaction behaviors",
+      "Privacy mask for masking specific regions and protecting sensitive information"
+    ],
+    "long_title": "4-ch 720P H.264 ATM DVR",
+    "short_title": "4-ch 720P H.264", 
+    "variation": [],
+ "specification": [],
+ "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_004_008": {
+    "model": "DS-6701HFHI/V",
+    "short_description": "    The 1-ch 1080p H.264 DVS (Model: DS-6701HFHI/V) offers high-definition 1080p video recording with H.264 compression, ideal for single-channel surveillance with efficient storage and clear image quality.",
+    "long_description": [
+      "H.264/M-JPEG encoding formats available",
+      "independent configuration of encoding formats for main stream and sub stream",
+      "1-ch ch HDMI or VGA video input and 1-ch VGA video loop out provided",
+      "Encoding at HD resolution of 1080p/720p/UXGA, etc.",
+      "Up to 128G Micro SD card available"
+    ],
+    "long_title": "1-ch 1080p H.264 DVS",
+    "short_title": "1-ch 1080p H.264", 
+    "variation": [],
+ "specification": [],
+ "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_004_009": {
+    "model": "DS-1TP04I/AT",
+    "short_description": "The 1U 4-ch PoC Unit (Model: DS-1TP04I/AT) provides compact, four-channel Power over Coax (PoC) connectivity in a 1U form factor, simplifying installation and power management for surveillance systems.",
+    "long_description": [
+      "Transmits analog TVI video signals, control signals and electric current from PoC camera",
+      "Powers TVI PoC camera"
+    ],
+    "long_title": "1U 4-ch POC Unit",
+    "short_title": "1U 4-ch POC", 
+    "variation": [],
+ "specification": [],
+ "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  },
+  "02_004_010": {
+    "model": "DS-1TP08I/AT",
+    "short_description": "   The 1U 8-ch PoC Unit (Model: DS-1TP08I/AT) delivers eight-channel Power over Coax (PoC) functionality in a compact 1U design, streamlining power and connectivity for efficient surveillance setups.",
+    "long_description": [
+      "Transmits analog TVI video signals, control signals and electric current from PoC camera",
+      "Powers TVI PoC camera"
+    ],
+    "long_title": "1U 8-ch POC Unit",
+    "short_title": "1U 8-ch POC", 
+    "variation": [],
+ "specification": [],
+ "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
+  }
+}
