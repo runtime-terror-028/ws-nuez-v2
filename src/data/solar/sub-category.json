@@ -1,0 +1,62 @@
+{
+    "03_001": {
+        "title": "Solar Panel",
+        "header": "Solar Panel",
+        "footer": "View More",
+        "short_description": " A device that converts sunlight into electricity using photovoltaic cells, commonly used for renewable energy generation in homes, businesses, and remote locations",
+        "product_list": [
+            "03_001_001",
+            "03_001_002",
+            "03_001_003",
+            "03_001_004",
+            "03_001_005",
+            "03_001_006",
+            "03_001_007",
+            "03_001_008",
+            "03_001_009",
+            "03_001_010",
+            "03_001_011",
+            "03_001_012"
+        ]
+    },
+    "03_002": {
+        "title": "Solar Light",
+        "header": "Solar Light",
+        "footer": "View More",
+        "short_description": " Energy-efficient lighting powered by solar panels, converting sunlight into electricity for outdoor or indoor illumination, with no need for external power sources",
+        "product_list": [
+            "03_002_001",
+            "03_002_002",
+            "03_002_003",
+            "03_002_004",
+            "03_002_005",
+            "03_002_006",
+            "03_002_007",
+            "03_002_008",
+            "03_002_009",
+            "03_002_010",
+            "03_002_011",
+            "03_002_012"
+        ]
+    },
+    "03_003": {
+        "title": "Solar Battery",
+        "header": "Solar Battery",
+        "footer": "View More",
+        "short_description": " A storage device that collects and stores energy from solar panels, providing reliable power during night or cloudy conditions, enhancing energy efficiency and independence.",
+        "product_list": [
+            "03_003_001",
+            "03_003_002",
+            "03_003_003",
+            "03_003_004",
+            "03_003_005",
+            "03_003_006",
+            "03_003_007",
+            "03_003_008",
+            "03_003_009",
+            "03_003_010",
+            "03_003_011",
+            "03_003_012"
+        ]
+    }
+}
