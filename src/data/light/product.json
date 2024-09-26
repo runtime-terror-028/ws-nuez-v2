@@ -14,7 +14,7 @@
         "MATERIAL: METAL + ONYX MARBLE",
         "PRICE: 10400"
       ],
-      "image": "demo.jpg"
+      "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.png"
     },
     "01_001_002": {
       "model": "2039-H",
@@ -31,7 +31,7 @@
         "MATERIAL: METAL + ONYX MARBLE",
         "PRICE: 7800"
       ],
-      "image": "demo.jpg"
+      "image": "./image/product/light/hanging_lamps/01_001_002/01_001_002_1.png"
     },
     "01_001_003": {
       "model": "2026-RD",
@@ -48,7 +48,7 @@
         "MATERIAL: METAL + ONYX MARBLE",
         "PRICE: 7900"
       ],
-      "image": "demo.jpg"
+      "image": "./image/product/light/hanging_lamps/01_001_003/01_001_003_1.png"
     },
     "01_001_004": {
       "model": "2026-1SQ",
@@ -65,7 +65,7 @@
         "MATERIAL: METAL + ONYX MARBLE",
         "PRICE: 7900"
       ],
-      "image": "demo.jpg"
+      "image": "./image/product/light/hanging_lamps/01_001_004/01_001_004_1.png"
     },
     "01_001_005": {
       "model": "2041-H",
@@ -82,7 +82,7 @@
         "MATERIAL: METAL + ONYX MARBLE",
         "PRICE: 9600"
       ],
-      "image": "demo.jpg"
+      "image": "./image/product/light/hanging_lamps/01_001_005/01_001_005_1.png"
     },
     "01_001_006": {
       "model": "2031-1",
@@ -99,7 +99,7 @@
         "MATERIAL: METAL + ONYX MARBLE",
         "PRICE: 7900"
       ],
-      "image": "demo.jpg"
+      "image": "./image/product/light/hanging_lamps/01_001_006/01_001_006_1.png"
     },
     "01_001_007": {
       "model": "K11-M",
@@ -115,7 +115,8 @@
         "FINISH: ANTIQUE BRASS + BLACK /WHITE",
         "MATERIAL: METAL",
         "PRICE: 6400"
-      ]
+      ],
+        "image": "./image/product/light/hanging_lamps/01_001_007/01_001_007_1.png"
     },
     "01_001_008": {
       "model": "K11-CC",
@@ -131,7 +132,9 @@
         "FINISH: BLACK",
         "MATERIAL: METAL",
         "PRICE: 6400"
-      ]
+      ],
+      "image": "./image/product/light/hanging_lamps/01_001_008/01_001_008_1.png"
+
     },
     "01_001_009": {
       "model": "K11",
@@ -147,7 +150,9 @@
         "FINISH: ANTIQUE BRASS + BM-AB, WM-AB, LW-AB, DW-AB, TR-AB TR-BK, BT-BK, GY-AB, GY-BK",
         "MATERIAL: METAL",
         "PRICE: 6400"
-      ]
+      ],   
+           "image": "./image/product/light/hanging_lamps/01_001_009/01_001_009_1.png"
+
     },
     "01_001_010": {
       "model": "C 1212",
@@ -163,7 +168,9 @@
         "FINISH: ANTIQUE BRASS + BLACK",
         "MATERIAL: METAL + ACRYLIC",
         "PRICE: 5400"
-      ]
+      ],
+      "image": "./image/product/light/hanging_lamps/01_001_010/01_001_010_1.png"
+
     },
     "01_002_001": {
     "model": "002-C-3-1",
@@ -179,7 +186,8 @@
       "FINISH: BLACK + LIGHTWOOD",
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 15000"
-    ]
+    ],
+        "image": "./image/product/light/ceiling_lamps/01_002_001/01_002_001_1.png"
   },
   "01_002_002": {
     "model": "002-C-3-2",
@@ -195,7 +203,8 @@
       "FINISH: BLACK + LIGHT WOOD",
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 13000"
-    ]
+    ],
+        "image": "./image/product/light/ceiling_lamps/01_002_002/01_002_002_1.png"
   },
   "01_002_003": {
     "model": "002-C-2",
@@ -211,7 +220,8 @@
       "FINISH: BLACK + LIGHT WOOD",
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 13000"
-    ]
+    ],
+        "image": "./image/product/light/ceiling_lamps/01_002_003/01_002_003_1.png"
   },
   "01_002_004": {
     "model": "3880SF-300,450,600,900-1",
@@ -227,7 +237,8 @@
       "FINISH: ANTIQUE BRASS",
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 300-7500,450-9000,600-14500,900-23000"
-    ]
+    ],
+        "image": "./image/product/light/ceiling_lamps/01_002_004/01_002_004_1.png"
   },
   "01_002_005": {
     "model": "3880SF-300,450,600,900-2",
@@ -243,7 +254,8 @@
       "FINISH: CUSTOMIZED",
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 300-6600,450-8000,600-13200,900-21500"
-    ]
+    ],
+        "image": "./image/product/light/ceiling_lamps/01_002_005/01_002_005_1.png"
   },
   "01_002_006": {
     "model": "0041C",
@@ -259,7 +271,8 @@
       "FINISH: BLACK + GOLD",
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 11000"
-    ]
+    ],
+        "image": "./image/product/light/ceiling_lamps/01_002_006/01_002_006_1.png"
   },
   "01_002_007": {
     "model": "8530-CL",
@@ -275,7 +288,8 @@
       "FINISH: ANTIQUE BRASS",
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 7600"
-    ]
+    ],
+        "image": "./image/product/light/ceiling_lamps/01_002_007/01_002_007_1.png"
   },
   "01_002_008": {
     "model": "VA3422",
@@ -291,7 +305,8 @@
       "FINISH: WHITE (CUSTOMIZED)",
       "MATERIAL: METAL",
       "PRICE: 6600"
-    ]
+    ],
+        "image": "./image/product/light/ceiling_lamps/01_002_008/01_002_008_1.png"
   },
   "01_002_009": {
     "model": "8202-3C",
@@ -307,7 +322,8 @@
       "FINISH: ANTIQUE BRASS + BLACK",
       "MATERIAL: METAL",
       "PRICE: 7000"
-    ]
+    ],
+        "image": "./image/product/light/ceiling_lamps/01_002_009/01_002_009_1.png"
   },
   "01_002_010": {
     "model": "9041-450",
@@ -323,7 +339,8 @@
       "FINISH: BRASS GOLD",
       "MATERIAL: BRASS + GLASS",
       "PRICE: 13000"
-    ]
+    ],
+        "image": "./image/product/light/ceiling_lamps/01_002_010/01_002_010_1.png"
   },
   "01_003_001": {
     "model": "2042-2W",
@@ -339,7 +356,8 @@
       "FINISH: ANTIQUE BRASS",
       "MATERIAL: METAL + ONYX MARBLE",
       "PRICE: 13000"
-    ]
+    ],
+        "image": "./image/product/light/wall_lamps/01_003_001/01_003_001_1.png"
   },
   "01_003_002": {
     "model": "MB5W",
@@ -355,7 +373,8 @@
       "FINISH: ANTIQUE BRASS",
       "MATERIAL: METAL + ONYX MARBLE",
       "PRICE: 15000"
-    ]
+    ],
+        "image": "./image/product/light/wall_lamps/01_003_002/01_003_002_1.png"
   },
   "01_003_003": {
     "model": "MB-1WGD",
@@ -370,7 +389,8 @@
       "SIZE: D50MM X H225MM",
       "FINISH: ANTIQUE BRASS",
       "MATERIAL: METAL + ONYX MARBLE"
-    ]
+    ],
+        "image": "./image/product/light/wall_lamps/01_003_003/01_003_003_1.png"
   },
   "01_003_004": {
     "model": "MB1WBK",
@@ -386,7 +406,8 @@
       "FINISH: BLACK",
       "MATERIAL: METAL + ONYX MARBLE",
       "PRICE: 8000"
-    ]
+    ],
+        "image": "./image/product/light/wall_lamps/01_003_004/01_003_004_1.png"
   },
   "01_003_005": {
     "model": "GEW 7071/1",
@@ -402,7 +423,8 @@
       "FINISH: ANTIQUE BRASS",
       "MATERIAL: METAL + MARBLE GLASS",
       "PRICE: 6000"
-    ]
+    ],
+        "image": "./image/product/light/wall_lamps/01_003_005/01_003_005_1.png"
   },
   "01_003_006": {
     "model": "GEW 7210",
@@ -418,7 +440,8 @@
       "FINISH: ANTIQUE BRASS",
       "MATERIAL: METAL + RESIN",
       "PRICE: 5800"
-    ]
+    ],
+        "image": "./image/product/light/wall_lamps/01_003_006/01_003_006_1.png"
   },
   "01_003_007": {
     "model": "2043-1W",
@@ -434,7 +457,8 @@
       "FINISH: ANTIQUE BRASS",
       "MATERIAL: METAL + ONYX MARBLE",
       "PRICE: 6200"
-    ]
+    ],
+        "image": "./image/product/light/wall_lamps/01_003_007/01_003_007_1.png"
   },
   "01_003_008": {
     "model": "2040-2W",
@@ -450,7 +474,8 @@
       "FINISH: ANTIQUE BRASS",
       "MATERIAL: METAL + ONYX MARBLE",
       "PRICE: 6200"
-    ]
+    ],
+        "image": "./image/product/light/wall_lamps/01_003_008/01_003_008_1.png"
   },
   "01_003_009": {
     "model": "MB-150, MB-250",
@@ -466,7 +491,8 @@
       "FINISH: ANTIQUE BRASS",
       "MATERIAL: METAL + ONYX MARBLE",
       "PRICE: 150-6200,250-7600"
-    ]
+    ],
+        "image": "./image/product/light/wall_lamps/01_003_009/01_003_009_1.png"
   },
   "01_003_010": {
     "model": "MB-2044-W",
@@ -482,7 +508,8 @@
       "FINISH: ANTIQUE BRASS",
       "MATERIAL: METAL + ONYX MARBLE",
       "PRICE: 7800"
-    ]
+    ],
+        "image": "./image/product/light/wall_lamps/01_003_010/01_003_010_1.png"
   },
   "01_004_001": {
     "model": "091-F",
@@ -498,7 +525,8 @@
       "FINISH: BLACK + ANTIQUE BRASS",
       "MATERIAL: METAL + GLASS + WOOD",
       "PRICE: 28000"
-    ]
+    ],
+        "image": "./image/product/light/floor_&_table_lamps/01_004_001/01_004_001_1.png"
   },
   "01_004_002": {
     "model": "9008-F",
@@ -514,7 +542,8 @@
       "FINISH: ANTIQUE BRASS + WHITE",
       "MATERIAL: METAL + MARBLE",
       "PRICE: 19000"
-    ]
+    ],
+        "image": "./image/product/light/floor_&_table_lamps/01_004_002/01_004_002_1.png"
   },
   "01_004_003": {
     "model": "6668-F",
@@ -530,7 +559,8 @@
       "FINISH: ANTIQUE BRASS",
       "MATERIAL: METAL + AMBER GLASS",
       "PRICE: 26000"
-    ]
+    ],
+        "image": "./image/product/light/floor_&_table_lamps/01_004_003/01_004_003_1.png"
   },
   "01_004_004": {
     "model": "7000-F",
@@ -546,7 +576,8 @@
       "FINISH: COPPER",
       "MATERIAL: METAL + GLASS",
       "PRICE: 24000"
-    ]
+    ],
+        "image": "./image/product/light/floor_&_table_lamps/01_004_004/01_004_004_1.png"
   },
   "01_004_005": {
     "model": "9869-T",
@@ -561,7 +592,8 @@
       "SIZE: W240MM X H430MM",
       "FINISH: COPPER",
       "MATERIAL: METAL + GLASS"
-    ]
+    ],
+        "image": "./image/product/light/floor_&_table_lamps/01_004_005/01_004_005_1.png"
   },
   "01_004_006": {
     "model": "4000-T",
@@ -577,7 +609,8 @@
       "FINISH: ANTIQUE BRASS",
       "MATERIAL: METAL + AMBER GLASS",
       "PRICE: 13000"
-    ]
+    ],
+        "image": "./image/product/light/floor_&_table_lamps/01_004_006/01_004_006_1.png"
   },
   "01_004_007": {
     "model": "066-1300",
@@ -593,7 +626,8 @@
       "FINISH: MATT BLACK",
       "MATERIAL: METAL + AMBER GLASS",
       "PRICE: 22000"
-    ]
+    ],
+        "image": "./image/product/light/floor_&_table_lamps/01_004_007/01_004_007_1.png"
   },
   "01_004_008": {
     "model": "066-480",
@@ -609,7 +643,8 @@
       "FINISH: BLACK",
       "MATERIAL: METAL + AMBER GLASS",
       "PRICE: 12000"
-    ]
+    ],
+        "image": "./image/product/light/floor_&_table_lamps/01_004_008/01_004_008_1.png"
   },
   "01_004_009": {
     "model": "8065-F",
@@ -625,7 +660,8 @@
       "FINISH: ANTIQUE BRASS",
       "MATERIAL: METAL",
       "PRICE: 24000"
-    ]
+    ],
+        "image": "./image/product/light/floor_&_table_lamps/01_004_009/01_004_009_1.png"
   },
   "01_004_010": {
     "model": "6626F",
@@ -641,7 +677,8 @@
       "FINISH: ANTIQUE BRASS",
       "MATERIAL: METAL + MARBLE + FABRIC SHADE",
       "PRICE: 15000"
-    ]
+    ],
+        "image": "./image/product/light/floor_&_table_lamps/01_004_010/01_004_010_1.png"
   },
   "01_005_001": {
     "model": "5331-T",
@@ -657,7 +694,8 @@
       "FINISH: CHROME",
       "MATERIAL: METAL + FABRIC SHADE",
       "PRICE: 4500"
-    ]
+    ],
+        "image": "./image/product/light/familes/01_005_001/01_005_001_1.png"
   },
   "01_005_002": {
     "model": "53330-F",
@@ -673,7 +711,8 @@
       "FINISH: CHROME",
       "MATERIAL: METAL + FABRIC SHADE",
       "PRICE: 8000"
-    ]
+    ],
+        "image": "./image/product/light/familes/01_005_002/01_005_002_1.png"
   },
   "01_005_003": {
     "model": "5333-W",
@@ -689,7 +728,8 @@
       "FINISH: CHROME",
       "MATERIAL: METAL + FABRIC SHADE",
       "PRICE: 4500"
-    ]
+    ],
+        "image": "./image/product/light/familes/01_005_003/01_005_003_1.png"
   },
   "01_005_004": {
     "model": "5332-W",
@@ -705,7 +745,8 @@
       "FINISH: CHROME",
       "MATERIAL: METAL + FABRIC SHADE",
       "PRICE: 3000"
-    ]
+    ],
+        "image": "./image/product/light/familes/01_005_004/01_005_004_1.png"
   },
   "01_005_005": {
     "model": "5443-1",
@@ -721,7 +762,8 @@
       "FINISH: SN",
       "MATERIAL: METAL + FABRIC SHADE",
       "PRICE: 3800"
-    ]
+    ],
+        "image": "./image/product/light/familes/01_005_005/01_005_005_1.png"
   },
   "01_005_006": {
     "model": "5442-F",
@@ -737,7 +779,8 @@
       "FINISH: SN",
       "MATERIAL: METAL + FABRIC SHADE",
       "PRICE: 6800"
-    ]
+    ],
+        "image": "./image/product/light/familes/01_005_006/01_005_006_1.png"
   },
   "01_005_007": {
     "model": "5441-T",
@@ -753,7 +796,8 @@
       "FINISH: SN",
       "MATERIAL: METAL + FABRIC SHADE",
       "PRICE: 3600"
-    ]
+    ],
+        "image": "./image/product/light/familes/01_005_007/01_005_007_1.png"
   },
   "01_005_008": {
     "model": "5222-W",
@@ -769,7 +813,8 @@
       "FINISH: CHROME",
       "MATERIAL: METAL + FABRIC SHADE",
       "PRICE: 2700"
-    ]
+    ],
+        "image": "./image/product/light/familes/01_005_008/01_005_008_1.png"
   },
   "01_005_009": {
     "model": "5223-W",
@@ -785,7 +830,8 @@
       "FINISH: CHROME",
       "MATERIAL: METAL + FABRIC SHADE",
       "PRICE: 3800"
-    ]
+    ],
+        "image": "./image/product/light/familes/01_005_009/01_005_009_1.png"
   },
   "01_005_010": {
     "model": "5221-T",
@@ -801,6 +847,7 @@
       "FINISH: CHROME",
       "MATERIAL: METAL + FABRIC SHADE",
       "PRICE: 3800"
-    ]
+    ],
+        "image": "./image/product/light/familes/01_005_010/01_005_010_1.png"
   }
 }
