@@ -51,13 +51,8 @@
   }
 
   @media screen and (max-width: 840px){
-    contact_header{
-      font-size: 30px;
-    }
-    .contactus{
-      flex-direction: column;
-      align-items:center;
-    }
+  
+  
     .contact_container{
       flex-direction: column;
       width:100%;
@@ -65,7 +60,7 @@
       height:auto;
     }
     .contact_section,.contact_section2{
-      width:90%;
+      width:100%;
       padding:15px;
       box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     }

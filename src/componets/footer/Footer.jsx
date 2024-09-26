@@ -35,6 +35,7 @@ export default Footer
 
 
 
+
 // <div className="footer_top">
 //           <div className="footer_section">
 //             <div className="footer_c_header">NUEZ Technologies</div>
