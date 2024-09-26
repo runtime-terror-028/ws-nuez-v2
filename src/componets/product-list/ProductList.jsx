@@ -22,11 +22,11 @@ const loadJsonData = async (category_id) => {
         ProductData: await import('../../data/automation/product.json'),
         CategoryData: await import('../../data/automation/sub-category.json'),
       };
-    // case 'solar':
-    //   return {
-    //     ProductData: await import('../../data/solar/product.json'),
-    //     CategoryData: await import('../../data/solar/sub-category.json'),
-    //   };
+    case 'solar':
+      return {
+        ProductData: await import('../../data/solar/product.json'),
+        CategoryData: await import('../../data/solar/sub-category.json'),
+      };
     default:
       return {};
   }
@@ -79,7 +79,7 @@ function ProductList({ category_id }) {
             eventKey={categoryKey}
             title={categoryData[categoryKey].title}
           >
-            <div className={`tab-content ${activeKey === categoryKey ? '' : 'd-none'} d-flex flex-direction-row justify-content-evenly flex-wrap custom-gap`}>
+            <div className={`tab-content ${activeKey === categoryKey ? '' : 'd-none'} d-flex flex-direction-row justify-content-evenly flex-wrap gap-4 product_card_container`}>
               {categoryData[categoryKey].product_list.map((productId) => {
                 const product = productData[productId];
                 return product ? (

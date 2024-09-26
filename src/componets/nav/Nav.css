@@ -43,3 +43,6 @@
   color: black;
 }
 
+.cursor-pointer {
+  cursor: pointer;
+}

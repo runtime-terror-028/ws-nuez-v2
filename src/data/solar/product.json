@@ -1,151 +1,503 @@
 {
-    "03_001_001": {
-      "model": "SHARK BIFICAL 575 W",
-      "short_description": "The Loom Solar panel features a black/silver anodized aluminum frame with a twin-wall profile, measuring 2.28x1.13x0.3 meters, weighing 33 kg, and offering high efficiency for optimal performance.",
-      "long_description": [
-        "Less Shading Losses: 144 half-cut cells reduce shading losses, ensuring consistent energy production even in partial or full shade.",
-        "High Efficiency: TopCon technology boosts efficiency to 22.3%, delivering 575W power output, among the highest available.",
-        "Bifacial Technology: Generates power from both sides, potentially increasing output to 700W when installed over reflective surfaces.",
-        "Zero LID: Maintains efficiency with zero light-induced degradation, unlike typical panels that lose 2-3% efficiency in the first year.",
-        "Premium Quality: Made with a strong aluminum frame and toughened glass, protecting against impacts.",
-        "Easy Installation: Compact, lightweight design with pre-drilled holes reduces installation costs and simplifies setup.",
-        "Aesthetic Design: Modern black frame and half-cut cells provide a sleek appearance for rooftops or solar plants.",
-        "Space Saving: Generates 30-50% more power in limited space compared to traditional panels, ideal for residential rooftops"
-      ],
-      "long_title": "Loom Solar Panel Shark 575W TOPCon Bifacial",
-      "short_title": "Loom Solar Panel",
-      "specification": []
-    },
-    "03_001_002": {
-      "model": "1234",
-      "short_description": "Solar panels are those devices which are used to absorb the sun's rays and convert them into electricity or heat. Description: A solar panel is actually a collection of solar (or photovoltaic) cells, which can be used to generate electricity through photovoltaic effect.",
-      "long_description": [
-        "Package contains : Pack of 2, 550 Watt-24Volts Mono crystalline solar panel, 25 years performance warranty",
-        "EVA capsulation for better protection of modules, weather resilient, high cell conversion efficiency",
-        "Height - 150.5 cm, Width - 68.6 cm, Weight - 12kg",
-        "Output power capacity: 550 Watt; operating voltage: 24 volts",
-        "Strong aluminum frame on the panel provides resistance from any torsion whatsoever"
-      ],
-      "long_title": "Luminous BIS Certified Mono Perc Halfcut 550 Watt-24Volt Solar Panel",
-      "short_title": "Luminous SolarPanel",
-      "specification": []
-    },
-    "03_001_003": {
-      "model": "Tapo A200",
-      "short_description": "Tapo A200 Solar Panel, Adjustable Mounting Bracket, 4 m/13 ft Charging Cable, Mounting Anchors, Mounting Screws, Mounting Template, Waterproof Gasket, Quick Start Guide",
-      "long_description": [
-        "Non-Stop Solar Power Captures free, clean solar energy and provides non-stop power supply for your Tapo battery-powered cameras (Tapo C425, Tapo C420, and Tapo C400) to ensure they protect you all year round.",
-        "Up to 4.5W Charging Power Made of premium monocrystalline silicon cells, Tapo A200 captures plentiful solar energy and provides continuous power supply efficiently.",
-        "IP65 Weatherproof Offers excellent waterproof and dustproof performance for outdoor scenarios.",
-        "360° Adjustable Mounting Bracket Adjust your solar panel for the perfect angle to capture sufficient light."
-      ],
-      "long_title": "TP-Link Tapo A200 4.5W Non-Stop Solar Panel",
-      "short_title": "TP-Link Tapo A200",
-      "specification": []
-    },
-    "03_001_004": {
-      "model": "SHARK 55WATT",
-      "short_description": "Loom Solar metal panel, 66.5L x 43W x 3.5H cm, 5.52 kg, with 20% efficiency.",
-      "long_description": [
-        "Best in Class Efficiency: 55W Mono PERC Panel, ideal for portable solar systems and DIY projects.",
-        "Temperature Coefficient: Reliable power generation from -40°C to +85°C, perfect for outdoor use.",
-        "Premium Quality: Durable black aluminum frame and toughened glass, built to withstand harsh conditions.",
-        "Multipurpose: Versatile for mobile charging, DC devices, and power backup during travel.",
-        "Warranty: 25-year performance warranty with 90% efficiency after 10 years and 80% after 25 years."
-      ],
-      "long_title": "LOOM SOLAR Panel 55 WATT/12V Mono PERC",
-      "short_title": "LOOM SOLAR Panel",
-      "specification": []
-    },
-    "03_001_005": {
-      "model": "WSMDi-400",
-      "short_description": "WAAREE WSMDi-400 Solar Panel: 192.4 x 103.8 x 182.8 cm, 22 kg, 20.03% efficiency.",
-      "long_description": [
-        "Power Output: 400W, suitable for residential, commercial, and some industrial applications",
-        "Appearance: All Blackdesign with black frames and backsheets, ideal for visually appealing installations.",
-        "Technology: Likely uses monocrystalline or polycrystalline cells, impacting efficiency and durability.",
-        "Durability: Built to withstand various weather conditions with robust construction.",
-        "Applications: Versatile for grid-tied and off-grid setups, including rooftops, commercial buildings, and solar farms.",
-        "Certifications: Meets international standards like IEC 61215 and IEC 61730 for performance and safety.",
-        "Manufacturer: WAAREE Energies Ltd., a leading Indian solar panel manufacturer known for innovation and quality"
-      ],
-      "long_title": "WAAREE Solar Panel All Black 400 Watt",
-      "short_title": "WAAREE Solar Panel",
-      "specification": []
-    },
-    "03_001_006": {
-      "model": "50 w Mono PERC",
-      "short_description": "ZunSolar Polycrystalline panel, 67x5x149 cm, 12 kg, offers high efficiency with durable, reliable performance for various solar applications.",
-      "long_description": [
-        "165-watt 12-volt",
-        "Polycrystalline solar panel",
-        "High-conversion solar cells | Robust design | 25-year warranty",
-        "Silver anodized aluminium frame",
-        "High transmission low iron tempered glass; Product Dimensions: 148 X 67 X 3 cm; Weight: 12 Kg; Package Content: 1 Solar Panel"
-      ],
-      "long_title": "ZunSolar 165 Watt 12 Volt Polycrystalline Solar Panel",
-      "short_title": "ZunSolar 165 Watt",
-      "specification": []
-    },
-    "03_001_007": {
-      "model": "Bi-535 Pack of 2",
-      "short_description": "WAAREE solar panel features tempered low iron glass, anodized aluminum frame, EVA encapsulation, IP65-rated junction box, and high efficiency; dimensions: 2.28L x 1.14W x 0.04H meters.",
-      "long_description": [
-        "High Power Output: 535W panels maximize energy production for residential and commercial use.",
-        "Durability: Built to withstand harsh weather, ensuring long-term performance.",
-        "Warranty & Service: Comes with a warranty and reliable after-sales support for peace of mind.",
-        "Bifacial Module: Generates electricity from both sides, boosting energy production with reflected light."
-      ],
-      "long_title": "WAAREE Solar Panel 535 Watt Halfcut 24 Volts",
-      "short_title": "WAAREE Solar Panel 535 Watt",
-      "specification": []
-    },
-    "03_001_008": {
-      "model": "LGV180V12",
-      "short_description": "Livguard aluminium mono panel measures 50L x 5W x 100H cm, weighs 10 kg, and is designed for efficient solar power generation.",
-      "long_description": [
-        "25-Year Warranty: Ensures 90% module efficiency.",
-        "Maximum Energy Capture: Glossy EVA, multi-EVA encapsulation, and high-transmission tempered glass.",
-        "PID Resistance: PID-free for longer life and lower degradation.",
-        "Durable Design: Silver anodized aluminum frame, tempered glass withstands heavy wind and snow loads.",
-        "IP67 Rated: Equipped with bypass diodes in the junction box."
-      ],
-      "long_title": "Livguard LGV12V180 180W/12v MonoCrystalline Solar Panel",
-      "short_title": "Livguard LGV12V180 180W/12v ",
-      "specification": []
-    },
-    "03_001_009": {
-      "model": "WSMD-450- Pack of 2",
-      "short_description": "WAAREE solar panel features tempered low iron glass, anodized aluminum frame, and EVA encapsulation. It has IP65-rated weatherproof junction box and MC4 connectors. Dimensions: 2.08 x 1.08 x 0.04 meters.",
-      "long_description": [
-        "High Efficiency: 450W Mono PERC panels generate more electricity than traditional panels.",
-        "Advanced Technology: PERC technology enhances light absorption, even in low-light conditions.",
-        "Durable & Reliable: Built with high-quality materials to withstand harsh weather conditions.",
-        "Halfcut Design: 144 halfcut cells reduce shading impact and boost energy output.",
-        "Easy Installation: Compact and lightweight with pre-drilled holes for simple mounting.",
-        "Wide Applications: Ideal for residential and commercial use, reducing grid dependence.",
-        "Eco-Friendly: Promotes sustainable energy by harnessing solar power.",
-        "Trusted Brand: WAAREE is a reputable name with a 30-year warranty for peace of mind."
-      ],
-      "long_title": "WAAREE Solar Panel 450 Watt",
-      "short_title": "WAAREE Solar Panel",
-      "specification": []
-    },
-    "03_001_010": {
-      "model": "LUM 12170 X 2",
-      "short_description": "The Luminous solar panel features a durable silver anodized aluminum alloy frame and 3.2mm AR-coated tempered glass. Measuring 150.5x68.6x3.5 cm, it weighs 24 kg and offers high efficiency.",
-      "long_description": [
-        "Excellent Low Light Performance",
-        "Advance EVA Encapsulation",
-        "PID Resistance Technology",
-        "Resilience to Extreme Weather",
-        "BIS Certified"
-      ],
-      "long_title": "Luminous BIS Certified Polycrystalline 170 Watt Solar Panel",
-      "short_title": "Luminous 170W Solar Panel ",
-      "specification": []
-    }
+  "03_001_001": {
+    "model": "SHARK BIFICAL 575 W",
+    "short_description": "The Loom Solar panel features a black/silver anodized aluminum frame with a twin-wall profile, measuring 2.28x1.13x0.3 meters, weighing 33 kg, and offering high efficiency for optimal performance.",
+    "long_description": [
+      "Less Shading Losses: 144 half-cut cells reduce shading losses, ensuring consistent energy production even in partial or full shade.",
+      "High Efficiency: TopCon technology boosts efficiency to 22.3%, delivering 575W power output, among the highest available.",
+      "Bifacial Technology: Generates power from both sides, potentially increasing output to 700W when installed over reflective surfaces.",
+      "Zero LID: Maintains efficiency with zero light-induced degradation, unlike typical panels that lose 2-3% efficiency in the first year.",
+      "Premium Quality: Made with a strong aluminum frame and toughened glass, protecting against impacts.",
+      "Easy Installation: Compact, lightweight design with pre-drilled holes reduces installation costs and simplifies setup.",
+      "Aesthetic Design: Modern black frame and half-cut cells provide a sleek appearance for rooftops or solar plants.",
+      "Space Saving: Generates 30-50% more power in limited space compared to traditional panels, ideal for residential rooftops"
+    ],
+    "long_title": "Loom Solar Panel Shark 575W TOPCon Bifacial",
+    "short_title": "Loom Solar Panel",  
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/solar/solar_panel/03_001_001/03_001_001.jpeg"
+  },
+  "03_001_002": {
+    "model": "1234",
+    "short_description": "Solar panels are those devices which are used to absorb the sun's rays and convert them into electricity or heat. Description: A solar panel is actually a collection of solar (or photovoltaic) cells, which can be used to generate electricity through photovoltaic effect.",
+    "long_description": [
+      "Package contains : Pack of 2, 550 Watt-24Volts Mono crystalline solar panel, 25 years performance warranty",
+      "EVA capsulation for better protection of modules, weather resilient, high cell conversion efficiency",
+      "Height - 150.5 cm, Width - 68.6 cm, Weight - 12kg",
+      "Output power capacity: 550 Watt; operating voltage: 24 volts",
+      "Strong aluminum frame on the panel provides resistance from any torsion whatsoever"
+    ],
+    "long_title": "Luminous BIS Certified Mono Perc Halfcut 550 Watt-24Volt Solar Panel",
+    "short_title": "Luminous SolarPanel",  
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/solar/solar_panel/03_001_002/03_001_002.jpeg"
+  },
+  "03_001_003": {
+    "model": "Tapo A200",
+    "short_description": "Tapo A200 Solar Panel, Adjustable Mounting Bracket, 4 m/13 ft Charging Cable, Mounting Anchors, Mounting Screws, Mounting Template, Waterproof Gasket, Quick Start Guide",
+    "long_description": [
+      "Non-Stop Solar Power Captures free, clean solar energy and provides non-stop power supply for your Tapo battery-powered cameras (Tapo C425, Tapo C420, and Tapo C400) to ensure they protect you all year round.",
+      "Up to 4.5W Charging Power Made of premium monocrystalline silicon cells, Tapo A200 captures plentiful solar energy and provides continuous power supply efficiently.",
+      "IP65 Weatherproof Offers excellent waterproof and dustproof performance for outdoor scenarios.",
+      "360° Adjustable Mounting Bracket Adjust your solar panel for the perfect angle to capture sufficient light."
+    ],
+    "long_title": "TP-Link Tapo A200 4.5W Non-Stop Solar Panel",
+    "short_title": "TP-Link Tapo A200 ",  
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/solar/solar_panel/03_001_003/03_001_003.jpeg"
+  },
+  "03_001_004": {
+    "model": "SHARK 55WATT",
+    "short_description": "Loom Solar metal panel, 66.5L x 43W x 3.5H cm, 5.52 kg, with 20% efficiency.",
+    "long_description": [
+      "Best in Class Efficiency: 55W Mono PERC Panel, ideal for portable solar systems and DIY projects.",
+      "Temperature Coefficient: Reliable power generation from -40°C to +85°C, perfect for outdoor use.",
+      "Premium Quality: Durable black aluminum frame and toughened glass, built to withstand harsh conditions.",
+      "Multipurpose: Versatile for mobile charging, DC devices, and power backup during travel.",
+      "Warranty: 25-year performance warranty with 90% efficiency after 10 years and 80% after 25 years."
+    ],
+    "long_title": "LOOM SOLAR Panel 55 WATT/12V Mono PERC",
+    "short_title": "LOOM SOLAR Panel",  
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/solar/solar_panel/03_001_004/03_001_004.jpeg"
+  },
+  "03_001_005": {
+    "model": "WSMDi-400",
+    "short_description": "WAAREE WSMDi-400 Solar Panel: 192.4 x 103.8 x 182.8 cm, 22 kg, 20.03% efficiency.",
+    "long_description": [
+      "Power Output: 400W, suitable for residential, commercial, and some industrial applications",
+      "Appearance: All Blackdesign with black frames and backsheets, ideal for visually appealing installations.",
+      "Technology: Likely uses monocrystalline or polycrystalline cells, impacting efficiency and durability.",
+      "Durability: Built to withstand various weather conditions with robust construction.",
+      "Applications: Versatile for grid-tied and off-grid setups, including rooftops, commercial buildings, and solar farms.",
+      "Certifications: Meets international standards like IEC 61215 and IEC 61730 for performance and safety.",
+      "Manufacturer: WAAREE Energies Ltd., a leading Indian solar panel manufacturer known for innovation and quality"
+    ],
+    "long_title": "WAAREE Solar Panel All Black 400 Watt",
+    "short_title": "WAAREE Solar Panel ",  
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/solar/solar_panel/03_001_005/03_001_005.jpeg"
+  },
+  "03_001_006": {
+    "model": "50 w Mono PERC",
+    "short_description": "ZunSolar Polycrystalline panel, 67x5x149 cm, 12 kg, offers high efficiency with durable, reliable performance for various solar applications.",
+    "long_description": [
+      "165-watt 12-volt",
+      "Polycrystalline solar panel",
+      "High-conversion solar cells | Robust design | 25-year warranty",
+      "Silver anodized aluminium frame",
+      "High transmission low iron tempered glass; Product Dimensions: 148 X 67 X 3 cm; Weight: 12 Kg; Package Content: 1 Solar Panel"
+    ],
+    "long_title": "ZunSolar 165 Watt 12 Volt Polycrystalline Solar Panel",
+    "short_title": "ZunSolar 165 Watt",  
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/solar/solar_panel/03_001_006/03_001_006.jpeg"
+  },
+  "03_001_007": {
+    "model": "Bi-535 Pack of 2",
+    "short_description": "WAAREE solar panel features tempered low iron glass, anodized aluminum frame, EVA encapsulation, IP65-rated junction box, and high efficiency; dimensions: 2.28L x 1.14W x 0.04H meters.",
+    "long_description": [
+      "High Power Output: 535W panels maximize energy production for residential and commercial use.",
+      "Durability: Built to withstand harsh weather, ensuring long-term performance.",
+      "Warranty & Service: Comes with a warranty and reliable after-sales support for peace of mind.",
+      "Bifacial Module: Generates electricity from both sides, boosting energy production with reflected light."
+    ],
+    "long_title": "WAAREE Solar Panel 535 Watt Halfcut 24 Volts",
+    "short_title": "WAAREE Solar Panel 535 Watt",  
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/solar/solar_panel/03_001_007/03_001_007.jpeg"
+  },
+  "03_001_008": {
+    "model": "LGV180V12",
+    "short_description": "Livguard aluminium mono panel measures 50L x 5W x 100H cm, weighs 10 kg, and is designed for efficient solar power generation.",
+    "long_description": [
+      "25-Year Warranty: Ensures 90% module efficiency.",
+      "Maximum Energy Capture: Glossy EVA, multi-EVA encapsulation, and high-transmission tempered glass.",
+      "PID Resistance: PID-free for longer life and lower degradation.",
+      "Durable Design: Silver anodized aluminum frame, tempered glass withstands heavy wind and snow loads.",
+      "IP67 Rated: Equipped with bypass diodes in the junction box."
+    ],
+    "long_title": "Livguard LGV12V180 180W/12v MonoCrystalline Solar Panel",
+    "short_title": "Livguard LGV12V180 180W/12v ",  
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/solar/solar_panel/03_001_008/03_001_008.jpeg"
+  },
+  "03_001_009": {
+    "model": "WSMD-450- Pack of 2",
+    "short_description": "WAAREE solar panel features tempered low iron glass, anodized aluminum frame, and EVA encapsulation. It has IP65-rated weatherproof junction box and MC4 connectors. Dimensions: 2.08 x 1.08 x 0.04 meters.",
+    "long_description": [
+      "High Efficiency: 450W Mono PERC panels generate more electricity than traditional panels.",
+      "Advanced Technology: PERC technology enhances light absorption, even in low-light conditions.",
+      "Durable & Reliable: Built with high-quality materials to withstand harsh weather conditions.",
+      "Halfcut Design: 144 halfcut cells reduce shading impact and boost energy output.",
+      "Easy Installation: Compact and lightweight with pre-drilled holes for simple mounting.",
+      "Wide Applications: Ideal for residential and commercial use, reducing grid dependence.",
+      "Eco-Friendly: Promotes sustainable energy by harnessing solar power.",
+      "Trusted Brand: WAAREE is a reputable name with a 30-year warranty for peace of mind."
+    ],
+    "long_title": "WAAREE Solar Panel 450 Watt",
+    "short_title": "WAAREE Solar Panel",  
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/solar/solar_panel/03_001_009/03_001_009.jpeg"
+  },
+  "03_001_010": {
+    "model": "LUM 12170 X 2",
+    "short_description": "The Luminous solar panel features a durable silver anodized aluminum alloy frame and 3.2mm AR-coated tempered glass. Measuring 150.5x68.6x3.5 cm, it weighs 24 kg and offers high efficiency.",
+    "long_description": [
+      "Excellent Low Light Performance",
+      "Advance EVA Encapsulation",
+      "PID Resistance Technology",
+      "Resilience to Extreme Weather",
+      "BIS Certified"
+    ],
+    "long_title": "Luminous BIS Certified Polycrystalline 170 Watt Solar Panel",
+    "short_title": "Luminous 170W Solar Panel ",  
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/solar/solar_panel/03_001_010/03_001_010.jpeg"
+  },
+  "03_002_001": {
+    "model": "SSL-ABS-120W",
+    "short_description": "The Hardoll solar-powered outdoor light in grey, made from durable Acrylonitrile Butadiene Styrene, is energy-efficient, waterproof, and ideal for garden installation. Dimensions: 2'8W x 6'1H cm.",
+    "long_description": [
+      " Solar Powered: 5V/17W Monocrystalline panel charges quickly, with 16000mAh LiFePO4 battery providing 1-day backup.",
+      " Waterproof: IP65 ABS plastic build withstands rain and harsh weather; ideal for outdoor use.",
+      " No Electricity Needed: Saves on bills, perfect for large residential and commercial areas; auto on/off with daylight sensor.",
+      " Multiple Lighting Modes: Remote-controlled with six lighting options and microwave radar motion sensor.",
+      " Long Working Time: 288 LEDs, 3060 Lumens, charges in 6-8 hours for full-day illumination.",
+      "Note: Wattage reflects brightness equivalent to incandescent bulbs."
+    ],
+    "long_title": "Hardoll 120W Street Light LED Outdoor Waterproof Lamp ",
+    "short_title": "Hardoll 120W ",  
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/solar/solar_light/03_002_001/03_002_001.jpeg"
+  },
+  "03_002_002": {
+    "model": " SSL-ABS-600W",
+    "short_description": "The Hardoll black solar-powered light, made from Acrylonitrile Butadiene Styrene, is energy-efficient and waterproof. Ideal for garden, outdoor, and street use. Dimensions: 78L x 30W x 5H cm.",
+    "long_description": [
+      "Solar Powered: 25W panel, 30000mAh LiFePO4 battery, 10-12 hours of lighting.",
+      " Waterproof: IP65 ABS plastic, ideal for outdoor use, weather-resistant.",
+      " No Electricity: Auto on/off, perfect for large residential and commercial areas.",
+      " Lighting Modes: Remote-controlled, six modes with microwave radar motion sensor.",
+      " Long Working Time: 600 LEDs, 600W, 2074 Lumens, charges in 6-8 hours.",
+      "Replaceable Battery: Eco-friendly, long-lasting solution for outdoor lighting.",
+      " Note: Wattage reflects brightness equivalent to incandescent bulbs."
+    ],
+    "long_title": "Hardoll 600W Light Outdoor Waterproof Lamp",
+    "short_title": "Hardoll 600W Light LED",  
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/solar/solar_light/03_002_002/03_002_002.jpeg"
+  },
+  "03_002_003": {
+    "model": "EU6984",
+    "short_description": "The Solpex modern LED light features a cold white finish with a powder-coated stainless steel base and shade. Weighing 2 kg, it has a push-button switch and a sleek design.",
+    "long_description": [
+      "Elegant Design: Perfect for pathways, driveways, and gardens.",
+      "Weatherproof: Durable stainless steel, withstands rain and light snow.",
+      "Energy Saving: Solar-powered, 6-8 hours of sunlight for 8-10 hours of night lighting.",
+      "Easy Installation: Simple stake setup, auto on/off.",
+      "Money-Back Warranty: Return within 30 days for a full refund if not satisfied."
+    ],
+    "long_title": " Solpex Solar Lights Outdoor Led Lights",
+    "short_title": "Solpex Solar Lights",  
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/solar/solar_light/03_002_003/03_002_003.jpeg"
+  },
+  "03_002_004": {
+    "model": " EU-XF-XIN-HA",
+    "short_description": "The Solpex solar-powered LED light emits warm white light. Designed for floor mounting, it offers energy-efficient illumination with a sleek and modern look.",
+    "long_description": [
+      "Unique Design: High brightness with an attractive water-ripple pattern.",
+      "Long-Lasting: Charges in 6-8 hours, provides 10-12 hours of illumination.",
+      "Efficient Solar Power: Upgraded panels and high-power LEDs for superior brightness.",
+      "Weather-Resistant: Durable and reliable in all weather conditions.",
+      "Easy Installation: Quick setup, even in hard soil."
+    ],
+    "long_title": " Solpex Cleanux Zone Solar Outdoor Waterproof Lights",
+    "short_title": "Solpex Cleanux Zone ",  
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/solar/solar_light/03_002_004/03_002_004.jpeg"
+  },
+  "03_002_005": {
+    "model": " GW-202",
+    "short_description": "The GIGAWATTS solar-powered 32 LED street light, made of polyvinyl chloride, is a wall-mounted fixture ideal for outdoor use. It measures 30L x 10W x 5H cm and features LED lighting.",
+    "long_description": [
+      "High Efficiency: 6V solar panel for optimal energy conversion.",
+      "Bright Illumination: 32 LEDs, 560 lumens of warm yellow light.",
+      "Durable: IP65 waterproof, ideal for all-weather use.",
+      "Security Features: PIR motion sensor detects movement within 120°.",
+      "Long Battery Life: 1500mAh Li-ion battery for all-night operation."
+    ],
+    "long_title": " GIGAWATTS GW-202 32 LED Solar Street Light",
+    "short_title": " GIGAWATTS GW-202",  
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/solar/solar_light/03_002_005/03_002_005.jpeg"
+  },
+  "03_002_006": {
+    "model": " SGL-UFO-300W-SQ",
+    "short_description": "The Hardoll solar-powered wall light, made of black ABS plastic, measures 42L x 42W x 13H cm. Ideal for gardens and outdoor areas, it features a flush mount installation.",
+    "long_description": [
+      "No Electricity/Wiring: Powered by a 6V/15W solar panel and 2V/12000mAh lithium battery.",
+      " Intelligent Control: Auto activation at dusk, motion-activated for security.",
+      "Waterproof: IP65 ABS plastic, safe from rain and weather.",
+      "Remote Controlled: Adjust settings and modes from a distance."
+    ],
+    "long_title": " Hardoll 300W Solar Light for Home Garden LED",
+    "short_title": "Hardoll 300W Solar ",  
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/solar/solar_light/03_002_006/03_002_006.jpeg"
+  },
+  "03_002_007": {
+    "model": " SCL-200W ",
+    "short_description": "The Hardoll solar-powered ceiling light in white, made from Acrylonitrile Butadiene Styrene, measures 32L x 32W x 7H cm. Suitable for indoor and outdoor use, it features a ceiling mount.",
+    "long_description": [
+      "Solar Powered: 6V/18W panel, 2V/18000mAh battery, 12 hours of light.",
+      "IP44 Waterproof: Durable PP+PS material, withstands severe weather.",
+      "Automatic & Remote Control: 170 LEDs, 2345 lumens, auto on/off, remote with timing options.",
+      " Three Color Modes: Cool white, warm white, and white.",
+      " Easy Installation: Includes 5m waterproof power cord and mounting screws."
+    ],
+    "long_title": " Hardoll 200W Solar Light Indoor Ceiling Lamp",
+    "short_title": "Hardoll 200W Solar Light",  
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/solar/solar_light/03_002_007/03_002_007.jpeg"
+  },
+  "03_002_008": {
+    "model": "SGL-UFO-800W",
+    "short_description": "The Hardoll solar path light, made of aluminum, features a color-changing, energy-efficient design. Measuring 56L x 55W x 17H cm, it's waterproof, water-resistant, and ideal for gardens and outdoor use.",
+    "long_description": [
+      "Efficient Solar Panel: 4V/30W polycrystalline panel, charges a 2V 32Ah Lithium Iron Phosphate battery.",
+      "360° Luminous Angle: Multi-color modes (Cool White, Warm White, RGB) with wide coverage.",
+      "Remote/App & Music Rhythm Mode: Lights dance to music, customizable via remote or app.",
+      "408 LEDs & Waterproof: 800W capacity, 10-12 hours of bright lighting, IP65 waterproof.",
+      "Easy DIY Setup: Wireless, easy to install with provided screws."
+    ],
+    "long_title": "Hardoll 800W Solar Light Outdoor UFO Lamp",
+    "short_title": "Hardoll 800w Solar Light",  
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/solar/solar_light/03_002_008/03_002_008.jpeg"
+  },
+  "03_002_009": {
+    "model": "SPL-48-POLE-1",
+    "short_description": "The Hardoll solar-powered wall light, in black aluminum and polycarbonate, features a modern design. Measuring 84L x 18.5W x 18.5H cm, it's ideal for gardens and outdoor use.",
+    "long_description": [
+      "Solar-Powered: 5V/10W monocrystalline panel, 2V 4400mAh battery, efficient even on cloudy days.",
+      "IP65 Waterproof: Durable aluminum alloy and IP65 ABS, withstands severe weather.",
+      "Automatic & Remote Control: 48 LEDs, 1200 lumens, auto on/off, remote for timing (3, 5, or 8 hours).",
+      "Three Color Modes: Cool white, warm white, and white options.",
+      "Easy Installation: No wiring needed, simple setup with screws."
+    ],
+    "long_title": " Hardoll Solar Light Outdoor Waterproof Pillar Wall Gate Post Lamp with Pole",
+    "short_title": "Hardoll Solar Light",  
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/solar/solar_light/03_002_009/03_002_009.jpeg"
+  },
+  "03_002_010": {
+    "model": " SPL-33WRGB-HEX-D2",
+    "short_description": "The Hardoll SPL-33WRGB-HEX-D2 10W solar LED lights, available in a pack of 2, feature hexagon designs in warm white and RGB. They are waterproof, ideal for home, outdoor, and garden decoration.",
+    "long_description": [
+      "No Electricity/Wiring: 6V/8W solar panel, 7V/1500mAh battery; eco-friendly and cost-effective.",
+      "Weatherproof: IP65 ABS plastic, withstands rain, heat, snow.",
+      "Easy Installation: Mounts easily on walls or poles; no wiring needed.",
+      "Automatic Operation: Lights up automatically at night, 33 LEDs, 10 colors, 12 hours of illumination.",
+      "Attractive Design: Hexagon shape, ornate top, and transparent cover for stylish outdoor lighting."
+    ],
+    "long_title": " Hardoll Solar LED Lights for Garden Wall Decorative Gate Lamp",
+    "short_title": "Hardoll 10W Solar ",  
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/solar/solar_light/03_002_010/03_002_010.jpeg"
+  },
+  "03_003_001": {
+    "model": "11.1V 10000mah Lithium ion Battery Pack",
+    "short_description": "This 48V rechargeable Lithium-Phosphate battery by LRSA TECHNOLOGY PVT. LTD is designed for bicycles. Weighs 1000g, dimensions 5.1 x 5.1 x 7.6 cm. Requires 1 lithium-ion battery.",
+    "long_description": [
+      "Very Small in size and weight compared to Ni-Cd, Ni-MH, Li-ion and Lead Acid Batteries",
+      "High discharge rate performance.",
+      "Maximum Capacity – 30 AH or 30000 mah Battery voltage- 48v",
+      "Long life with full capacity for upto 2500-3000 charge cycles"
+    ],
+    "long_title": "LRSA TECHNOLOGY PVT. LTD 48V 30Ah Li-Fe Lithium Phosphate Battery Pack (LiFePO4)",
+    "short_title": "LRSA TECHNOLOGY PVT. LTD ",  
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/solar/solar_battery/03_003_001/03_003_001.jpeg"
+  },
+  "03_003_002": {
+    "model": "Gr_LFP_24V_100AH",
+    "short_description": "This Graphene 24V lithium-phosphate battery (model LFP_24V_100AH) is ideal for home inverters. Weighs 40 kg, dimensions 36 x 26.5 x 24 cm, and includes one lithium metal battery.",
+    "long_description": [
+      "Lifespan: LiFePO4 batteries last much longer, typically 15-20 years compared to 3-5 years for lead acid.",
+      "Depth of Discharge (DoD): LiFePO4 batteries can be discharged much deeper (around 95%) without harm, whereas lead acid batteries typically need to stay above 50% DoD for optimal lifespan.",
+      "Efficiency: LiFePO4 batteries have a higher round-trip efficiency (95% vs 80-85% for lead acid), meaning less energy is lost during charging and discharging.",
+      "Weight and Size: LiFePO4 batteries are lighter and more compact than lead acid batteries for the same amount of stored energy.",
+      "Warranty: 7 Year battery { 60 Months(Complete) + 24 Months (Pro-rata)",
+      "Discharge Rate: LiFePO4 batteries can deliver their full power even during high discharge rates, whereas lead acid capacity reduces at high discharge.",
+      "Maintenance: LiFePO4 batteries require no maintenance, unlike lead acid batteries which need to be watered periodically"
+    ],
+    "long_title": "GRAPHENE® 24 Volt 100AH Lithium Ferro Phosphate Inverter Battery",
+    "short_title": "GRAPHENE® 24V 100AH",  
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/solar/solar_battery/03_003_002/03_003_002.jpeg"
+  },
+  "03_003_003": {
+    "model": "ASHV-12V15AH",
+    "short_description": "The ASHVAVOLT 12V 15Ah rechargeable lithium-ion battery pack, ideal for bikes, offers 11.1V with 15A capacity. Includes one battery with 15,000mAh capacity. Reusable and reliable.",
+    "long_description": [
+      "Nominal Voltage: 11.1V (12V), Nominal Capacity: 15Ah, Energy: 189Wh",
+"Protect against short circuit, cell over voltage, cell under Voltage, charge over current and discharge under current.",
+"1 year warranty is available with the battery.",
+"Cycle Life: 1000-1500",
+"Normal Charge Current: 3.0 Amps - 5.0Amps",
+"Nominal Continuous Discharge Current: 5.0 Amps, Maximum Continuous Discharge Current: 15Amps",
+"It is designed to the highest automotive standards.",
+"AshvaVolt 12V 15Ah portable battery pack is a compact, safe and economical Li-Ion battery pack. This standalone battery pack is designed with high power NMC Li-Ion Cells.",
+"Using 3c Cells & high Backup Cells.",
+"A Class BMS ensures 24/7 battery performance and safety, Protect against short circuit, cell over voltage, cell under Voltage, charge over current and discharge under current."
+    ],
+    "long_title": "AshvaVolt® 12V 15Ah Lithium-Ion Rechargeable Battery Pack for Electric Cycle",
+    "short_title": "AshvaVolt® 12V 15Ah",  
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/solar/solar_battery/03_003_003/03_003_003.jpeg"
+  },
+  "03_003_004": {
+    "model": "Solar Battery",
+    "short_description": "LITPAX Solar Battery, a 12.8V rechargeable lithium-phosphate cell, weighs 2.5 kg. Designed for solar power applications, it includes one battery, ideal for efficient and sustainable energy storage.",
+    "long_description": [
+      "Chemistry: Lithium Iron Phosphate (LiFePO4)",
+      "Voltage: 12 Volts",
+      "Nominal Capacity: Typically available in various capacities (e.g., 20Ah, 50Ah, 100Ah)",
+      "Cycle Life: Longer cycle life compared to other lithium-ion chemistries (typically over 2000 cycles)",
+      "Safety: Known for its thermal stability and reduced risk of thermal runaway or fire",
+      "High Discharge Current: Suitable for applications requiring high discharge rates for solar and wind power",
+      "Fast Charging: Capable of relatively fast compared to some other lithium-ion batteries"
+    ],
+    "long_title": "Litpax 12v-24Ah Lithium Ion Phosphate Deep Cycle Battery",
+    "short_title": "Litpax 12v-24Ah Lithium",  
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/solar/solar_battery/03_003_004/03_003_004.jpeg"
+  },
+  "03_003_005": {
+    "model": "2131",
+    "short_description": "FOTO POWER 7.4V rechargeable lithium-ion battery, ideal for cameras. Weighs 3000g, dimensions 18 x 9 x 13 cm. Includes one battery, providing reliable power for photography needs.",
+    "long_description": [
+      "Batteries  : Lithium Ion batteries required.",
+      "Product Dimensions  :  48 x 26 x 24 cm",
+      "Date First Available  :  10 May 2022",
+      "Battery Capacity: 20000 Milliamp Hours",
+      "Country of Origin  : India",
+      "Item Dimensions LxWxH :  28 x 18 x 18 Centimeters",
+      "Net Quantity  :  1.0 count",
+      "Generic Name  :  battery",
+      "Amperage: 30ah"
+    ],
+    "long_title": "48v 20000Mah Lithium-Ion Rechargeable Battery Pack (48V 20Ah) Brand -FOTO POWER ",
+    "short_title": "48v 20000Mah Lithium-Ion",  
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/solar/solar_battery/03_003_005/03_003_005.jpeg"
+  },
+  "03_003_006": {
+    "model": "2131",
+    "short_description": "FOTO POWER 7.4V lithium-ion battery, 6000mAh capacity, is ideal for cameras. Rechargeable and reliable, it includes one battery per pack, ensuring long-lasting power for photography needs.",
+    "long_description": [
+      "Batteries:  Lithium Ion batteries required.",
+      "Product Dimensions :  30 x 18 x 18 cm",
+      "Date First Available  : 10 May 2022",
+      "Battery Capacity: 10000 Milliamp Hours",
+      "Country of Origin  :  India",
+      "Item Dimensions LxWxH  :  25 x 17 x 15 Centimeters",
+      "Net Quantity  :  1.0 count"
+    ],
+    "long_title": "24V 10000Mah Lithium-Ion Rechargeable Battery",
+    "short_title": "24V 10000Mah Lithium-Ion",  
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/solar/solar_battery/03_003_006/03_003_006.jpeg"
+  },
+  "03_003_007": {
+    "model": "Solar Battery",
+    "short_description": "SAURALLY 12V lithium-phosphate battery, weighing 1.4 kg, is rechargeable and suitable for EV scooters, HomeKit, inverters, and solar street lights. Dimensions: 15 x 10 x 7 cm. Made in India.",
+    "long_description": [
+      "Nominal Voltage: 12.8V",
+      "Output Voltage Range: 12.8 - 13.6 by test conditions (eg, temperature, wire loss, test equipment, test parameters, etc.)",
+      "Charging - Charge mode: CC CV - Use a S Lithium-ion battery dedicated charger to charge up to 12.6v",
+      "Charge current 5A max",
+      "Discharge - Continuous discharge current 5Av",
+      "Instantaneous discharge current 7A"
+    ],
+    "long_title": "SAURALLY Lithium Iron Phosphate Lfp Battery",
+    "short_title": "SAURALLY-12V Battery",  
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/solar/solar_battery/03_003_007/03_003_007.jpeg"
+  },
+  "03_003_008": {
+    "model": "ASHV-12V7AH",
+    "short_description": "ASHVAVOLT 12V 7Ah lithium-ion battery pack, 7000mAh capacity, rechargeable, includes one battery. Ideal for various applications, with 11.1V voltage. Manufacturer: AshvaVolt, contact at 8750469096 or ashvavolt.com.",
+    "long_description": [
+      "Nominal Voltage: 11.1V (12V), Nominal Capacity: 7Ah, Energy: 84Wh",
+      "Protect against short circuit, cell over voltage, cell under Voltage, charge over current and discharge under current.",
+      "1 year warranty is available with the battery.",
+      "Cycle Life: 1000-1500",
+      "Normal Charge Current: 3.0 Amps - 5.0Amps",
+      "Nominal Continuous Discharge Current: 5.0 Amps, Maximum Continuous Discharge Current: 10.0 Amps",
+      "It is designed to the highest automotive standards"
+    ],
+    "long_title": "AshvaVolt® 12v 7AH Lithium-Ion Rechargeable Battery",
+    "short_title": "AshvaVolt® 12v Battery",  
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/solar/solar_battery/03_003_008/03_003_008.jpeg"
+  },
+  "03_003_009": {
+    "model": "Solar Battery",
+    "short_description": "MAENT 12V 7Ah lithium-ion battery pack includes 6 rechargeable batteries. Weighing 305g, it suits tablets, GPS, drones, and cameras. Dimensions: 6.8 x 5.5 x 4 cm. Manufacturer: AshvaVolt.",
+    "long_description": [
+      "100% New Genuine BIS Approved Actual Capacity Battery",
+      "3S2P Configuration High capacity, small size, light weight",
+      "Meets to all safety norms for handling,can be used as UPS for CCTV camera DVR etc."
+    ],
+    "long_title": "MAEnt™ 12V Li-ion 18650 Lithium ion Rechargeable Battery",
+    "short_title": "MAEnt™ 12V Battery",  
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/solar/solar_battery/03_003_009/03_003_009.jpeg"
+  },
+  "03_003_010": {
+    "model": "Solar Battery",
+    "short_description": "MAENT 12V lithium-ion battery pack includes 24 batteries, ideal for tablets, GPS, drones, and cameras. Each 7Ah, 7000mAh, rechargeable battery weighs 270g. Dimensions: 6.8 x 5.5 x 4 cm.",
+    "long_description": [
+      " 100% New Genuine BIS Approved Actual Capacity Battery",
+      "3S8P Configuration High capacity, small size, light weight",
+      "Meets to all safety norms for handling,can be used as UPS for CCTV camera DVR etc."
+    ],
+    "long_title": "MAEnt™ 12V Li-ion 18650 Lithium ion Rechargeable Battery",
+    "short_title": "MAEnt™ 12V Li-ion",  
+    "variation": [],
+    "specification": [],
+    "image": "./image/product/solar/solar_battery/03_003_010/03_003_010.jpeg"
+  }
 }
-
-
-

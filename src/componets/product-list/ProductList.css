@@ -1,12 +1,10 @@
-   .custom-gap {
-    row-gap: 25px;
-   }
+.product_card_container {
+   margin: 10px 25px;
+}
 
-   .product_list_heading {
-      font-weight: 900;
-      font-size: 25px;
-      margin-top: 15px;
-      margin-bottom: 25px;
-   }
-
-   
+.product_list_heading {
+   font-weight: 900;
+   font-size: 25px;
+   margin-top: 15px;
+   margin-bottom: 25px;
+}
