@@ -1,6 +1,6 @@
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation } from 'swiper/modules';
-import ProductCard from '../product-card/Product-card';
+import ProductCard from '../product-card/ProductCard';
 import 'swiper/css';
 import 'swiper/css/navigation';
 import './Featured.css';
