@@ -16,7 +16,9 @@ const Footer = () => {
          <FaLinkedin   className="footer_icon"/>
             </div>
         <div className="footer_buttom">
-          © 2000-2024, NUEZ Technologies Pvt Ltd. All right reserved.
+          © 2000-2024, NUEZ Technologies Pvt Ltd
+        <br/>
+           All right reserved.
         </div>
       
       </footer>

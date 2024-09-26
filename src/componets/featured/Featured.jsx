@@ -6,6 +6,7 @@ import 'swiper/css/navigation';
 import './Featured.css';
 import Product_light_data from '../../data/light/product.json';
 import Product_cctv_data from '../../data/cctv/product.json';
+import Product_automation_data from '../../data/automation/product.json';
 import Product_solar_data from '../../data/solar/product.json';
 import Category_data from '../../data/category.json'
 import Button from 'react-bootstrap/Button';
@@ -64,6 +65,8 @@ function Featured() {
         return Product_light_data;
       case 'cctv':
         return Product_cctv_data;
+        case 'automation':
+          return Product_automation_data;
       case 'solar':
         return Product_solar_data;
       default:

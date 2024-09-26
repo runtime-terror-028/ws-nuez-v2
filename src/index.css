@@ -17,3 +17,25 @@ code {
   --nav_height: 65px; 
 }
 
+#footer{
+  display: flex;
+  flex-direction: column;
+  background: #b81e1e;
+  margin-top: 25px;
+
+}
+
+.footer_social_container{
+  display:flex;
+  justify-content: center;
+  gap:10px;
+  margin-top: 20px;
+}
+
+
+.footer_buttom{
+
+  text-align: center;
+  height: fit-content;
+  padding-top: 10px;
+}

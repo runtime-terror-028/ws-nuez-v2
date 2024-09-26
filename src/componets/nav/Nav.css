@@ -15,25 +15,31 @@
 /* Optional: Make the collapse background specific to smaller screens */
 @media (max-width: 992px) {
   .main_nav .navbar-collapse {
-    background-color: #a9a9a9; /* Adjust color for mobile */
+    background-color: #f7d79b;
     border-radius: 8px;
     padding: 20px;
   }
-
+  
   .main_nav .nav-link,
   .main_nav .dropdown-item {
-    color: white !important; /* Ensure links are readable */
+    color: black !important; /* Ensure links are readable */
   }
+  .product_button_color {
+    color: black !important;
+  }
+}
+.product_button_color {
+  color: white;
 }
 
 /* Dropdown-specific styles for Nav.Link and NavDropdown items */
 .main_nav .navbar-nav .dropdown-menu {
-  background-color: #c6c6c6; /* Match the dropdown background color */
   border-radius: 0.25rem;
+  background-color: #f5deb3; /* Adjust color for mobile */
 }
 
 .main_nav .navbar-nav .dropdown-item:hover {
   background-color: #495057; /* Slightly darker on hover */
-  color: white;
+  color: black;
 }
 

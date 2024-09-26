@@ -22,13 +22,13 @@ function NavBar() {
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ms-auto nav_text_1">
               <Nav.Link className="text-light" as={Link} to="/">Home</Nav.Link>
-              <NavDropdown title={<span className="text-white">Products</span>} id="basic-nav-dropdown">
-                <NavDropdown.Item as={Link} to="/light">Light</NavDropdown.Item>
-                <NavDropdown.Item as={Link} to="/cctv">CCTV</NavDropdown.Item>
-                <NavDropdown.Item as={Link} to="/automation">Home Autotmation</NavDropdown.Item>
-                <NavDropdown.Item as={Link} to="/solar">Solar Solutions</NavDropdown.Item>
-                <NavDropdown.Item as={Link} to="/bms">BMS</NavDropdown.Item>
-                <NavDropdown.Item as={Link} to="/smart-bench">Smart Bench</NavDropdown.Item>
+              <NavDropdown title={<span className="product_button_color">Products</span>} id="basic-nav-dropdown">
+                <NavDropdown.Item className="nav_button" as={Link} to="/light">Light</NavDropdown.Item>
+                <NavDropdown.Item className="nav_button" as={Link} to="/cctv">CCTV</NavDropdown.Item>
+                <NavDropdown.Item className="nav_button" as={Link} to="/automation">Home Autotmation</NavDropdown.Item>
+                <NavDropdown.Item className="nav_button" as={Link} to="/solar">Solar Solutions</NavDropdown.Item>
+                <NavDropdown.Item className="nav_button" as={Link} to="/bms">BMS</NavDropdown.Item>
+                <NavDropdown.Item className="nav_button" as={Link} to="/smart-bench">Smart Bench</NavDropdown.Item>
               </NavDropdown>
               <Nav.Link className="text-white" as={Link} to="/about">About us</Nav.Link>
               <Nav.Link className="text-white" as={Link} to="/contact">Contact us</Nav.Link>
