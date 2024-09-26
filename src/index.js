@@ -13,7 +13,7 @@ export default function App() {
       <Routes>
         <Route path="/" element={<Nav />}>
           <Route index element={<Home />} />
-          <Route path=":categoryID" element={<ProductPage />} />
+          <Route path="/product/:categoryID" element={<ProductPage />} />
           <Route path="*" element={<NoPage />} />
         </Route>
       </Routes>
