@@ -1898,6 +1898,856 @@
     ],
     "image": "./image/product/light/wall_lamps/01_003_050/01_003_050_1.jpeg"
   },
+  "01_003_051": {
+    "model": "5204-2WH",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 5204-2WH",
+    "short_title": "WALL LAMPS 5204-2WH",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 5204-2WH",
+      "LAMP: 2XE14",
+      "SIZE: W105MM X H370MM X D165MM",
+      "FINISH: ANTIQUE BRASS",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 4600"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_051/01_003_051_1.jpeg"
+  },
+  "01_003_052": {
+    "model": "LN 9525-WH",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS LN 9525-WH",
+    "short_title": "WALL LAMPS LN",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: LN 9525-WH",
+      "LAMP: 1XE27",
+      "SIZE: W120MM X H780MM",
+      "FINISH: ANTIQUE BRASS",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 4200"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_052/01_003_052_1.jpeg"
+  },
+  "01_003_053": {
+    "model": "LN 9525-SM",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS LN 9525-SM",
+    "short_title": "WALL LAMPS LN",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: LN 9525-SM",
+      "LAMP: 1XE27",
+      "SIZE: L100MM X W192MM X H530MM",
+      "FINISH: SMOKE GLASS + ANTIQUE BRASS",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 4200"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_053/01_003_053_1.jpeg"
+  },
+  "01_003_054": {
+    "model": "LN 9525-AM",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS LN 9525-AM",
+    "short_title": "WALL LAMPS LN",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: LN 9525-AM",
+      "LAMP: 1XE27",
+      "SIZE: W120MM X H780MM",
+      "FINISH: ANTIQUE BRASS",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 4200"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_054/01_003_054_1.jpeg"
+  },
+  "01_003_055": {
+    "model": "AW-SM",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS AW-SM",
+    "short_title": "WALL LAMPS AW-SM",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: AW-SM",
+      "LAMP: 1XE14",
+      "SIZE: W150MM X H200MM",
+      "FINISH: ANTIQUE BRASS",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 3600"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_055/01_003_055_1.jpeg"
+  },
+  "01_003_056": {
+    "model": "AW-AM",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS AW-AM",
+    "short_title": "WALL LAMPS AW-AM",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: AW-AM",
+      "LAMP: 1XE14",
+      "SIZE: W150MM X H200MM",
+      "FINISH: ANTIQUE BRASS",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 3600"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_056/01_003_056_1.jpeg"
+  },
+  "01_003_057": {
+    "model": "G304-W",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS G304-W",
+    "short_title": "WALL LAMPS G304-W",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: G304-W",
+      "LAMP: LED",
+      "SIZE: W270MM X H550MM",
+      "FINISH: ANTIQUE BRASS",
+      "MATERIAL: METAL + AMBER GLASS",
+      "PRICE: 7600"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_057/01_003_057_1.jpeg"
+  },
+  "01_003_058": {
+    "model": "6008-2BK",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 6008-2BK",
+    "short_title": "WALL LAMPS 6008-2BK",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 6008-2BK",
+      "LAMP: 2XE27",
+      "SIZE: H400MM X D150MM",
+      "FINISH: BLACK",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 3100"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_058/01_003_058_1.jpeg"
+  },
+  "01_003_059": {
+    "model": "5198-1",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 5198-1",
+    "short_title": "WALL LAMPS 5198-1",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 5198-1",
+      "LAMP: 1XE27",
+      "SIZE: W150MM X H330MM",
+      "FINISH: ANTIQUE BRASS",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 3400"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_059/01_003_059_1.jpeg"
+  },
+  "01_003_060": {
+    "model": "5191-1",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 5191-1",
+    "short_title": "WALL LAMPS 5191-1",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 5191-1",
+      "LAMP: 1XE27",
+      "SIZE: W140 X H340MM X D230MM",
+      "FINISH: ANTIQUE BRASS + BLACK",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 3800"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_060/01_003_060_1.jpeg"
+  },
+  "01_003_061": {
+    "model": "7131-1",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 7131-1",
+    "short_title": "WALL LAMPS 7131-1",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 7131-1",
+      "LAMP: 1XE27",
+      "SIZE: W190MM X H300MM X D265MM",
+      "FINISH: ANTIQUE BRASS + BLACK",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 2900"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_061/01_003_061_1.jpeg"
+  },
+  "01_003_062": {
+    "model": "7130-1",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 7130-1",
+    "short_title": "WALL LAMPS 7130-1",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 7130-1",
+      "LAMP: 1XE27",
+      "SIZE: W190MM X H300MM X D265MM",
+      "FINISH: ANTIQUE BRASS + BLACK",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 2600"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_062/01_003_062_1.jpeg"
+  },
+  "01_003_063": {
+    "model": "7870-AB",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 7870-AB",
+    "short_title": "WALL LAMPS 7870-AB",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 7870-AB",
+      "LAMP: 1XG9",
+      "SIZE: W300MM X D150MM",
+      "FINISH: BRUSHED BRASS",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 5800"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_063/01_003_063_1.jpeg"
+  },
+  "01_003_064": {
+    "model": "7880-W",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 7880-W",
+    "short_title": "WALL LAMPS 7880-W",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 7880-W",
+      "LAMP: 1XG9",
+      "SIZE: W250MM X D150MM",
+      "FINISH: BROWN",
+      "MATERIAL: WOOD + GLASS + METAL",
+      "PRICE: 5600"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_064/01_003_064_1.jpeg"
+  },
+  "01_003_065": {
+    "model": "0151-UW",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 0151-UW",
+    "short_title": "WALL LAMPS 0151-UW",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 0151-UW",
+      "LAMP: 1XE27",
+      "SIZE: W160MM X H430MM",
+      "FINISH: BLACK + ANTIQUE BRASS",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 4200"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_065/01_003_065_1.jpeg"
+  },
+  "01_003_066": {
+    "model": "2003-W",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 2003-W",
+    "short_title": "WALL LAMPS 2003-W",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 2003-W",
+      "LAMP: 1XG9",
+      "SIZE: W100MM X H400MM",
+      "FINISH: ANTIQUE BRASS + BLACK",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 2800"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_066/01_003_066_1.jpeg"
+  },
+  "01_003_067": {
+    "model": "0150-W",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 0150-W",
+    "short_title": "WALL LAMPS 0150-W",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 0150-W",
+      "LAMP: 1XE27",
+      "SIZE: W150MM X H330MM X D200MM",
+      "FINISH: ANTIQUE BRASS",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 3800"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_067/01_003_067_1.jpeg"
+  },
+  "01_003_068": {
+    "model": "5247-W",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 5247-W",
+    "short_title": "WALL LAMPS 5247-W",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 5247-W",
+      "LAMP: 1XE27",
+      "SIZE: W210MM X H425MM X D200MM",
+      "FINISH: ANTIQUE GOLD",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 3800"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_068/01_003_068_1.jpeg"
+  },
+  "01_003_069": {
+    "model": "151-150W",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 151-150W",
+    "short_title": "WALL LAMPS 151-150W",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 151-150W",
+      "LAMP: 1XE27",
+      "SIZE: H380MM X D240MM X H150MM",
+      "FINISH: ANTIQUE BRASS",
+      "MATERIAL: METAL",
+      "PRICE: 3600"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_069/01_003_069_1.jpeg"
+  },
+  "01_003_070": {
+    "model": "053-W",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 053-W",
+    "short_title": "WALL LAMPS 053-W",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 053-W",
+      "LAMP: 1XE27",
+      "SIZE: W200MM X D300MM X H230MM",
+      "FINISH: ANTIQUE BRASS + WHITE",
+      "MATERIAL: METAL",
+      "PRICE: 3900"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_070/01_003_070_1.jpeg"
+  },
+  "01_003_071": {
+    "model": "01152-WD",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 01152-WD",
+    "short_title": "WALL LAMPS 01152-WD",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 01152-WD",
+      "LAMP: 1XE27",
+      "SIZE: W160MM X H290MM X D230MM",
+      "FINISH: ANTIQUE BRASS + DARK WOOD",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 4200"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_071/01_003_071_1.jpeg"
+  },
+  "01_003_072": {
+    "model": "01153-AB",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 01153-AB",
+    "short_title": "WALL LAMPS 01153-AB",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 01153-AB",
+      "LAMP: 1XE27",
+      "SIZE: W160MM X H290MM X D230MM",
+      "FINISH: BRUSHED BRASS + BLACK",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 3800"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_072/01_003_072_1.jpeg"
+  },
+  "01_003_073": {
+    "model": "6770-1AB",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 6770-1AB",
+    "short_title": "WALL LAMPS 6770-1AB",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 6770-1AB",
+      "LAMP: LED",
+      "SIZE: H200MM X W120MM X D140MM",
+      "FINISH: BLACK + ANTIQUE BRASS",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 4200"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_073/01_003_073_1.jpeg"
+  },
+  "01_003_074": {
+    "model": "6770-1COP",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 6770-1COP",
+    "short_title": "WALL LAMPS 6770-1COP",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 6770-1COP",
+      "LAMP: LED",
+      "SIZE: H200MM X W120MM X D140MM",
+      "FINISH: BLACK + ANTIQUE COPPER",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 4200"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_074/01_003_074_1.jpeg"
+  },
+  "01_003_075": {
+    "model": "GEW 002",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS GEW 002",
+    "short_title": "WALL LAMPS GEW",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: GEW 002",
+      "LAMP: 1XG9",
+      "SIZE: W160MM X D110MM",
+      "FINISH: ANTIQUE BRASS",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 2900"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_075/01_003_075_1.jpeg"
+  },
+  "01_003_076": {
+    "model": "5203-W AB",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 5203-W AB",
+    "short_title": "WALL LAMPS 5203-W",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 5203-W AB",
+      "LAMP: 1XG9",
+      "SIZE: D140MM X H200MM",
+      "FINISH: ANTIQUE BRASS",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 3400"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_076/01_003_076_1.jpeg"
+  },
+  "01_003_077": {
+    "model": "5233-1",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 5233-1",
+    "short_title": "WALL LAMPS 5233-1",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 5233-1",
+      "LAMP: 1XG9",
+      "SIZE: W340MM X H280MM X D170MM",
+      "FINISH: BLACK",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 3400"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_077/01_003_077_1.jpeg"
+  },
+  "01_003_078": {
+    "model": "76044",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 76044",
+    "short_title": "WALL LAMPS 76044",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 76044",
+      "LAMP: 1XG9",
+      "SIZE: W100MM X D120MM",
+      "FINISH: ANTIQUE BRASS",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 3200"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_078/01_003_078_1.jpeg"
+  },
+  "01_003_079": {
+    "model": "79E041",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 79E041",
+    "short_title": "WALL LAMPS 79E041",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 79E041",
+      "LAMP: 1XG9",
+      "SIZE: W100MM X D120MM",
+      "FINISH: TEXTURE BLACK",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 2800"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_079/01_003_079_1.jpeg"
+  },
+  "01_003_080": {
+    "model": "76041",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 76041",
+    "short_title": "WALL LAMPS 76041",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 76041",
+      "LAMP: 1XG9",
+      "SIZE: W100MM X D120MM",
+      "FINISH: ANTIQUE BRASS",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 3200"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_080/01_003_080_1.jpeg"
+  },
+  "01_003_081": {
+    "model": "76042",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 76042",
+    "short_title": "WALL LAMPS 76042",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 76042",
+      "LAMP: 1XG9",
+      "SIZE: W100MM X D120MM",
+      "FINISH: ANTIQUE BRASS",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 2400"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_081/01_003_081_1.jpeg"
+  },
+  "01_003_082": {
+    "model": "76043",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 76043",
+    "short_title": "WALL LAMPS 76043",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 76043",
+      "LAMP: 1XG9",
+      "SIZE: W100MM X D120MM",
+      "FINISH: ANTIQUE BRASS",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 2400"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_082/01_003_082_1.jpeg"
+  },
+  "01_003_083": {
+    "model": "1451-W",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 1451-W",
+    "short_title": "WALL LAMPS 1451-W",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 1451-W",
+      "LAMP: 1XE27",
+      "SIZE: W160MM X H250MM X D210MM",
+      "FINISH: BLACK",
+      "MATERIAL: METAL + PLA",
+      "PRICE: 2600"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_083/01_003_083_1.jpeg"
+  },
+  "01_003_084": {
+    "model": "1450-W",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 1450-W",
+    "short_title": "WALL LAMPS 1450-W",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 1450-W",
+      "LAMP: 1XE27",
+      "SIZE: W170MM X H280MM X D210MM",
+      "FINISH: BLACK",
+      "MATERIAL: METAL + PLA",
+      "PRICE: 2600"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_084/01_003_084_1.jpeg"
+  },
+  "01_003_085": {
+    "model": "1452-W",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 1452-W",
+    "short_title": "WALL LAMPS 1452-W",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 1452-W",
+      "LAMP: 1XE27",
+      "SIZE: W160MM X H360MM X D210MM",
+      "FINISH: BLACK",
+      "MATERIAL: METAL + PLA",
+      "PRICE: 2600"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_085/01_003_085_1.jpeg"
+  },
+  "01_003_086": {
+    "model": "1651-W",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 1651-W",
+    "short_title": "WALL LAMPS 1651-W",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 1651-W",
+      "LAMP: 1XE27",
+      "SIZE: W170MM X H360MM X D210MM",
+      "FINISH: ANTIQUE BRASS",
+      "MATERIAL: METAL + PLA",
+      "PRICE: 3200"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_086/01_003_086_1.jpeg"
+  },
+  "01_003_087": {
+    "model": "1652-W",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 1652-W",
+    "short_title": "WALL LAMPS 1652-W",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 1652-W",
+      "LAMP: 1XE27",
+      "SIZE: W170MM X H360MM X D210MM",
+      "FINISH: ANTIQUE BRASS",
+      "MATERIAL: METAL + PLA",
+      "PRICE: 3200"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_087/01_003_087_1.jpeg"
+  },
+  "01_003_088": {
+    "model": "1650-W AB",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 1650-W AB",
+    "short_title": "WALL LAMPS 1650-W",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 1650-W AB",
+      "LAMP: 1XE27",
+      "SIZE: W170MM X H360MM X D210MM",
+      "FINISH: ANTIQUE BRASS",
+      "MATERIAL: METAL + PLA",
+      "PRICE: 3200"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_088/01_003_088_1.jpeg"
+  },
+  "01_003_089": {
+    "model": "12050 -W",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 12050 -W",
+    "short_title": "WALL LAMPS 12050",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 12050 -W",
+      "LAMP: 1XE27",
+      "SIZE: W150MM X H190MM",
+      "FINISH: BLACK + GOLD",
+      "MATERIAL: METAL",
+      "PRICE: 3100"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_089/01_003_089_1.jpeg"
+  },
+  "01_003_090": {
+    "model": "F981-1W",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS F981-1W",
+    "short_title": "WALL LAMPS F981-1W",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: F981-1W",
+      "LAMP: 1XE14",
+      "SIZE: W140MM X D210MM X H260MM",
+      "FINISH: BLACK + GOLD",
+      "MATERIAL: METAL",
+      "PRICE: 2300"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_090/01_003_090_1.jpeg"
+  },
+  "01_003_091": {
+    "model": "6805-1",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 6805-1",
+    "short_title": "WALL LAMPS 6805-1",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 6805-1",
+      "LAMP: 1XE27",
+      "SIZE: W150MM X H310MM X D240MM",
+      "FINISH: ANTIQUE BRASS",
+      "MATERIAL: METAL + MARBLE + FABRIC SHADE",
+      "PRICE: 3800"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_091/01_003_091_1.jpeg"
+  },
+  "01_003_092": {
+    "model": "6805-2",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 6805-2",
+    "short_title": "WALL LAMPS 6805-2",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 6805-2",
+      "LAMP: 2XE27",
+      "SIZE: W330MM X H235MM X D205MM",
+      "FINISH: ANTIQUE BRASS",
+      "MATERIAL: METAL + MARBLE + FABRIC SHADE",
+      "PRICE: 6400"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_092/01_003_092_1.jpeg"
+  },
+  "01_003_093": {
+    "model": "80178-1",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 80178-1",
+    "short_title": "WALL LAMPS 80178-1",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 80178-1",
+      "LAMP: 1XE27",
+      "SIZE: W125MM X H300MM X D230MM",
+      "FINISH: RUSTIC BLACK + GOLD",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 3000"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_093/01_003_093_1.jpeg"
+  },
+  "01_003_094": {
+    "model": "80178-2",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 80178-2",
+    "short_title": "WALL LAMPS 80178-2",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 80178-2",
+      "LAMP: 2XE27",
+      "SIZE: W350MM X H300MM X D225MM",
+      "FINISH: RUSTIC BLACK + GOLD",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 6000"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_094/01_003_094_1.jpeg"
+  },
+  "01_003_095": {
+    "model": "80207-W",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 80207-W",
+    "short_title": "WALL LAMPS 80207-W",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 80207-W",
+      "LAMP: 1XE27",
+      "SIZE: W130MM X H250MM X D225MM",
+      "FINISH: RUSTIC BLACK",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 3000"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_095/01_003_095_1.jpeg"
+  },
+  "01_003_096": {
+    "model": "80207-2",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 80207-2",
+    "short_title": "WALL LAMPS 80207-2",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 80207-2",
+      "LAMP: 1XE27",
+      "SIZE: W350MM X H250MM X D225MM",
+      "FINISH: RUSTIC BLACK",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 6000"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_096/01_003_096_1.jpeg"
+  },
+  "01_003_097": {
+    "model": "2394-W SM, AMB",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 2394-W SM, AMB",
+    "short_title": "WALL LAMPS 2394-W",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 2394-W SM, AMB",
+      "LAMP: LED",
+      "SIZE: W200MM X D100MM",
+      "FINISH: ANTIQUE BRASS",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: SM-6000,AMB-6000"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_097/01_003_097_1.jpeg"
+  },
+  "01_003_098": {
+    "model": "6022-1B",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 6022-1B",
+    "short_title": "WALL LAMPS 6022-1B",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 6022-1B",
+      "LAMP: LED 8W",
+      "SIZE: W230MM X D65MM",
+      "FINISH: ANTIQUE BRASS",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 6200"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_098/01_003_098_1.jpeg"
+  },
+  "01_003_099": {
+    "model": "3039-4",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 3039-4",
+    "short_title": "WALL LAMPS 3039-4",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 3039-4",
+      "LAMP: LED 20W",
+      "SIZE: W630MM X H350MM X D70MM",
+      "FINISH: ANTIQUE BRASS",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 9000"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_099/01_003_099_1.jpeg"
+  },
+  "01_003_100": {
+    "model": "5103-3",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "WALL LAMPS 5103-3",
+    "short_title": "WALL LAMPS 5103-3",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 5103-3",
+      "LAMP: 3XG9",
+      "SIZE: W250MM X H600MM",
+      "FINISH: ANTIQUE BRASS",
+      "MATERIAL: METAL + ANTIQUE",
+      "PRICE: 7600"
+    ],
+    "image": "./image/product/light/wall_lamps/01_003_100/01_003_100_1.jpeg"
+  },
   "01_004_001": {
     "model": "091-F",
     "short_description": "",
