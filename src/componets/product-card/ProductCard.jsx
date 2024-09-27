@@ -28,62 +28,63 @@ function ProductCard({ title, image, short_description, long_description, produc
         </Card.Body>
       </Card>
 
-      <Modal fullscreen={'md-down'} size={'xl'} centered show={show} onHide={handleClose}>
-        <Modal.Header closeButton>
-          <Modal.Title className="w-100 text-center">{title}</Modal.Title>
-        </Modal.Header>
-        <Modal.Body className='d-flex flex-column flex-md-row align-items-center'>
-          <div className="Modal_body_image">
-            <img src={image} alt="Product" />
-          </div>
-          <div className="Modal_body_text">
-            {/* Render short description if it exists */}
-            {short_description && (
-              <div className="short_description mb-3">
-                <p>{short_description}</p>
-              </div>
-            )}
+      <Modal fullscreen={'sm-down'} size={'lg'} centered show={show} onHide={handleClose}>
+  <Modal.Header closeButton>
+    <Modal.Title className="w-100 text-center">{title}</Modal.Title>
+  </Modal.Header>
+  <Modal.Body className='d-flex flex-column flex-md-row align-items-center'>
+    <div className="Modal_body_image">
+      <img src={image} alt="Product" />
+    </div>
+    <div className="Modal_body_text">
+      {/* Render short description if it exists */}
+      {short_description && (
+        <div className="short_description mb-3">
+          <p>{short_description}</p>
+        </div>
+      )}
 
-            {/* Render long description if it exists and is an array */}
-            {Array.isArray(long_description) && long_description.length > 0 && (
-              <div className="long_description mb-3">
-                <ul>
-                  {long_description.map((desc, index) => (
-                    <li key={index}>{desc}</li>
-                  ))}
-                </ul>
-              </div>
-            )}
+      {/* Render long description if it exists and is an array */}
+      {Array.isArray(long_description) && long_description.length > 0 && (
+        <div className="long_description mb-3">
+          <ul>
+            {long_description.map((desc, index) => (
+              <li key={index}>{desc}</li>
+            ))}
+          </ul>
+        </div>
+      )}
 
-            {/* Render product specifications if no descriptions exist */}
-            {!short_description && (!long_description || long_description.length === 0) && (
-              <div className="product_spec">
-                <Table striped bordered hover>
-                  <thead>
-                    <tr>
-                      <th>Specification</th>
-                      <th>Details</th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    {specifications.map((spec, index) => (
-                      <tr key={index}>
-                        <td>{spec.item || "N/A"}</td>
-                        <td>{spec.value || "N/A"}</td>
-                      </tr>
-                    ))}
-                  </tbody>
-                </Table>
-              </div>
-            )}
-          </div>
-        </Modal.Body>
-        <Modal.Footer className="d-flex justify-content-center">
-          <Button variant="secondary" onClick={handleClose}>
-            Close
-          </Button>
-        </Modal.Footer>
-      </Modal>
+      {/* Render product specifications if no descriptions exist */}
+      {!short_description && (!long_description || long_description.length === 0) && (
+        <div className="product_spec">
+          <Table striped bordered hover>
+            <thead>
+              <tr>
+                <th>Specification</th>
+                <th>Details</th>
+              </tr>
+            </thead>
+            <tbody>
+              {specifications.map((spec, index) => (
+                <tr key={index}>
+                  <td>{spec.item || "N/A"}</td>
+                  <td>{spec.value || "N/A"}</td>
+                </tr>
+              ))}
+            </tbody>
+          </Table>
+        </div>
+      )}
+    </div>
+  </Modal.Body>
+  <Modal.Footer className="d-flex justify-content-center">
+    <Button variant="secondary" onClick={handleClose}>
+      Close
+    </Button>
+  </Modal.Footer>
+</Modal>
+
     </>
   );
 }
