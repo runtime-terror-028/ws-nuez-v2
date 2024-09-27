@@ -4,7 +4,7 @@ import Nav from "./componets/nav/Nav";
 import Home from "./pages/Home/Home";
 import NoPage from "./pages/NoPage/NoPage";
 import ProductPage from './pages/ProductPage/ProductPage';
-import { BMSPage,SmartBenchPage} from  './pages/Single_Page/SinglePage';
+import { BMSPage,SmartBenchPage} from  './pages/single_page/single_page';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './/index.css'
 
