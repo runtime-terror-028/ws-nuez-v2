@@ -4,6 +4,7 @@ import Nav from "./componets/nav/Nav";
 import Home from "./pages/Home/Home";
 import NoPage from "./pages/NoPage/NoPage";
 import ProductPage from './pages/ProductPage/ProductPage';
+import { BMSPage,SmartBenchPage} from  './pages/Single_Page/SinglePage';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './/index.css'
 
@@ -14,6 +15,8 @@ export default function App() {
         <Route path="/" element={<Nav />}>
           <Route index element={<Home />} />
           <Route path="/:categoryID" element={<ProductPage />} />
+          <Route path="/bms" element ={<BMSPage/>}/>
+          <Route path="/smart-bench" element ={<SmartBenchPage/>}/>
           <Route path="*" element={<NoPage />} />
         </Route>
       </Routes>

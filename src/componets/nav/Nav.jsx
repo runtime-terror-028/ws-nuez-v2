@@ -54,8 +54,8 @@ function NavBar() {
   return (
     <>
       <Navbar sticky={'top'} expand="lg" className="main_nav">
-        <Container>
-          <Navbar.Brand as={Link} to="/" onClick={handleHomeNavigation}>
+        <Container fluid>
+          <Navbar.Brand className="nav_logo" as={Link} to="/" onClick={handleHomeNavigation}>
             <img alt="logo" src="./logo.png" width="150px" height="50px" />
           </Navbar.Brand>
           <Navbar.Toggle
@@ -66,13 +66,13 @@ function NavBar() {
             <Nav className="ms-auto nav_text_1">
               {/* Updated Home Link to scroll to the top of Home */}
               <Nav.Link
-                className="text-light cursor-pointer"
+                className="text-light cursor-pointer nav_buttons"
                 onClick={handleHomeNavigation}
               >
                 Home
               </Nav.Link>
               <NavDropdown
-                title={<span className="text-white">Products</span>}
+                title={<span className="text-white nav_buttons">Products</span>}
                 id="basic-nav-dropdown"
               >
                 {/* Collapses the dropdown and navbar when an item is clicked */}
@@ -97,13 +97,13 @@ function NavBar() {
               </NavDropdown>
               {/* About and Contact scroll links */}
               <Nav.Link
-                className="text-white cursor-pointer"
+                className="text-white cursor-pointer nav_buttons"
                 onClick={() => handleNavigation('about')}
               >
                 About us
               </Nav.Link>
               <Nav.Link
-                className="text-white cursor-pointer"
+                className="text-white cursor-pointer nav_buttons"
                 onClick={() => handleNavigation('contact')}
               >
                 Contact us
