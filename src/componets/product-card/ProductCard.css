@@ -13,14 +13,22 @@
     padding: 45px;
     width: 50%;
 }
-
+.modal-body {
+    max-height: 80vh;
+    overflow-y: auto;
+}
 .Modal_body_image img {
     width: 100%;
+    height: auto;
+    max-height: 50vh;
 }
 
 .Modal_body_text {
     width: 50%;
     padding: 35px;
+    max-height: 60vh;
+    overflow-y: auto;
+
 }
 
 @media (max-width: 750px) {
