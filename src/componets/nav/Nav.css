@@ -18,6 +18,7 @@
     background-color: #f7d79b;
     border-radius: 8px;
     padding: 20px;
+    border-radius: 15px;
   }
   
   .main_nav .nav-link,
@@ -45,4 +46,29 @@
 
 .cursor-pointer {
   cursor: pointer;
+}
+
+
+
+
+
+
+.nav_buttons:hover {
+  transform: scale(1.1);
+  transition: ease-in-out 0.5s;
+}
+.nav_buttons {
+  transition: ease-in-out 0.3s;
+}
+.nav_logo:hover {
+  transform: scale(1);
+  transition: ease-in-out 1.5s;
+}
+.nav_logo {
+  transform: scale(0.9);
+  transition: ease-in-out 0.7s;
+  padding-left: calc(var(--nav_height) - 10px);
+}
+#basic-navbar-nav {
+  padding-right: calc(var(--nav_height) - 10px);
 }
