@@ -8,7 +8,7 @@ const About = () => {
         <div className="about_container">
           <div className="about_section">
             <div className="about_img_container">
-              <img src="./img/about/1.avif" alt="aboutimg1" className="about_img" />
+              <img src="./image/about/1.jpeg" alt="aboutimg1" className="about_img" />
             </div>
             <div className="about_text_container">
               <ul className="aboutus_ul">
@@ -23,7 +23,7 @@ const About = () => {
           <div className="about_section2">
 
             <div classname="about_img_container">
-              <img src="./img/about/2.avif" alt="aboutimg2" className="about_img" />
+              <img src="./image/about/2.jpeg" alt="aboutimg2" className="about_img" />
             </div>
             <div className="about_text_container">
               <ul className="aboutus_ul">
@@ -37,7 +37,7 @@ const About = () => {
 
           <div className="about_section">
             <div classname="about_img_container">
-              <img src="./img/about/3.avif" alt="aboutimg3" className="about_img" />
+              <img src="./image/about/3.jpeg" alt="aboutimg3" className="about_img" />
             </div>
             <div className="about_text_container">
 

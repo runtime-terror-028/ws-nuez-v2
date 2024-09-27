@@ -6,9 +6,7 @@
 #basic-nav-dropdown::after {
   display: none;
 }
-/* #basic-nav-dropdown:hover{
-  background-color:#f5deb3;
-} */
+
 
 .main_nav .dropdown-item.active,
 .main_nav .dropdown-item:active {
