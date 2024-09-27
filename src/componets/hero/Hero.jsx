@@ -3,16 +3,16 @@ import "./Hero.css";
 
 // Image list array
 const hero_image_list = [
-  "./img/hero/1.jpeg",
-  "./img/hero/2.jpeg",
-  "./img/hero/3.jpeg",
-  "./img/hero/4.jpeg",
-  "./img/hero/5.jpeg",
-  "./img/hero/6.jpeg",
-  "./img/hero/7.jpeg",
-  "./img/hero/8.jpeg",
-  "./img/hero/9.jpeg",
-  "./img/hero/10.jpeg",
+  "./image/hero/1.jpeg",
+  "./image/hero/2.jpeg",
+  "./image/hero/3.jpeg",
+  "./image/hero/4.jpeg",
+  "./image/hero/5.jpeg",
+  "./image/hero/6.jpeg",
+  "./image/hero/7.jpeg",
+  "./image/hero/8.jpeg",
+  "./image/hero/9.jpeg",
+  "./image/hero/10.jpeg",
 ];
 
 // Interval time for slide change
