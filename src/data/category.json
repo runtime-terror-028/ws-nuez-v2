@@ -18,15 +18,5 @@
         "title": "Automation",
         "header": "Automation",
         "footer": ""
-    },
-    "smart-bench": {
-        "title": "SmartBench",
-        "header": "HeaSmartBenchder",
-        "footer": ""
-    },
-    "bms": {
-        "title": "BMS",
-        "header": "BMS",
-        "footer": ""
     }
-}
+} 
