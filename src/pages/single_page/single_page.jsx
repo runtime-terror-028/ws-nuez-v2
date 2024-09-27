@@ -1,4 +1,5 @@
 import React from "react";
+import Footer from "../../componets/footer/Footer";
 
 import ProductSection from "./single_page_product";
 import { BMSData, SmartBenchData } from "./single_page_data";
@@ -25,6 +26,7 @@ const ProductPage = ({ data }) => (
         ))}
       </div>
     </div>
+    <Footer/>
   </>
 );
 
