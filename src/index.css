@@ -5,37 +5,37 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
+  /* background-color: #faebd7; */
 
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-
-
 :root {
   --nav_height: 65px; 
 }
-
 #footer{
   display: flex;
   flex-direction: column;
-  background: #b81e1e;
+  background: #f5deb3;
   margin-top: 25px;
 
 }
-
 .footer_social_container{
   display:flex;
   justify-content: center;
   gap:10px;
   margin-top: 20px;
 }
-
-
+.footer_icon:hover{
+   color: #b81e1e;
+}
 .footer_buttom{
 
   text-align: center;
   height: fit-content;
   padding-top: 10px;
+  font-size: 16px;
+  font-weight: 500;
 }

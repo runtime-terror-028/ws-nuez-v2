@@ -1,17 +1,19 @@
 .main_nav {
-    background: #be3c3c;
+    background: #800000;
     height: var(--nav_height);
   }
   
 #basic-nav-dropdown::after {
   display: none;
 }
+/* #basic-nav-dropdown:hover{
+  background-color:#f5deb3;
+} */
+
 .main_nav .dropdown-item.active,
 .main_nav .dropdown-item:active {
   background-color:red;
 }
-
-
 /* Optional: Make the collapse background specific to smaller screens */
 @media (max-width: 992px) {
   .main_nav .navbar-collapse {
