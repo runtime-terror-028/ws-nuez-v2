@@ -24,7 +24,7 @@
 }
 
 .main_nav .navbar-nav .dropdown-item:hover {
-  background-color: #495057; /* Slightly darker on hover */
+  background-color: #800000; /* Slightly darker on hover */
   color: black;
 }
 

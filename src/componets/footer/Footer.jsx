@@ -10,17 +10,23 @@ const Footer = () => {
   return (
     <>
       <footer id="footer">
-       <div className="footer_social_container">
-         <FaFacebook className="footer_icon"/>
-         <FaInstagram   className="footer_icon"/>
-         <FaLinkedin   className="footer_icon"/>
-            </div>
+        <div className="footer_social_container">
+          <a href="https://www.instagram.com/nueztech/" target="_blank">
+            <FaInstagram className="footer_icon" />
+          </a>
+          <a href="https://www.facebook.com/people/Nuez-Technologies-Pvt-Ltd/61560709572283/" target="_blank">
+            <FaFacebook className="footer_icon" />
+          </a>
+          <a href="https://in.linkedin.com/company/nuez-technologies-pvt-ltd" target="_blank">
+            <FaLinkedin className="footer_icon" />
+          </a>
+        </div>
         <div className="footer_buttom">
           © 2000-2024, NUEZ Technologies Pvt Ltd
-        <br/>
-           All right reserved.
+          <br />
+          All right reserved.
         </div>
-      
+
       </footer>
     </>
   )
