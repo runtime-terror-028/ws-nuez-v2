@@ -17,7 +17,7 @@ function NavBar() {
   useEffect(() => {
     if (location.pathname === '/' && scrollTarget) {
       scroll.scrollTo(document.getElementById(scrollTarget).offsetTop - 50, {
-        duration: 800,       // Adjust the duration of the scroll
+        duration: 10,       // Adjust the duration of the scroll
         smooth: 'linear',    // Use linear easing for equal-speed scroll
       });
       setScrollTarget(null); // Reset after scroll
@@ -31,7 +31,7 @@ function NavBar() {
       navigate('/');            // Redirect to home
     } else {
       scroll.scrollTo(document.getElementById(target).offsetTop - 50, {
-        duration: 800,       // Adjust the duration of the scroll
+        duration: 10,       // Adjust the duration of the scroll
         smooth: 'linear',    // Use linear easing for equal-speed scroll
       }); // If on home, scroll immediately
     }
@@ -44,7 +44,7 @@ function NavBar() {
       navigate('/');            // Redirect to home if not already on home
     } else {
       scroll.scrollToTop({       // Scroll to top if on the home page
-        duration: 800,
+        duration: 10,
         smooth: 'linear',        // Use linear easing for equal-speed scroll
       });
     }
