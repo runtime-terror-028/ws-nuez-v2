@@ -8,3 +8,11 @@
    margin-top: 15px;
    margin-bottom: 25px;
 }
+
+.nav-link:hover {
+   color: black !important;
+}
+
+.nav-link {
+   color: black !important;
+}
