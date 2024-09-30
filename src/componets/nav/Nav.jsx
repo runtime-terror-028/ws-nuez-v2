@@ -74,6 +74,7 @@ function NavBar() {
               <NavDropdown
                 title={<span className="text-white nav_buttons">Products</span>}
                 id="basic-nav-dropdown"
+                className="nav_buttons"
               >
                 {/* Collapses the dropdown and navbar when an item is clicked */}
                 <NavDropdown.Item as={Link} to="/light" onClick={() => setIsNavCollapsed(true)}>
