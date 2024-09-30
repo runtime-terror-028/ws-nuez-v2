@@ -71,7 +71,10 @@ function Featured() {
           </div>
           <ProductCardList json_data={getProductData(key)} />
           <div className="featured_section_footer d-flex justify-content-center">
-            <Button variant="outline-secondary" onClick={() => navigate(`/${key}`)}>
+            {/* <Button variant="outline-secondary" onClick={() => navigate(`/${key}`)}>
+              View more Products
+            </Button> */}
+            <Button className='featured_view_more_button' variant="outline-primary" onClick={() => navigate(`/${key}`)}>
               View more Products
             </Button>
           </div>
