@@ -56,7 +56,7 @@ function NavBar() {
       <Navbar sticky={'top'} expand="lg" className="main_nav">
         <Container fluid>
           <Navbar.Brand className="nav_logo" as={Link} to="/" onClick={handleHomeNavigation}>
-            <img alt="logo" src="./logo.png" width="150px" height="50px" />
+            <img alt="logo" src="/logo.png" width="150px" height="50px" />
           </Navbar.Brand>
           <Navbar.Toggle
             aria-controls="basic-navbar-nav"

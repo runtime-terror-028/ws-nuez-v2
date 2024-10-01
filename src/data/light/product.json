@@ -14,7 +14,7 @@
       "MATERIAL: METAL + ONYX MARBLE",
       "PRICE: 10400"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_001/01_001_001_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_001/01_001_001_1.jpeg"
   },
   "01_001_002": {
     "model": "2039-H",
@@ -31,7 +31,7 @@
       "MATERIAL: METAL + ONYX MARBLE",
       "PRICE: 7800"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_002/01_001_002_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_002/01_001_002_1.jpeg"
   },
   "01_001_003": {
     "model": "2026-RD",
@@ -48,7 +48,7 @@
       "MATERIAL: METAL + ONYX MARBLE",
       "PRICE: 7900"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_003/01_001_003_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_003/01_001_003_1.jpeg"
   },
   "01_001_004": {
     "model": "2026-1SQ",
@@ -65,7 +65,7 @@
       "MATERIAL: METAL + ONYX MARBLE",
       "PRICE: 7900"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_004/01_001_004_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_004/01_001_004_1.jpeg"
   },
   "01_001_005": {
     "model": "2041-H",
@@ -82,7 +82,7 @@
       "MATERIAL: METAL + ONYX MARBLE",
       "PRICE: 9600"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_005/01_001_005_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_005/01_001_005_1.jpeg"
   },
   "01_001_006": {
     "model": "2031-1",
@@ -99,7 +99,7 @@
       "MATERIAL: METAL + ONYX MARBLE",
       "PRICE: 7900"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_006/01_001_006_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_006/01_001_006_1.jpeg"
   },
   "01_001_007": {
     "model": "K11-M",
@@ -116,7 +116,7 @@
       "MATERIAL: METAL",
       "PRICE: 6400"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_007/01_001_007_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_007/01_001_007_1.jpeg"
   },
   "01_001_008": {
     "model": "K11-CC",
@@ -133,7 +133,7 @@
       "MATERIAL: METAL",
       "PRICE: 6400"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_008/01_001_008_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_008/01_001_008_1.jpeg"
   },
  
   "01_001_009": {
@@ -151,7 +151,7 @@
       "MATERIAL: METAL",
       "PRICE: 6400"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_009/01_001_009_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_009/01_001_009_1.jpeg"
   },
   "01_001_010": {
     "model": "C 1212",
@@ -168,7 +168,7 @@
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 5400"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_010/01_001_010_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_010/01_001_010_1.jpeg"
   },
   "01_001_011": {
     "model": "C 1315",
@@ -185,7 +185,7 @@
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 5800"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_011/01_001_011_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_011/01_001_011_1.jpeg"
   },
   "01_001_012": {
     "model": "C1722",
@@ -202,7 +202,7 @@
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 7800"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_012/01_001_012_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_012/01_001_012_1.jpeg"
   },
   "01_001_013": {
     "model": "C 1216-1",
@@ -219,7 +219,7 @@
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 7800"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_013/01_001_013_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_013/01_001_013_1.jpeg"
   },
   "01_001_014": {
     "model": "150-X-200-BK-WH",
@@ -236,7 +236,7 @@
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 6500"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_014/01_001_014_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_014/01_001_014_1.jpeg"
   },
   "01_001_015": {
     "model": "51501-PB",
@@ -253,7 +253,7 @@
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 4600"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_015/01_001_015_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_015/01_001_015_1.jpeg"
   },
   "01_001_016": {
     "model": "51501-PA",
@@ -270,7 +270,7 @@
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 4600"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_016/01_001_016_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_016/01_001_016_1.jpeg"
   },
   "01_001_017": {
     "model": "51501-PC",
@@ -287,7 +287,7 @@
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 4600"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_017/01_001_017_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_017/01_001_017_1.jpeg"
   },
   "01_001_018": {
     "model": "15400-1BK",
@@ -304,7 +304,7 @@
       "MATERIAL: METAL",
       "PRICE: 6600"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_018/01_001_018_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_018/01_001_018_1.jpeg"
   },
   "01_001_019": {
     "model": "15400-1WH",
@@ -321,7 +321,7 @@
       "MATERIAL: METAL",
       "PRICE: 6600"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_019/01_001_019_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_019/01_001_019_1.jpeg"
   },
   "01_001_020": {
     "model": "FY 043",
@@ -338,7 +338,7 @@
       "MATERIAL: METAL + ACRYLIC + WOOD",
       "PRICE: 6000"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_020/01_001_020_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_020/01_001_020_1.jpeg"
   },
   "01_001_021": {
     "model": "FY 044",
@@ -355,7 +355,7 @@
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 7000"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_021/01_001_021_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_021/01_001_021_1.jpeg"
   },
   "01_001_022": {
     "model": "FY06",
@@ -372,7 +372,7 @@
       "MATERIAL: METAL + ACRYLIC + WOOD",
       "PRICE: 7600"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_022/01_001_022_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_022/01_001_022_1.jpeg"
   },
   "01_001_023": {
     "model": "2302-BK",
@@ -389,7 +389,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 5600"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_023/01_001_023_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_023/01_001_023_1.jpeg"
   },
   "01_001_024": {
     "model": "0084-BL",
@@ -406,7 +406,7 @@
       "MATERIAL: METAL",
       "PRICE: 5400"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_024/01_001_024_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_024/01_001_024_1.jpeg"
   },
   "01_001_025": {
     "model": "FY046-AB",
@@ -423,7 +423,7 @@
       "MATERIAL: METAL",
       "PRICE: 2600"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_025/01_001_025_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_025/01_001_025_1.jpeg"
   },
   "01_001_026": {
     "model": "FY046-DW",
@@ -440,7 +440,7 @@
       "MATERIAL: METAL",
       "PRICE: 2600"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_026/01_001_026_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_026/01_001_026_1.jpeg"
   },
   "01_001_027": {
     "model": "5248-1",
@@ -456,7 +456,7 @@
       "FINISH: ANTIQUE BRASS",
       "MATERIAL: METAL + ACRYLIC"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_027/01_001_027_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_027/01_001_027_1.jpeg"
   },
   "01_001_028": {
     "model": "060100-2",
@@ -472,7 +472,7 @@
       "FINISH: ROSE GOLD",
       "MATERIAL: METAL + ACRYLIC"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_028/01_001_028_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_028/01_001_028_1.jpeg"
   },
   "01_001_029": {
     "model": "8026 -600",
@@ -489,7 +489,7 @@
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 5600"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_029/01_001_029_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_029/01_001_029_1.jpeg"
   },
   "01_001_030": {
     "model": "6501-600",
@@ -506,7 +506,7 @@
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 3600"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_030/01_001_030_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_030/01_001_030_1.jpeg"
   },
   "01_001_031": {
     "model": "MD7017G",
@@ -523,7 +523,7 @@
       "MATERIAL: METAL",
       "PRICE: 3300"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_031/01_001_031_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_031/01_001_031_1.jpeg"
   },
   "01_001_032": {
     "model": "MD7017B",
@@ -540,7 +540,7 @@
       "MATERIAL: METAL",
       "PRICE: 2900"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_032/01_001_032_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_032/01_001_032_1.jpeg"
   },
   "01_001_033": {
     "model": "8842-A, B, C, D",
@@ -557,7 +557,7 @@
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: A-10600,B-8000,C-10600,D-10600"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_033/01_001_033_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_033/01_001_033_1.jpeg"
   },
   "01_001_034": {
     "model": "9086-300 (HORIZONTAL & VERTICAL)",
@@ -574,7 +574,7 @@
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 7600"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_034/01_001_034_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_034/01_001_034_1.jpeg"
   },
   "01_001_035": {
     "model": "5218-AB",
@@ -591,7 +591,7 @@
       "MATERIAL: METAL",
       "PRICE: 10800"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_035/01_001_035_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_035/01_001_035_1.jpeg"
   },
   "01_001_036": {
     "model": "DZ068",
@@ -608,7 +608,7 @@
       "MATERIAL: METAL",
       "PRICE: 7600"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_036/01_001_036_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_036/01_001_036_1.jpeg"
   },
   "01_001_037": {
     "model": "DZ068",
@@ -625,7 +625,7 @@
       "MATERIAL: METAL",
       "PRICE: 7600"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_037/01_001_037_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_037/01_001_037_1.jpeg"
   },
   "01_001_038": {
     "model": "5735-250",
@@ -642,7 +642,7 @@
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 7400"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_038/01_001_038_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_038/01_001_038_1.jpeg"
   },
   "01_001_039": {
     "model": "250-GD",
@@ -659,7 +659,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 8000"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_039/01_001_039_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_039/01_001_039_1.jpeg"
   },
   "01_001_040": {
     "model": "6066-2BK",
@@ -676,7 +676,7 @@
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 10400"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_040/01_001_040_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_040/01_001_040_1.jpeg"
   },
   "01_001_041": {
     "model": "6066-2WH",
@@ -693,7 +693,7 @@
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 10400"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_041/01_001_041_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_041/01_001_041_1.jpeg"
   },
   "01_001_042": {
     "model": "GEH -002",
@@ -709,7 +709,7 @@
       "FINISH: ANTIQUE BRASS",
       "MATERIAL: METAL + ACRYLIC"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_042/01_001_042_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_042/01_001_042_1.jpeg"
   },
   "01_001_043": {
     "model": "1125-S",
@@ -726,7 +726,7 @@
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 9200"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_043/01_001_043_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_043/01_001_043_1.jpeg"
   },
   "01_001_044": {
     "model": "3031-S1,S2",
@@ -743,7 +743,7 @@
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 9600"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_044/01_001_044_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_044/01_001_044_1.jpeg"
   },
   "01_001_045": {
     "model": "8026-300",
@@ -760,7 +760,7 @@
       "MATERIAL: METAL",
       "PRICE: 6400"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_045/01_001_045_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_045/01_001_045_1.jpeg"
   },
   "01_001_046": {
     "model": "022-U",
@@ -777,7 +777,7 @@
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 8000"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_046/01_001_046_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_046/01_001_046_1.jpeg"
   },
   "01_001_047": {
     "model": "1278-1COP",
@@ -794,7 +794,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 4800"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_047/01_001_047_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_047/01_001_047_1.jpeg"
   },
   "01_001_048": {
     "model": "1277-1",
@@ -811,7 +811,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 4800"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_048/01_001_048_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_048/01_001_048_1.jpeg"
   },
   "01_001_049": {
     "model": "1278-1AB",
@@ -828,7 +828,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 4800"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_049/01_001_049_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_049/01_001_049_1.jpeg"
   },
   "01_001_050": {
     "model": "26073-1",
@@ -845,7 +845,7 @@
       "MATERIAL: METAL",
       "PRICE: 7800"
     ],
-    "image": "./image/product/light/hanging_lamps/01_001_050/01_001_050_1.jpeg"
+    "image": "/image/product/light/hanging_lamps/01_001_050/01_001_050_1.jpeg"
   },
   "01_002_001": {
     "model": "002-C-3-1",
@@ -862,7 +862,7 @@
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 15000"
     ],
-    "image": "./image/product/light/ceiling_lamps/01_002_001/01_002_001_1.jpeg"
+    "image": "/image/product/light/ceiling_lamps/01_002_001/01_002_001_1.jpeg"
   },
   "01_002_002": {
     "model": "002-C-3-2",
@@ -879,7 +879,7 @@
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 13000"
     ],
-    "image": "./image/product/light/ceiling_lamps/01_002_002/01_002_002_1.jpeg"
+    "image": "/image/product/light/ceiling_lamps/01_002_002/01_002_002_1.jpeg"
   },
   "01_002_003": {
     "model": "002-C-2",
@@ -896,7 +896,7 @@
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 13000"
     ],
-    "image": "./image/product/light/ceiling_lamps/01_002_003/01_002_003_1.jpeg"
+    "image": "/image/product/light/ceiling_lamps/01_002_003/01_002_003_1.jpeg"
   },
   "01_002_004": {
     "model": "3880SF-300,450,600,900-1",
@@ -913,7 +913,7 @@
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 300-7500,450-9000,600-14500,900-23000"
     ],
-    "image": "./image/product/light/ceiling_lamps/01_002_004/01_002_004_1.jpeg"
+    "image": "/image/product/light/ceiling_lamps/01_002_004/01_002_004_1.jpeg"
   },
   "01_002_005": {
     "model": "3880SF-300,450,600,900-2",
@@ -930,7 +930,7 @@
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 300-6600,450-8000,600-13200,900-21500"
     ],
-    "image": "./image/product/light/ceiling_lamps/01_002_005/01_002_005_1.jpeg"
+    "image": "/image/product/light/ceiling_lamps/01_002_005/01_002_005_1.jpeg"
   },
   "01_002_006": {
     "model": "0041C",
@@ -947,7 +947,7 @@
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 11000"
     ],
-    "image": "./image/product/light/ceiling_lamps/01_002_006/01_002_006_1.jpeg"
+    "image": "/image/product/light/ceiling_lamps/01_002_006/01_002_006_1.jpeg"
   },
   "01_002_007": {
     "model": "8530-CL",
@@ -964,7 +964,7 @@
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 7600"
     ],
-    "image": "./image/product/light/ceiling_lamps/01_002_007/01_002_007_1.jpeg"
+    "image": "/image/product/light/ceiling_lamps/01_002_007/01_002_007_1.jpeg"
   },
   "01_002_008": {
     "model": "VA3422",
@@ -981,7 +981,7 @@
       "MATERIAL: METAL",
       "PRICE: 6600"
     ],
-    "image": "./image/product/light/ceiling_lamps/01_002_008/01_002_008_1.jpeg"
+    "image": "/image/product/light/ceiling_lamps/01_002_008/01_002_008_1.jpeg"
   },
   "01_002_009": {
     "model": "8202-3C",
@@ -998,7 +998,7 @@
       "MATERIAL: METAL",
       "PRICE: 7000"
     ],
-    "image": "./image/product/light/ceiling_lamps/01_002_009/01_002_009_1.jpeg"
+    "image": "/image/product/light/ceiling_lamps/01_002_009/01_002_009_1.jpeg"
   },
   "01_002_010": {
     "model": "9041-450",
@@ -1015,7 +1015,7 @@
       "MATERIAL: BRASS + GLASS",
       "PRICE: 13000"
     ],
-    "image": "./image/product/light/ceiling_lamps/01_002_010/01_002_010_1.jpeg"
+    "image": "/image/product/light/ceiling_lamps/01_002_010/01_002_010_1.jpeg"
   },
   "01_002_011": {
     "model": "C6055-M",
@@ -1031,7 +1031,7 @@
       "FINISH: BRASS GOLD",
       "MATERIAL: METAL + GLASS",
       "PRICE: 8400"
-    ], "image": "./image/product/light/ceiling_lamps/01_002_011/01_002_011_1.jpeg"
+    ], "image": "/image/product/light/ceiling_lamps/01_002_011/01_002_011_1.jpeg"
   },
   "01_002_012": {
     "model": "C6055-S",
@@ -1047,7 +1047,7 @@
       "FINISH: BRASS GOLD",
       "MATERIAL: METAL + GLASS",
       "PRICE: 7600"
-    ], "image": "./image/product/light/ceiling_lamps/01_002_012/01_002_012_1.jpeg"
+    ], "image": "/image/product/light/ceiling_lamps/01_002_012/01_002_012_1.jpeg"
   },
   "01_003_001": {
     "model": "2042-2W",
@@ -1064,7 +1064,7 @@
       "MATERIAL: METAL + ONYX MARBLE",
       "PRICE: 13000"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_001/01_003_001_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_001/01_003_001_1.jpeg"
   },
   "01_003_002": {
     "model": "MB5W",
@@ -1081,7 +1081,7 @@
       "MATERIAL: METAL + ONYX MARBLE",
       "PRICE: 15000"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_002/01_003_002_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_002/01_003_002_1.jpeg"
   },
   "01_003_003": {
     "model": "MB-1WGD",
@@ -1097,7 +1097,7 @@
       "FINISH: ANTIQUE BRASS",
       "MATERIAL: METAL + ONYX MARBLE"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_003/01_003_003_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_003/01_003_003_1.jpeg"
   },
   "01_003_004": {
     "model": "MB1WBK",
@@ -1114,7 +1114,7 @@
       "MATERIAL: METAL + ONYX MARBLE",
       "PRICE: 8000"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_004/01_003_004_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_004/01_003_004_1.jpeg"
   },
   "01_003_005": {
     "model": "GEW 7071/1",
@@ -1131,7 +1131,7 @@
       "MATERIAL: METAL + MARBLE GLASS",
       "PRICE: 6000"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_005/01_003_005_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_005/01_003_005_1.jpeg"
   },
   "01_003_006": {
     "model": "GEW 7210",
@@ -1148,7 +1148,7 @@
       "MATERIAL: METAL + RESIN",
       "PRICE: 5800"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_006/01_003_006_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_006/01_003_006_1.jpeg"
   },
   "01_003_007": {
     "model": "2043-1W",
@@ -1165,7 +1165,7 @@
       "MATERIAL: METAL + ONYX MARBLE",
       "PRICE: 6200"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_007/01_003_007_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_007/01_003_007_1.jpeg"
   },
   "01_003_008": {
     "model": "2040-2W",
@@ -1182,7 +1182,7 @@
       "MATERIAL: METAL + ONYX MARBLE",
       "PRICE: 6200"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_008/01_003_008_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_008/01_003_008_1.jpeg"
   },
   "01_003_009": {
     "model": "MB-150, MB-250",
@@ -1199,7 +1199,7 @@
       "MATERIAL: METAL + ONYX MARBLE",
       "PRICE: 150-6200,250-7600"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_009/01_003_009_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_009/01_003_009_1.jpeg"
   },
   "01_003_010": {
     "model": "MB-2044-W",
@@ -1216,7 +1216,7 @@
       "MATERIAL: METAL + ONYX MARBLE",
       "PRICE: 7800"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_010/01_003_010_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_010/01_003_010_1.jpeg"
   },
   
   "01_003_011": {
@@ -1234,7 +1234,7 @@
       "MATERIAL: METAL",
       "PRICE: S-2600,B-3400"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_011/01_003_011_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_011/01_003_011_1.jpeg"
   },
   "01_003_012": {
     "model": "882-S,B-2",
@@ -1251,7 +1251,7 @@
       "MATERIAL: METAL",
       "PRICE: S-3200,B-3800"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_012/01_003_012_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_012/01_003_012_1.jpeg"
   },
   "01_003_013": {
     "model": "2002-200,300",
@@ -1268,7 +1268,7 @@
       "MATERIAL: METAL",
       "PRICE: 200-2800,300-3600"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_013/01_003_013_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_013/01_003_013_1.jpeg"
   },
   "01_003_014": {
     "model": "8212-380-GD",
@@ -1285,7 +1285,7 @@
       "MATERIAL: METAL",
       "PRICE: 7200"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_014/01_003_014_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_014/01_003_014_1.jpeg"
   },
   "01_003_015": {
     "model": "8212-270-GD",
@@ -1302,7 +1302,7 @@
       "MATERIAL: METAL",
       "PRICE: 5200"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_015/01_003_015_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_015/01_003_015_1.jpeg"
   },
   "01_003_016": {
     "model": "883-DW",
@@ -1319,7 +1319,7 @@
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 4000"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_016/01_003_016_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_016/01_003_016_1.jpeg"
   },
   "01_003_017": {
     "model": "883-GY",
@@ -1336,7 +1336,7 @@
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 4000"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_017/01_003_017_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_017/01_003_017_1.jpeg"
   },
   "01_003_018": {
     "model": "026-W",
@@ -1353,7 +1353,7 @@
       "MATERIAL: METAL",
       "PRICE: 4200"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_018/01_003_018_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_018/01_003_018_1.jpeg"
   },
   "01_003_019": {
     "model": "9186-W",
@@ -1370,7 +1370,7 @@
       "MATERIAL: METAL",
       "PRICE: 10400"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_019/01_003_019_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_019/01_003_019_1.jpeg"
   },
   "01_003_020": {
     "model": "9135-6",
@@ -1386,7 +1386,7 @@
       "FINISH: BLACK",
       "MATERIAL: METAL + ACRYLIC"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_020/01_003_020_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_020/01_003_020_1.jpeg"
   },
   "01_003_021": {
     "model": "9410-BK-GD",
@@ -1403,7 +1403,7 @@
       "MATERIAL: METAL",
       "PRICE: 7600"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_021/01_003_021_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_021/01_003_021_1.jpeg"
   },
   "01_003_022": {
     "model": "9410-GD-BK",
@@ -1420,7 +1420,7 @@
       "MATERIAL: METAL",
       "PRICE: 7600"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_022/01_003_022_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_022/01_003_022_1.jpeg"
   },
   "01_003_023": {
     "model": "9710-GD-BK",
@@ -1437,7 +1437,7 @@
       "MATERIAL: METAL",
       "PRICE: 9600"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_023/01_003_023_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_023/01_003_023_1.jpeg"
   },
   "01_003_024": {
     "model": "9710-GD-WH",
@@ -1454,7 +1454,7 @@
       "MATERIAL: METAL",
       "PRICE: 9600"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_024/01_003_024_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_024/01_003_024_1.jpeg"
   },
   "01_003_025": {
     "model": "LWA015-BK",
@@ -1471,7 +1471,7 @@
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 4100"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_025/01_003_025_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_025/01_003_025_1.jpeg"
   },
   "01_003_026": {
     "model": "LWA015-WH",
@@ -1488,7 +1488,7 @@
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 4100"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_026/01_003_026_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_026/01_003_026_1.jpeg"
   },
   "01_003_027": {
     "model": "LWA5249-1",
@@ -1505,7 +1505,7 @@
       "MATERIAL: METAL",
       "PRICE: 2800"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_027/01_003_027_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_027/01_003_027_1.jpeg"
   },
   "01_003_028": {
     "model": "5288-1RD",
@@ -1522,7 +1522,7 @@
       "MATERIAL: METAL",
       "PRICE: 3600"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_028/01_003_028_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_028/01_003_028_1.jpeg"
   },
   "01_003_029": {
     "model": "5288-1SQ",
@@ -1539,7 +1539,7 @@
       "MATERIAL: METAL",
       "PRICE: 3600"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_029/01_003_029_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_029/01_003_029_1.jpeg"
   },
   "01_003_030": {
     "model": "GEW 6506-BK 600MM,800MM",
@@ -1556,7 +1556,7 @@
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 600-3400,800-3800"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_030/01_003_030_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_030/01_003_030_1.jpeg"
   },
   "01_003_031": {
     "model": "GEW 6506-AB 600MM,800MM",
@@ -1573,7 +1573,7 @@
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 600-4200,800-5200"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_031/01_003_031_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_031/01_003_031_1.jpeg"
   },
   "01_003_032": {
     "model": "6503-600BK",
@@ -1590,7 +1590,7 @@
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 3200"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_032/01_003_032_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_032/01_003_032_1.jpeg"
   },
   "01_003_033": {
     "model": "6503-600GD",
@@ -1607,7 +1607,7 @@
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 4200"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_033/01_003_033_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_033/01_003_033_1.jpeg"
   },
   "01_003_034": {
     "model": "1601-2",
@@ -1624,7 +1624,7 @@
       "MATERIAL: METAL",
       "PRICE: 5600"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_034/01_003_034_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_034/01_003_034_1.jpeg"
   },
   "01_003_035": {
     "model": "1602-2",
@@ -1641,7 +1641,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 5200"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_035/01_003_035_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_035/01_003_035_1.jpeg"
   },
   "01_003_036": {
     "model": "2022-1 STICK",
@@ -1658,7 +1658,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 5200"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_036/01_003_036_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_036/01_003_036_1.jpeg"
   },
   "01_003_037": {
     "model": "6017-2",
@@ -1675,7 +1675,7 @@
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 13000"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_037/01_003_037_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_037/01_003_037_1.jpeg"
   },
   "01_003_038": {
     "model": "2024-1W",
@@ -1692,7 +1692,7 @@
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 8400"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_038/01_003_038_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_038/01_003_038_1.jpeg"
   },
   "01_003_039": {
     "model": "LWA010-1",
@@ -1709,7 +1709,7 @@
       "MATERIAL: METAL",
       "PRICE: 3800"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_039/01_003_039_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_039/01_003_039_1.jpeg"
   },
   "01_003_040": {
     "model": "022-UW",
@@ -1726,7 +1726,7 @@
       "MATERIAL: METAL + ACRYLIC",
       "PRICE: 4200"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_040/01_003_040_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_040/01_003_040_1.jpeg"
   },
   "01_003_041": {
     "model": "GEW 100-C-1W",
@@ -1743,7 +1743,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 5000"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_041/01_003_041_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_041/01_003_041_1.jpeg"
   },
   "01_003_042": {
     "model": "5050-C",
@@ -1760,7 +1760,7 @@
       "MATERIAL: METAL + AMBER GLASS + CRYSTALS",
       "PRICE: 5100"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_042/01_003_042_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_042/01_003_042_1.jpeg"
   },
   "01_003_043": {
     "model": "2020-1",
@@ -1777,7 +1777,7 @@
       "MATERIAL: METAL + AMBER GLASS",
       "PRICE: 3200"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_043/01_003_043_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_043/01_003_043_1.jpeg"
   },
   "01_003_044": {
     "model": "20081-1W",
@@ -1794,7 +1794,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 3600"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_044/01_003_044_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_044/01_003_044_1.jpeg"
   },
   "01_003_045": {
     "model": "9258-1",
@@ -1811,7 +1811,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 2800"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_045/01_003_045_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_045/01_003_045_1.jpeg"
   },
   "01_003_046": {
     "model": "7017-1",
@@ -1828,7 +1828,7 @@
       "MATERIAL: METAL + AMBER GLASS",
       "PRICE: 2400"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_046/01_003_046_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_046/01_003_046_1.jpeg"
   },
   "01_003_047": {
     "model": "5213-3",
@@ -1845,7 +1845,7 @@
       "MATERIAL: METAL + AMBER GLASS",
       "PRICE: 7800"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_047/01_003_047_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_047/01_003_047_1.jpeg"
   },
   "01_003_048": {
     "model": "6602-2AB",
@@ -1862,7 +1862,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 5800"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_048/01_003_048_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_048/01_003_048_1.jpeg"
   },
   "01_003_049": {
     "model": "5204-2W SM",
@@ -1879,7 +1879,7 @@
       "MATERIAL: METAL + SMOKE GLASS",
       "PRICE: 4600"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_049/01_003_049_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_049/01_003_049_1.jpeg"
   },
   "01_003_050": {
     "model": "5204-2W AM",
@@ -1896,7 +1896,7 @@
       "MATERIAL: METAL + AMBER GLASS",
       "PRICE: 4600"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_050/01_003_050_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_050/01_003_050_1.jpeg"
   },
   "01_003_051": {
     "model": "5204-2WH",
@@ -1913,7 +1913,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 4600"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_051/01_003_051_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_051/01_003_051_1.jpeg"
   },
   "01_003_052": {
     "model": "LN 9525-WH",
@@ -1930,7 +1930,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 4200"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_052/01_003_052_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_052/01_003_052_1.jpeg"
   },
   "01_003_053": {
     "model": "LN 9525-SM",
@@ -1947,7 +1947,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 4200"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_053/01_003_053_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_053/01_003_053_1.jpeg"
   },
   "01_003_054": {
     "model": "LN 9525-AM",
@@ -1964,7 +1964,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 4200"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_054/01_003_054_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_054/01_003_054_1.jpeg"
   },
   "01_003_055": {
     "model": "AW-SM",
@@ -1981,7 +1981,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 3600"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_055/01_003_055_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_055/01_003_055_1.jpeg"
   },
   "01_003_056": {
     "model": "AW-AM",
@@ -1998,7 +1998,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 3600"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_056/01_003_056_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_056/01_003_056_1.jpeg"
   },
   "01_003_057": {
     "model": "G304-W",
@@ -2015,7 +2015,7 @@
       "MATERIAL: METAL + AMBER GLASS",
       "PRICE: 7600"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_057/01_003_057_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_057/01_003_057_1.jpeg"
   },
   "01_003_058": {
     "model": "6008-2BK",
@@ -2032,7 +2032,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 3100"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_058/01_003_058_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_058/01_003_058_1.jpeg"
   },
   "01_003_059": {
     "model": "5198-1",
@@ -2049,7 +2049,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 3400"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_059/01_003_059_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_059/01_003_059_1.jpeg"
   },
   "01_003_060": {
     "model": "5191-1",
@@ -2066,7 +2066,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 3800"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_060/01_003_060_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_060/01_003_060_1.jpeg"
   },
   "01_003_061": {
     "model": "7131-1",
@@ -2083,7 +2083,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 2900"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_061/01_003_061_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_061/01_003_061_1.jpeg"
   },
   "01_003_062": {
     "model": "7130-1",
@@ -2100,7 +2100,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 2600"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_062/01_003_062_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_062/01_003_062_1.jpeg"
   },
   "01_003_063": {
     "model": "7870-AB",
@@ -2117,7 +2117,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 5800"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_063/01_003_063_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_063/01_003_063_1.jpeg"
   },
   "01_003_064": {
     "model": "7880-W",
@@ -2134,7 +2134,7 @@
       "MATERIAL: WOOD + GLASS + METAL",
       "PRICE: 5600"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_064/01_003_064_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_064/01_003_064_1.jpeg"
   },
   "01_003_065": {
     "model": "0151-UW",
@@ -2151,7 +2151,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 4200"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_065/01_003_065_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_065/01_003_065_1.jpeg"
   },
   "01_003_066": {
     "model": "2003-W",
@@ -2168,7 +2168,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 2800"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_066/01_003_066_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_066/01_003_066_1.jpeg"
   },
   "01_003_067": {
     "model": "0150-W",
@@ -2185,7 +2185,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 3800"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_067/01_003_067_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_067/01_003_067_1.jpeg"
   },
   "01_003_068": {
     "model": "5247-W",
@@ -2202,7 +2202,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 3800"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_068/01_003_068_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_068/01_003_068_1.jpeg"
   },
   "01_003_069": {
     "model": "151-150W",
@@ -2219,7 +2219,7 @@
       "MATERIAL: METAL",
       "PRICE: 3600"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_069/01_003_069_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_069/01_003_069_1.jpeg"
   },
   "01_003_070": {
     "model": "053-W",
@@ -2236,7 +2236,7 @@
       "MATERIAL: METAL",
       "PRICE: 3900"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_070/01_003_070_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_070/01_003_070_1.jpeg"
   },
   "01_003_071": {
     "model": "01152-WD",
@@ -2253,7 +2253,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 4200"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_071/01_003_071_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_071/01_003_071_1.jpeg"
   },
   "01_003_072": {
     "model": "01153-AB",
@@ -2270,7 +2270,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 3800"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_072/01_003_072_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_072/01_003_072_1.jpeg"
   },
   "01_003_073": {
     "model": "6770-1AB",
@@ -2287,7 +2287,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 4200"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_073/01_003_073_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_073/01_003_073_1.jpeg"
   },
   "01_003_074": {
     "model": "6770-1COP",
@@ -2304,7 +2304,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 4200"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_074/01_003_074_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_074/01_003_074_1.jpeg"
   },
   "01_003_075": {
     "model": "GEW 002",
@@ -2321,7 +2321,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 2900"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_075/01_003_075_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_075/01_003_075_1.jpeg"
   },
   "01_003_076": {
     "model": "5203-W AB",
@@ -2338,7 +2338,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 3400"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_076/01_003_076_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_076/01_003_076_1.jpeg"
   },
   "01_003_077": {
     "model": "5233-1",
@@ -2355,7 +2355,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 3400"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_077/01_003_077_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_077/01_003_077_1.jpeg"
   },
   "01_003_078": {
     "model": "76044",
@@ -2372,7 +2372,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 3200"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_078/01_003_078_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_078/01_003_078_1.jpeg"
   },
   "01_003_079": {
     "model": "79E041",
@@ -2389,7 +2389,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 2800"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_079/01_003_079_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_079/01_003_079_1.jpeg"
   },
   "01_003_080": {
     "model": "76041",
@@ -2406,7 +2406,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 3200"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_080/01_003_080_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_080/01_003_080_1.jpeg"
   },
   "01_003_081": {
     "model": "76042",
@@ -2423,7 +2423,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 2400"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_081/01_003_081_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_081/01_003_081_1.jpeg"
   },
   "01_003_082": {
     "model": "76043",
@@ -2440,7 +2440,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 2400"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_082/01_003_082_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_082/01_003_082_1.jpeg"
   },
   "01_003_083": {
     "model": "1451-W",
@@ -2457,7 +2457,7 @@
       "MATERIAL: METAL + PLA",
       "PRICE: 2600"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_083/01_003_083_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_083/01_003_083_1.jpeg"
   },
   "01_003_084": {
     "model": "1450-W",
@@ -2474,7 +2474,7 @@
       "MATERIAL: METAL + PLA",
       "PRICE: 2600"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_084/01_003_084_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_084/01_003_084_1.jpeg"
   },
   "01_003_085": {
     "model": "1452-W",
@@ -2491,7 +2491,7 @@
       "MATERIAL: METAL + PLA",
       "PRICE: 2600"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_085/01_003_085_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_085/01_003_085_1.jpeg"
   },
   "01_003_086": {
     "model": "1651-W",
@@ -2508,7 +2508,7 @@
       "MATERIAL: METAL + PLA",
       "PRICE: 3200"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_086/01_003_086_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_086/01_003_086_1.jpeg"
   },
   "01_003_087": {
     "model": "1652-W",
@@ -2525,7 +2525,7 @@
       "MATERIAL: METAL + PLA",
       "PRICE: 3200"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_087/01_003_087_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_087/01_003_087_1.jpeg"
   },
   "01_003_088": {
     "model": "1650-W AB",
@@ -2542,7 +2542,7 @@
       "MATERIAL: METAL + PLA",
       "PRICE: 3200"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_088/01_003_088_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_088/01_003_088_1.jpeg"
   },
   "01_003_089": {
     "model": "12050 -W",
@@ -2559,7 +2559,7 @@
       "MATERIAL: METAL",
       "PRICE: 3100"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_089/01_003_089_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_089/01_003_089_1.jpeg"
   },
   "01_003_090": {
     "model": "F981-1W",
@@ -2576,7 +2576,7 @@
       "MATERIAL: METAL",
       "PRICE: 2300"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_090/01_003_090_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_090/01_003_090_1.jpeg"
   },
   "01_003_091": {
     "model": "6805-1",
@@ -2593,7 +2593,7 @@
       "MATERIAL: METAL + MARBLE + FABRIC SHADE",
       "PRICE: 3800"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_091/01_003_091_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_091/01_003_091_1.jpeg"
   },
   "01_003_092": {
     "model": "6805-2",
@@ -2610,7 +2610,7 @@
       "MATERIAL: METAL + MARBLE + FABRIC SHADE",
       "PRICE: 6400"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_092/01_003_092_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_092/01_003_092_1.jpeg"
   },
   "01_003_093": {
     "model": "80178-1",
@@ -2627,7 +2627,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 3000"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_093/01_003_093_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_093/01_003_093_1.jpeg"
   },
   "01_003_094": {
     "model": "80178-2",
@@ -2644,7 +2644,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 6000"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_094/01_003_094_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_094/01_003_094_1.jpeg"
   },
   "01_003_095": {
     "model": "80207-W",
@@ -2661,7 +2661,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 3000"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_095/01_003_095_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_095/01_003_095_1.jpeg"
   },
   "01_003_096": {
     "model": "80207-2",
@@ -2678,7 +2678,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 6000"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_096/01_003_096_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_096/01_003_096_1.jpeg"
   },
   "01_003_097": {
     "model": "2394-W SM, AMB",
@@ -2695,7 +2695,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: SM-6000,AMB-6000"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_097/01_003_097_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_097/01_003_097_1.jpeg"
   },
   "01_003_098": {
     "model": "6022-1B",
@@ -2712,7 +2712,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 6200"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_098/01_003_098_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_098/01_003_098_1.jpeg"
   },
   "01_003_099": {
     "model": "3039-4",
@@ -2729,7 +2729,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 9000"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_099/01_003_099_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_099/01_003_099_1.jpeg"
   },
   "01_003_100": {
     "model": "5103-3",
@@ -2746,7 +2746,7 @@
       "MATERIAL: METAL + ANTIQUE",
       "PRICE: 7600"
     ],
-    "image": "./image/product/light/wall_lamps/01_003_100/01_003_100_1.jpeg"
+    "image": "/image/product/light/wall_lamps/01_003_100/01_003_100_1.jpeg"
   },
   "01_004_001": {
     "model": "091-F",
@@ -2763,7 +2763,7 @@
       "MATERIAL: METAL + GLASS + WOOD",
       "PRICE: 28000"
     ],
-    "image": "./image/product/light/floor_&_table_lamps/01_004_001/01_004_001_1.jpeg"
+    "image": "/image/product/light/floor_&_table_lamps/01_004_001/01_004_001_1.jpeg"
   },
   "01_004_002": {
     "model": "9008-F",
@@ -2780,7 +2780,7 @@
       "MATERIAL: METAL + MARBLE",
       "PRICE: 19000"
     ],
-    "image": "./image/product/light/floor_&_table_lamps/01_004_002/01_004_002_1.jpeg"
+    "image": "/image/product/light/floor_&_table_lamps/01_004_002/01_004_002_1.jpeg"
   },
   "01_004_003": {
     "model": "6668-F",
@@ -2797,7 +2797,7 @@
       "MATERIAL: METAL + AMBER GLASS",
       "PRICE: 26000"
     ],
-    "image": "./image/product/light/floor_&_table_lamps/01_004_003/01_004_003_1.jpeg"
+    "image": "/image/product/light/floor_&_table_lamps/01_004_003/01_004_003_1.jpeg"
   },
   "01_004_004": {
     "model": "7000-F",
@@ -2814,7 +2814,7 @@
       "MATERIAL: METAL + GLASS",
       "PRICE: 24000"
     ],
-    "image": "./image/product/light/floor_&_table_lamps/01_004_004/01_004_004_1.jpeg"
+    "image": "/image/product/light/floor_&_table_lamps/01_004_004/01_004_004_1.jpeg"
   },
   "01_004_005": {
     "model": "9869-T",
@@ -2830,7 +2830,7 @@
       "FINISH: COPPER",
       "MATERIAL: METAL + GLASS"
     ],
-    "image": "./image/product/light/floor_&_table_lamps/01_004_005/01_004_005_1.jpeg"
+    "image": "/image/product/light/floor_&_table_lamps/01_004_005/01_004_005_1.jpeg"
   },
   "01_004_006": {
     "model": "4000-T",
@@ -2847,7 +2847,7 @@
       "MATERIAL: METAL + AMBER GLASS",
       "PRICE: 13000"
     ],
-    "image": "./image/product/light/floor_&_table_lamps/01_004_006/01_004_006_1.jpeg"
+    "image": "/image/product/light/floor_&_table_lamps/01_004_006/01_004_006_1.jpeg"
   },
   "01_004_007": {
     "model": "066-1300",
@@ -2864,7 +2864,7 @@
       "MATERIAL: METAL + AMBER GLASS",
       "PRICE: 22000"
     ],
-    "image": "./image/product/light/floor_&_table_lamps/01_004_007/01_004_007_1.jpeg"
+    "image": "/image/product/light/floor_&_table_lamps/01_004_007/01_004_007_1.jpeg"
   },
   "01_004_008": {
     "model": "066-480",
@@ -2881,7 +2881,7 @@
       "MATERIAL: METAL + AMBER GLASS",
       "PRICE: 12000"
     ],
-    "image": "./image/product/light/floor_&_table_lamps/01_004_008/01_004_008_1.jpeg"
+    "image": "/image/product/light/floor_&_table_lamps/01_004_008/01_004_008_1.jpeg"
   },
   "01_004_009": {
     "model": "8065-F",
@@ -2898,7 +2898,7 @@
       "MATERIAL: METAL",
       "PRICE: 24000"
     ],
-    "image": "./image/product/light/floor_&_table_lamps/01_004_009/01_004_009_1.jpeg"
+    "image": "/image/product/light/floor_&_table_lamps/01_004_009/01_004_009_1.jpeg"
   },
   "01_004_010": {
     "model": "6626F",
@@ -2915,7 +2915,7 @@
       "MATERIAL: METAL + MARBLE + FABRIC SHADE",
       "PRICE: 15000"
     ],
-    "image": "./image/product/light/floor_&_table_lamps/01_004_010/01_004_010_1.jpeg"
+    "image": "/image/product/light/floor_&_table_lamps/01_004_010/01_004_010_1.jpeg"
   },
   
     "01_004_011": {
@@ -2933,7 +2933,7 @@
         "MATERIAL: METAL + MARBLE + FABRIC SHADE",
         "PRICE: 8600"
       ],
-    "image": "./image/product/light/floor_&_table_lamps/01_004_011/01_004_011_1.jpeg"
+    "image": "/image/product/light/floor_&_table_lamps/01_004_011/01_004_011_1.jpeg"
     },
     "01_004_012": {
       "model": "LM217-F",
@@ -2950,7 +2950,7 @@
         "MATERIAL: METAL + FABRIC SHADE",
         "PRICE: 13000"
       ],
-    "image": "./image/product/light/floor_&_table_lamps/01_004_012/01_004_012_1.jpeg"
+    "image": "/image/product/light/floor_&_table_lamps/01_004_012/01_004_012_1.jpeg"
     },
     "01_004_013": {
       "model": "3250-F",
@@ -2967,7 +2967,7 @@
         "MATERIAL: METAL + FABRIC SHADE",
         "PRICE: 9800"
       ],
-    "image": "./image/product/light/floor_&_table_lamps/01_004_013/01_004_013_1.jpeg"
+    "image": "/image/product/light/floor_&_table_lamps/01_004_013/01_004_013_1.jpeg"
     },
     "01_004_014": {
       "model": "LM216-T",
@@ -2984,7 +2984,7 @@
         "MATERIAL: METAL + FABRIC SHADE",
         "PRICE: 8800"
       ],
-    "image": "./image/product/light/floor_&_table_lamps/01_004_014/01_004_014_1.jpeg"
+    "image": "/image/product/light/floor_&_table_lamps/01_004_014/01_004_014_1.jpeg"
     },
     "01_004_015": {
       "model": "3260-F COP",
@@ -3001,7 +3001,7 @@
         "MATERIAL: METAL + FABRIC SHADE",
         "PRICE: 9000"
       ],
-    "image": "./image/product/light/floor_&_table_lamps/01_004_015/01_004_015_1.jpeg"
+    "image": "/image/product/light/floor_&_table_lamps/01_004_015/01_004_015_1.jpeg"
     },
     "01_004_016": {
       "model": "3260-F GD",
@@ -3018,7 +3018,7 @@
         "MATERIAL: METAL + FABRIC SHADE",
         "PRICE: 9000"
       ],
-    "image": "./image/product/light/floor_&_table_lamps/01_004_016/01_004_016_1.jpeg"
+    "image": "/image/product/light/floor_&_table_lamps/01_004_016/01_004_016_1.jpeg"
     },
     "01_004_017": {
       "model": "8003-DW",
@@ -3035,7 +3035,7 @@
         "MATERIAL: METAL + WOOD + FABRIC SHADE",
         "PRICE: 7600"
       ],
-    "image": "./image/product/light/floor_&_table_lamps/01_004_017/01_004_017_1.jpeg"
+    "image": "/image/product/light/floor_&_table_lamps/01_004_017/01_004_017_1.jpeg"
     },
     "01_004_018": {
       "model": "8003-LW",
@@ -3052,7 +3052,7 @@
         "MATERIAL: METAL + WOOD + FABRIC SHADE",
         "PRICE: 7600"
       ],
-    "image": "./image/product/light/floor_&_table_lamps/01_004_018/01_004_018_1.jpeg"
+    "image": "/image/product/light/floor_&_table_lamps/01_004_018/01_004_018_1.jpeg"
     },
     "01_004_019": {
       "model": "CP033",
@@ -3069,7 +3069,7 @@
         "MATERIAL: WOOD + FABRIC",
         "PRICE: 13000"
       ],
-    "image": "./image/product/light/floor_&_table_lamps/01_004_019/01_004_019_1.jpeg"
+    "image": "/image/product/light/floor_&_table_lamps/01_004_019/01_004_019_1.jpeg"
     },
     "01_004_020": {
       "model": "CP031",
@@ -3086,7 +3086,7 @@
         "MATERIAL: WOOD + FABRIC",
         "PRICE: 13000"
       ],
-    "image": "./image/product/light/floor_&_table_lamps/01_004_020/01_004_020_1.jpeg"
+    "image": "/image/product/light/floor_&_table_lamps/01_004_020/01_004_020_1.jpeg"
     },
     "01_004_021": {
       "model": "3502-AB",
@@ -3103,7 +3103,7 @@
         "MATERIAL: METAL + WOOD",
         "PRICE: 9800"
       ],
-    "image": "./image/product/light/floor_&_table_lamps/01_004_021/01_004_021_1.jpeg"
+    "image": "/image/product/light/floor_&_table_lamps/01_004_021/01_004_021_1.jpeg"
     },
     "01_004_022": {
       "model": "3503",
@@ -3120,7 +3120,7 @@
         "MATERIAL: METAL + WOOD + FABRIC",
         "PRICE: 8000"
       ],
-    "image": "./image/product/light/floor_&_table_lamps/01_004_022/01_004_022_1.jpeg"
+    "image": "/image/product/light/floor_&_table_lamps/01_004_022/01_004_022_1.jpeg"
     },
     "01_004_023": {
       "model": "3150-1F",
@@ -3137,7 +3137,7 @@
         "MATERIAL: METAL + FABRIC SHADE",
         "PRICE: 4600"
       ],
-    "image": "./image/product/light/floor_&_table_lamps/01_004_023/01_004_023_1.jpeg"
+    "image": "/image/product/light/floor_&_table_lamps/01_004_023/01_004_023_1.jpeg"
     },
     "01_004_024": {
       "model": "3160-1T",
@@ -3154,7 +3154,7 @@
         "MATERIAL: METAL + FABRIC SHADE",
         "PRICE: 3200"
       ],
-    "image": "./image/product/light/floor_&_table_lamps/01_004_024/01_004_024_1.jpeg"
+    "image": "/image/product/light/floor_&_table_lamps/01_004_024/01_004_024_1.jpeg"
     },
     "01_004_025": {
       "model": "9818-TL",
@@ -3171,7 +3171,7 @@
         "MATERIAL: METAL",
         "PRICE: 9000"
       ],
-    "image": "./image/product/light/floor_&_table_lamps/01_004_025/01_004_025_1.jpeg"
+    "image": "/image/product/light/floor_&_table_lamps/01_004_025/01_004_025_1.jpeg"
     },
     "01_004_026": {
       "model": "FL 01",
@@ -3188,7 +3188,7 @@
         "MATERIAL: METAL + GLASS + WOOD",
         "PRICE: 29000"
       ],
-    "image": "./image/product/light/floor_&_table_lamps/01_004_026/01_004_026_1.jpeg"
+    "image": "/image/product/light/floor_&_table_lamps/01_004_026/01_004_026_1.jpeg"
     },
     "01_004_027": {
       "model": "FL 2202",
@@ -3205,7 +3205,7 @@
         "MATERIAL: METAL + WOOD + ACRYLIC",
         "PRICE: 19600"
       ],
-    "image": "./image/product/light/floor_&_table_lamps/01_004_027/01_004_027_1.jpeg"
+    "image": "/image/product/light/floor_&_table_lamps/01_004_027/01_004_027_1.jpeg"
     },
     "01_004_028": {
       "model": "088-F",
@@ -3222,7 +3222,7 @@
         "MATERIAL: METAL + GLASS",
         "PRICE: 16000"
       ],
-    "image": "./image/product/light/floor_&_table_lamps/01_004_028/01_004_028_1.jpeg"
+    "image": "/image/product/light/floor_&_table_lamps/01_004_028/01_004_028_1.jpeg"
     },
     "01_004_029": {
       "model": "GEF 151",
@@ -3239,7 +3239,7 @@
         "MATERIAL: METAL + GLASS",
         "PRICE: 17000"
       ],
-    "image": "./image/product/light/floor_&_table_lamps/01_004_029/01_004_029_1.jpeg"
+    "image": "/image/product/light/floor_&_table_lamps/01_004_029/01_004_029_1.jpeg"
     },
     "01_004_030": {
       "model": "5200-6FL",
@@ -3256,7 +3256,7 @@
         "MATERIAL: METAL + GLASS",
         "PRICE: 15000"
       ],
-    "image": "./image/product/light/floor_&_table_lamps/01_004_030/01_004_030_1.jpeg"
+    "image": "/image/product/light/floor_&_table_lamps/01_004_030/01_004_030_1.jpeg"
     },
     "01_004_031": {
       "model": "5201-2F",
@@ -3273,7 +3273,7 @@
         "MATERIAL: METAL + GLASS",
         "PRICE: 15000"
       ],
-  "image": "./image/product/light/floor_&_table_lamps/01_004_031/01_004_031_1.jpeg"
+  "image": "/image/product/light/floor_&_table_lamps/01_004_031/01_004_031_1.jpeg"
     },
     "01_004_032": {
       "model": "6501-F",
@@ -3290,7 +3290,7 @@
         "MATERIAL: METAL + ACRYLIC",
         "PRICE: 12000"
       ],
-    "image": "./image/product/light/floor_&_table_lamps/01_004_032/01_004_032_1.jpeg"
+    "image": "/image/product/light/floor_&_table_lamps/01_004_032/01_004_032_1.jpeg"
     },
     "01_004_033": {
       "model": "6502-T",
@@ -3307,7 +3307,7 @@
         "MATERIAL: METAL + ACRYLIC",
         "PRICE: 7000"
       ],
-  "image": "./image/product/light/floor_&_table_lamps/01_004_033/01_004_033_1.jpeg"
+  "image": "/image/product/light/floor_&_table_lamps/01_004_033/01_004_033_1.jpeg"
     },
     "01_004_034": {
       "model": "800-3F, 1F",
@@ -3324,7 +3324,7 @@
         "MATERIAL: METAL + MARBLE",
         "PRICE: 3F-11600,1F-16000"
       ],
-   "image": "./image/product/light/floor_&_table_lamps/01_004_034/01_004_034_1.jpeg"
+   "image": "/image/product/light/floor_&_table_lamps/01_004_034/01_004_034_1.jpeg"
     },
     "01_004_035": {
       "model": "2008-FL",
@@ -3341,7 +3341,7 @@
         "MATERIAL: METAL + MARBLE",
         "PRICE: 19000"
       ],
-  "image": "./image/product/light/floor_&_table_lamps/01_004_035/01_004_035_1.jpeg"
+  "image": "/image/product/light/floor_&_table_lamps/01_004_035/01_004_035_1.jpeg"
     },
     "01_004_036": {
       "model": "2097-F",
@@ -3358,7 +3358,7 @@
         "MATERIAL: METAL + FABRIC SHADE",
         "PRICE: 17000"
       ],
-      "image": "./image/product/light/floor_&_table_lamps/01_004_036/01_004_036_1.jpeg"    },
+      "image": "/image/product/light/floor_&_table_lamps/01_004_036/01_004_036_1.jpeg"    },
     "01_004_037": {
       "model": "5203-T",
       "short_description": "",
@@ -3373,7 +3373,7 @@
         "FINISH: ANTIQUE BRASS",
         "MATERIAL: METAL + MARBLE"
       ],
-      "image": "./image/product/light/floor_&_table_lamps/01_004_037/01_004_037_1.jpeg"    },
+      "image": "/image/product/light/floor_&_table_lamps/01_004_037/01_004_037_1.jpeg"    },
     "01_004_038": {
       "model": "063-F",
       "short_description": "",
@@ -3388,7 +3388,7 @@
         "FINISH: ANTIQUE BRASS",
         "MATERIAL: METAL + MARBLE"
       ],
-      "image": "./image/product/light/floor_&_table_lamps/01_004_038/01_004_038_1.jpeg"    },
+      "image": "/image/product/light/floor_&_table_lamps/01_004_038/01_004_038_1.jpeg"    },
     "01_004_039": {
       "model": "8516-T",
       "short_description": "",
@@ -3404,7 +3404,7 @@
         "MATERIAL: METAL + ACRYLIC",
         "PRICE: 7200"
       ],
-      "image": "./image/product/light/floor_&_table_lamps/01_004_039/01_004_039_1.jpeg"    },
+      "image": "/image/product/light/floor_&_table_lamps/01_004_039/01_004_039_1.jpeg"    },
     "01_004_040": {
       "model": "8517-F",
       "short_description": "",
@@ -3420,7 +3420,7 @@
         "MATERIAL: METAL + ACRYLIC",
         "PRICE: 13000"
       ],
-    "image": "./image/product/light/floor_&_table_lamps/01_004_040/01_004_040_1.jpeg"
+    "image": "/image/product/light/floor_&_table_lamps/01_004_040/01_004_040_1.jpeg"
     },
     "01_004_041": {
       "model": "8595-BK-AB",
@@ -3437,7 +3437,7 @@
         "MATERIAL: METAL",
         "PRICE: 5900"
       ],
-      "image": "./image/product/light/floor_&_table_lamps/01_004_041/01_004_041_1.jpeg"
+      "image": "/image/product/light/floor_&_table_lamps/01_004_041/01_004_041_1.jpeg"
     },
     "01_004_042": {
       "model": "8596-AB-BK",
@@ -3454,7 +3454,7 @@
         "MATERIAL: METAL",
         "PRICE: 5900"
       ],
-      "image": "./image/product/light/floor_&_table_lamps/01_004_042/01_004_042_1.jpeg"
+      "image": "/image/product/light/floor_&_table_lamps/01_004_042/01_004_042_1.jpeg"
     },
     "01_004_043": {
       "model": "8595-AB-BK",
@@ -3471,7 +3471,7 @@
         "MATERIAL: METAL",
         "PRICE: 5900"
       ],
-      "image": "./image/product/light/floor_&_table_lamps/01_004_043/01_004_043_1.jpeg"
+      "image": "/image/product/light/floor_&_table_lamps/01_004_043/01_004_043_1.jpeg"
     },
     "01_004_044": {
       "model": "8596-CONE",
@@ -3488,7 +3488,7 @@
         "MATERIAL: METAL",
         "PRICE: 5900"
       ],
-      "image": "./image/product/light/floor_&_table_lamps/01_004_044/01_004_044_1.jpeg"
+      "image": "/image/product/light/floor_&_table_lamps/01_004_044/01_004_044_1.jpeg"
     },
     "01_004_045": {
       "model": "8596-F-BK",
@@ -3505,7 +3505,7 @@
         "MATERIAL: METAL",
         "PRICE: 5900"
       ],
-      "image": "./image/product/light/floor_&_table_lamps/01_004_045/01_004_045_1.jpeg"
+      "image": "/image/product/light/floor_&_table_lamps/01_004_045/01_004_045_1.jpeg"
     },
     "01_004_046": {
       "model": "8596-BK-AB",
@@ -3522,7 +3522,7 @@
         "MATERIAL: METAL",
         "PRICE: 5900"
       ],
-      "image": "./image/product/light/floor_&_table_lamps/01_004_046/01_004_046_1.jpeg"
+      "image": "/image/product/light/floor_&_table_lamps/01_004_046/01_004_046_1.jpeg"
     },
     "01_004_047": {
       "model": "8598-BK",
@@ -3539,7 +3539,7 @@
         "MATERIAL: METAL",
         "PRICE: 5900"
       ],
-      "image": "./image/product/light/floor_&_table_lamps/01_004_047/01_004_047_1.jpeg"
+      "image": "/image/product/light/floor_&_table_lamps/01_004_047/01_004_047_1.jpeg"
     },
     "01_004_048": {
       "model": "8596-F-AB",
@@ -3556,7 +3556,7 @@
         "MATERIAL: METAL",
         "PRICE: 5900"
       ],
-      "image": "./image/product/light/floor_&_table_lamps/01_004_048/01_004_048_1.jpeg"
+      "image": "/image/product/light/floor_&_table_lamps/01_004_048/01_004_048_1.jpeg"
     },
     "01_004_049": {
       "model": "8597-AB",
@@ -3573,7 +3573,7 @@
         "MATERIAL: METAL",
         "PRICE: 5900"
       ],
-      "image": "./image/product/light/floor_&_table_lamps/01_004_049/01_004_049_1.jpeg"
+      "image": "/image/product/light/floor_&_table_lamps/01_004_049/01_004_049_1.jpeg"
     },
     "01_004_050": {
       "model": "TL-8520",
@@ -3590,7 +3590,7 @@
         "MATERIAL: METAL",
         "PRICE: 4800"
       ],
-      "image": "./image/product/light/floor_&_table_lamps/01_004_050/01_004_050_1.jpeg"
+      "image": "/image/product/light/floor_&_table_lamps/01_004_050/01_004_050_1.jpeg"
     },
     "01_004_051": {
       "model": "TL-8300",
@@ -3607,7 +3607,7 @@
         "MATERIAL: METAL + GLASS",
         "PRICE: 4500"
       ],
-      "image": "./image/product/light/floor_&_table_lamps/01_004_051/01_004_051_1.jpeg"
+      "image": "/image/product/light/floor_&_table_lamps/01_004_051/01_004_051_1.jpeg"
     },
     "01_004_052": {
       "model": "TL-8500 (FL ON REQUEST)",
@@ -3624,7 +3624,7 @@
         "MATERIAL: METAL + GLASS",
         "PRICE: 4900"
       ],
-      "image": "./image/product/light/floor_&_table_lamps/01_004_052/01_004_052_1.jpeg"
+      "image": "/image/product/light/floor_&_table_lamps/01_004_052/01_004_052_1.jpeg"
     },
     "01_004_053": {
       "model": "TL-8445 (FL ON REQUEST)",
@@ -3641,7 +3641,7 @@
         "MATERIAL: METAL + GLASS",
         "PRICE: 4900"
       ],
-      "image": "./image/product/light/floor_&_table_lamps/01_004_053/01_004_053_1.jpeg"
+      "image": "/image/product/light/floor_&_table_lamps/01_004_053/01_004_053_1.jpeg"
     },
     "01_004_054": {
       "model": "GET13",
@@ -3658,7 +3658,7 @@
         "MATERIAL: METAL + ACRYLIC",
         "PRICE: 3400"
       ],
-      "image": "./image/product/light/floor_&_table_lamps/01_004_054/01_004_054_1.jpeg"
+      "image": "/image/product/light/floor_&_table_lamps/01_004_054/01_004_054_1.jpeg"
     },
     "01_004_055": {
       "model": "GET11",
@@ -3675,7 +3675,7 @@
         "MATERIAL: METAL + ACRYLIC",
         "PRICE: 2400"
       ],
-      "image": "./image/product/light/floor_&_table_lamps/01_004_055/01_004_055_1.jpeg"
+      "image": "/image/product/light/floor_&_table_lamps/01_004_055/01_004_055_1.jpeg"
     },
     "01_004_056": {
       "model": "GET12",
@@ -3692,7 +3692,7 @@
         "MATERIAL: METAL + ACRYLIC",
         "PRICE: 2400"
       ],
-      "image": "./image/product/light/floor_&_table_lamps/01_004_056/01_004_056_1.jpeg"
+      "image": "/image/product/light/floor_&_table_lamps/01_004_056/01_004_056_1.jpeg"
     },
     "01_004_057": {
       "model": "25622-TL",
@@ -3709,7 +3709,7 @@
         "MATERIAL: METAL",
         "PRICE: 8800"
       ],
-      "image": "./image/product/light/floor_&_table_lamps/01_004_057/01_004_057_1.jpeg"
+      "image": "/image/product/light/floor_&_table_lamps/01_004_057/01_004_057_1.jpeg"
     },
     "01_004_058": {
       "model": "25622-S-TL",
@@ -3726,7 +3726,7 @@
         "MATERIAL: METAL",
         "PRICE: 7200"
       ],
-      "image": "./image/product/light/floor_&_table_lamps/01_004_058/01_004_058_1.jpeg"
+      "image": "/image/product/light/floor_&_table_lamps/01_004_058/01_004_058_1.jpeg"
     },
     "01_004_059": {
       "model": "6619-T-BK",
@@ -3743,7 +3743,7 @@
         "MATERIAL: METAL + FABRIC SHADE",
         "PRICE: 13000"
       ],
-      "image": "./image/product/light/floor_&_table_lamps/01_004_059/01_004_059_1.jpeg"
+      "image": "/image/product/light/floor_&_table_lamps/01_004_059/01_004_059_1.jpeg"
     },
     "01_004_060": {
       "model": "6619-T-WH",
@@ -3760,7 +3760,7 @@
         "MATERIAL: METAL + FABRIC SHADE",
         "PRICE: 13000"
       ],
-      "image": "./image/product/light/floor_&_table_lamps/01_004_060/01_004_060_1.jpeg"
+      "image": "/image/product/light/floor_&_table_lamps/01_004_060/01_004_060_1.jpeg"
     },
     "01_004_061": {
       "model": "6619-T-GY",
@@ -3777,7 +3777,7 @@
         "MATERIAL: METAL + FABRIC SHADE",
         "PRICE: 13000"
       ],
-      "image": "./image/product/light/floor_&_table_lamps/01_004_061/01_004_061_1.jpeg"
+      "image": "/image/product/light/floor_&_table_lamps/01_004_061/01_004_061_1.jpeg"
     },
     "01_004_062": {
       "model": "6622-T-BK",
@@ -3794,7 +3794,7 @@
         "MATERIAL: METAL + FABRIC SHADE",
         "PRICE: 7600"
       ],
-      "image": "./image/product/light/floor_&_table_lamps/01_004_062/01_004_062_1.jpeg"
+      "image": "/image/product/light/floor_&_table_lamps/01_004_062/01_004_062_1.jpeg"
     },
     "01_004_063": {
       "model": "40305-GD",
@@ -3811,7 +3811,7 @@
         "MATERIAL: METAL + FABRIC SHADE",
         "PRICE: 3600"
       ],
-      "image": "./image/product/light/floor_&_table_lamps/01_004_063/01_004_063_1.jpeg"
+      "image": "/image/product/light/floor_&_table_lamps/01_004_063/01_004_063_1.jpeg"
     },
     "01_004_064": {
       "model": "2500-TL",
@@ -3828,7 +3828,7 @@
         "MATERIAL: METAL + PLA",
         "PRICE: 4400"
       ],
-      "image": "./image/product/light/floor_&_table_lamps/01_004_064/01_004_064_1.jpeg"
+      "image": "/image/product/light/floor_&_table_lamps/01_004_064/01_004_064_1.jpeg"
     },
     "01_004_065": {
       "model": "TL2016",
@@ -3845,7 +3845,7 @@
         "MATERIAL: METAL + FABRIC SHADE",
         "PRICE: 3400"
       ],
-      "image": "./image/product/light/floor_&_table_lamps/01_004_065/01_004_065_1.jpeg"
+      "image": "/image/product/light/floor_&_table_lamps/01_004_065/01_004_065_1.jpeg"
     },
     "01_004_066": {
       "model": "TL2205D-DW",
@@ -3862,7 +3862,7 @@
         "MATERIAL: METAL + FABRIC SHADE",
         "PRICE: 3800"
       ],
-      "image": "./image/product/light/floor_&_table_lamps/01_004_066/01_004_066_1.jpeg"
+      "image": "/image/product/light/floor_&_table_lamps/01_004_066/01_004_066_1.jpeg"
     },
     "01_004_067": {
       "model": "TL2205C-LW",
@@ -3879,7 +3879,7 @@
         "MATERIAL: METAL + FABRIC SHADE",
         "PRICE: 3800"
       ],
-      "image": "./image/product/light/floor_&_table_lamps/01_004_067/01_004_067_1.jpeg"
+      "image": "/image/product/light/floor_&_table_lamps/01_004_067/01_004_067_1.jpeg"
     },
     "01_004_068": {
       "model": "TL2206C-DW",
@@ -3896,7 +3896,7 @@
         "MATERIAL: METAL + FABRIC SHADE",
         "PRICE: 3800"
       ],
-      "image": "./image/product/light/floor_&_table_lamps/01_004_068/01_004_068_1.jpeg"
+      "image": "/image/product/light/floor_&_table_lamps/01_004_068/01_004_068_1.jpeg"
     },
     "01_004_069": {
       "model": "TL2206D-LW",
@@ -3913,7 +3913,7 @@
         "MATERIAL: METAL + FABRIC SHADE",
         "PRICE: 3800"
       ],
-      "image": "./image/product/light/floor_&_table_lamps/01_004_069/01_004_069_1.jpeg"
+      "image": "/image/product/light/floor_&_table_lamps/01_004_069/01_004_069_1.jpeg"
     },
     "01_004_070": {
       "model": "TL2209C-AC",
@@ -3930,7 +3930,7 @@
         "MATERIAL: METAL + FABRIC SHADE",
         "PRICE: 3800"
       ],
-      "image": "./image/product/light/floor_&_table_lamps/01_004_070/01_004_070_1.jpeg"
+      "image": "/image/product/light/floor_&_table_lamps/01_004_070/01_004_070_1.jpeg"
     },
     "01_004_071": {
       "model": "TL2208D-AC",
@@ -3947,7 +3947,7 @@
         "MATERIAL: METAL + FABRIC SHADE",
         "PRICE: 3800"
       ],
-      "image": "./image/product/light/floor_&_table_lamps/01_004_071/01_004_071_1.jpeg"
+      "image": "/image/product/light/floor_&_table_lamps/01_004_071/01_004_071_1.jpeg"
     },
     "01_004_072": {
       "model": "TL2208C-AB",
@@ -3964,7 +3964,7 @@
         "MATERIAL: METAL + FABRIC SHADE",
         "PRICE: 3800"
       ],
-      "image": "./image/product/light/floor_&_table_lamps/01_004_072/01_004_072_1.jpeg"
+      "image": "/image/product/light/floor_&_table_lamps/01_004_072/01_004_072_1.jpeg"
     },
     "01_004_073": {
       "model": "TL2209D-AB",
@@ -3981,7 +3981,7 @@
         "MATERIAL: METAL + FABRIC SHADE",
         "PRICE: 3800"
       ],
-      "image": "./image/product/light/floor_&_table_lamps/01_004_073/01_004_073_1.jpeg"
+      "image": "/image/product/light/floor_&_table_lamps/01_004_073/01_004_073_1.jpeg"
     },
   "01_005_001": {
     "model": "5331-T",
@@ -3998,7 +3998,7 @@
       "MATERIAL: METAL + FABRIC SHADE",
       "PRICE: 4500"
     ],
-    "image": "./image/product/light/familes/01_005_001/01_005_001_1.jpeg"
+    "image": "/image/product/light/familes/01_005_001/01_005_001_1.jpeg"
   },
   "01_005_002": {
     "model": "53330-F",
@@ -4015,7 +4015,7 @@
       "MATERIAL: METAL + FABRIC SHADE",
       "PRICE: 8000"
     ],
-    "image": "./image/product/light/familes/01_005_002/01_005_002_1.jpeg"
+    "image": "/image/product/light/familes/01_005_002/01_005_002_1.jpeg"
   },
   "01_005_003": {
     "model": "5333-W",
@@ -4032,7 +4032,7 @@
       "MATERIAL: METAL + FABRIC SHADE",
       "PRICE: 4500"
     ],
-    "image": "./image/product/light/familes/01_005_003/01_005_003_1.jpeg"
+    "image": "/image/product/light/familes/01_005_003/01_005_003_1.jpeg"
   },
   "01_005_004": {
     "model": "5332-W",
@@ -4049,7 +4049,7 @@
       "MATERIAL: METAL + FABRIC SHADE",
       "PRICE: 3000"
     ],
-    "image": "./image/product/light/familes/01_005_004/01_005_004_1.jpeg"
+    "image": "/image/product/light/familes/01_005_004/01_005_004_1.jpeg"
   },
   "01_005_005": {
     "model": "5443-1",
@@ -4066,7 +4066,7 @@
       "MATERIAL: METAL + FABRIC SHADE",
       "PRICE: 3800"
     ],
-    "image": "./image/product/light/familes/01_005_005/01_005_005_1.jpeg"
+    "image": "/image/product/light/familes/01_005_005/01_005_005_1.jpeg"
   },
   "01_005_006": {
     "model": "5442-F",
@@ -4083,7 +4083,7 @@
       "MATERIAL: METAL + FABRIC SHADE",
       "PRICE: 6800"
     ],
-    "image": "./image/product/light/familes/01_005_006/01_005_006_1.jpeg"
+    "image": "/image/product/light/familes/01_005_006/01_005_006_1.jpeg"
   },
   "01_005_007": {
     "model": "5441-T",
@@ -4100,7 +4100,7 @@
       "MATERIAL: METAL + FABRIC SHADE",
       "PRICE: 3600"
     ],
-    "image": "./image/product/light/familes/01_005_007/01_005_007_1.jpeg"
+    "image": "/image/product/light/familes/01_005_007/01_005_007_1.jpeg"
   },
   "01_005_008": {
     "model": "5222-W",
@@ -4117,7 +4117,7 @@
       "MATERIAL: METAL + FABRIC SHADE",
       "PRICE: 2700"
     ],
-    "image": "./image/product/light/familes/01_005_008/01_005_008_1.jpeg"
+    "image": "/image/product/light/familes/01_005_008/01_005_008_1.jpeg"
   },
   "01_005_009": {
     "model": "5223-W",
@@ -4134,7 +4134,7 @@
       "MATERIAL: METAL + FABRIC SHADE",
       "PRICE: 3800"
     ],
-    "image": "./image/product/light/familes/01_005_009/01_005_009_1.jpeg"
+    "image": "/image/product/light/familes/01_005_009/01_005_009_1.jpeg"
   },
   "01_005_010": {
     "model": "5221-T",
@@ -4151,7 +4151,7 @@
       "MATERIAL: METAL + FABRIC SHADE",
       "PRICE: 3800"
     ],
-    "image": "./image/product/light/familes/01_005_010/01_005_010_1.jpeg"
+    "image": "/image/product/light/familes/01_005_010/01_005_010_1.jpeg"
   },
   "01_005_011": {
     "model": "5220-F",
@@ -4168,7 +4168,7 @@
       "MATERIAL: METAL + FABRIC SHADE",
       "PRICE: 8500"
     ],
-    "image": "./image/product/light/familes/01_005_011/01_005_011_1.jpeg"
+    "image": "/image/product/light/familes/01_005_011/01_005_011_1.jpeg"
   },
   "01_005_012": {
     "model": "5112-W",
@@ -4185,7 +4185,7 @@
       "MATERIAL: METAL + FABRIC SHADE",
       "PRICE: 2700"
     ],
-    "image": "./image/product/light/familes/01_005_012/01_005_012_1.jpeg"
+    "image": "/image/product/light/familes/01_005_012/01_005_012_1.jpeg"
   },
   "01_005_013": {
     "model": "5113-W",
@@ -4202,7 +4202,7 @@
       "MATERIAL: METAL + FABRIC SHADE",
       "PRICE: 3800"
     ],
-    "image": "./image/product/light/familes/01_005_013/01_005_013_1.jpeg"
+    "image": "/image/product/light/familes/01_005_013/01_005_013_1.jpeg"
   },
   "01_005_014": {
     "model": "5111-T",
@@ -4219,7 +4219,7 @@
       "MATERIAL: METAL + FABRIC SHADE",
       "PRICE: 3800"
     ],
-    "image": "./image/product/light/familes/01_005_014/01_005_014_1.jpeg"
+    "image": "/image/product/light/familes/01_005_014/01_005_014_1.jpeg"
   },
   "01_005_015": {
     "model": "5110-F",
@@ -4236,6 +4236,6 @@
       "MATERIAL: METAL + FABRIC SHADE",
       "PRICE: 7400"
     ],
-    "image": "./image/product/light/familes/01_005_015/01_005_015_1.jpeg"
+    "image": "/image/product/light/familes/01_005_015/01_005_015_1.jpeg"
   }
 }

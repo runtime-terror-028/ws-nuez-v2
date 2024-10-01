@@ -16,7 +16,7 @@
     "short_title": "Loom Solar Panel",  
     "variation": [],
     "specification": [],
-    "image": "./image/product/solar/solar_panel/03_001_001/03_001_001.jpeg"
+    "image": "/image/product/solar/solar_panel/03_001_001/03_001_001.jpeg"
   },
   "03_001_002": {
     "model": "1234",
@@ -32,7 +32,7 @@
     "short_title": "Luminous SolarPanel",  
     "variation": [],
     "specification": [],
-    "image": "./image/product/solar/solar_panel/03_001_002/03_001_002.jpeg"
+    "image": "/image/product/solar/solar_panel/03_001_002/03_001_002.jpeg"
   },
   "03_001_003": {
     "model": "Tapo A200",
@@ -47,7 +47,7 @@
     "short_title": "TP-Link Tapo A200 ",  
     "variation": [],
     "specification": [],
-    "image": "./image/product/solar/solar_panel/03_001_003/03_001_003.jpeg"
+    "image": "/image/product/solar/solar_panel/03_001_003/03_001_003.jpeg"
   },
   "03_001_004": {
     "model": "SHARK 55WATT",
@@ -63,7 +63,7 @@
     "short_title": "LOOM SOLAR Panel",  
     "variation": [],
     "specification": [],
-    "image": "./image/product/solar/solar_panel/03_001_004/03_001_004.jpeg"
+    "image": "/image/product/solar/solar_panel/03_001_004/03_001_004.jpeg"
   },
   "03_001_005": {
     "model": "WSMDi-400",
@@ -81,7 +81,7 @@
     "short_title": "WAAREE Solar Panel ",  
     "variation": [],
     "specification": [],
-    "image": "./image/product/solar/solar_panel/03_001_005/03_001_005.jpeg"
+    "image": "/image/product/solar/solar_panel/03_001_005/03_001_005.jpeg"
   },
   "03_001_006": {
     "model": "50 w Mono PERC",
@@ -97,7 +97,7 @@
     "short_title": "ZunSolar 165 Watt",  
     "variation": [],
     "specification": [],
-    "image": "./image/product/solar/solar_panel/03_001_006/03_001_006.jpeg"
+    "image": "/image/product/solar/solar_panel/03_001_006/03_001_006.jpeg"
   },
   "03_001_007": {
     "model": "Bi-535 Pack of 2",
@@ -112,7 +112,7 @@
     "short_title": "WAAREE Solar Panel 535 Watt",  
     "variation": [],
     "specification": [],
-    "image": "./image/product/solar/solar_panel/03_001_007/03_001_007.jpeg"
+    "image": "/image/product/solar/solar_panel/03_001_007/03_001_007.jpeg"
   },
   "03_001_008": {
     "model": "LGV180V12",
@@ -128,7 +128,7 @@
     "short_title": "Livguard LGV12V180 180W/12v ",  
     "variation": [],
     "specification": [],
-    "image": "./image/product/solar/solar_panel/03_001_008/03_001_008.jpeg"
+    "image": "/image/product/solar/solar_panel/03_001_008/03_001_008.jpeg"
   },
   "03_001_009": {
     "model": "WSMD-450- Pack of 2",
@@ -147,7 +147,7 @@
     "short_title": "WAAREE Solar Panel",  
     "variation": [],
     "specification": [],
-    "image": "./image/product/solar/solar_panel/03_001_009/03_001_009.jpeg"
+    "image": "/image/product/solar/solar_panel/03_001_009/03_001_009.jpeg"
   },
   "03_001_010": {
     "model": "LUM 12170 X 2",
@@ -163,7 +163,7 @@
     "short_title": "Luminous 170W Solar Panel ",  
     "variation": [],
     "specification": [],
-    "image": "./image/product/solar/solar_panel/03_001_010/03_001_010.jpeg"
+    "image": "/image/product/solar/solar_panel/03_001_010/03_001_010.jpeg"
   },
   "03_002_001": {
     "model": "SSL-ABS-120W",
@@ -180,7 +180,7 @@
     "short_title": "Hardoll 120W ",  
     "variation": [],
     "specification": [],
-    "image": "./image/product/solar/solar_light/03_002_001/03_002_001.jpeg"
+    "image": "/image/product/solar/solar_light/03_002_001/03_002_001.jpeg"
   },
   "03_002_002": {
     "model": " SSL-ABS-600W",
@@ -198,7 +198,7 @@
     "short_title": "Hardoll 600W Light LED",  
     "variation": [],
     "specification": [],
-    "image": "./image/product/solar/solar_light/03_002_002/03_002_002.jpeg"
+    "image": "/image/product/solar/solar_light/03_002_002/03_002_002.jpeg"
   },
   "03_002_003": {
     "model": "EU6984",
@@ -214,7 +214,7 @@
     "short_title": "Solpex Solar Lights",  
     "variation": [],
     "specification": [],
-    "image": "./image/product/solar/solar_light/03_002_003/03_002_003.jpeg"
+    "image": "/image/product/solar/solar_light/03_002_003/03_002_003.jpeg"
   },
   "03_002_004": {
     "model": " EU-XF-XIN-HA",
@@ -230,7 +230,7 @@
     "short_title": "Solpex Cleanux Zone ",  
     "variation": [],
     "specification": [],
-    "image": "./image/product/solar/solar_light/03_002_004/03_002_004.jpeg"
+    "image": "/image/product/solar/solar_light/03_002_004/03_002_004.jpeg"
   },
   "03_002_005": {
     "model": " GW-202",
@@ -246,7 +246,7 @@
     "short_title": " GIGAWATTS GW-202",  
     "variation": [],
     "specification": [],
-    "image": "./image/product/solar/solar_light/03_002_005/03_002_005.jpeg"
+    "image": "/image/product/solar/solar_light/03_002_005/03_002_005.jpeg"
   },
   "03_002_006": {
     "model": " SGL-UFO-300W-SQ",
@@ -261,7 +261,7 @@
     "short_title": "Hardoll 300W Solar ",  
     "variation": [],
     "specification": [],
-    "image": "./image/product/solar/solar_light/03_002_006/03_002_006.jpeg"
+    "image": "/image/product/solar/solar_light/03_002_006/03_002_006.jpeg"
   },
   "03_002_007": {
     "model": " SCL-200W ",
@@ -277,7 +277,7 @@
     "short_title": "Hardoll 200W Solar Light",  
     "variation": [],
     "specification": [],
-    "image": "./image/product/solar/solar_light/03_002_007/03_002_007.jpeg"
+    "image": "/image/product/solar/solar_light/03_002_007/03_002_007.jpeg"
   },
   "03_002_008": {
     "model": "SGL-UFO-800W",
@@ -293,7 +293,7 @@
     "short_title": "Hardoll 800w Solar Light",  
     "variation": [],
     "specification": [],
-    "image": "./image/product/solar/solar_light/03_002_008/03_002_008.jpeg"
+    "image": "/image/product/solar/solar_light/03_002_008/03_002_008.jpeg"
   },
   "03_002_009": {
     "model": "SPL-48-POLE-1",
@@ -309,7 +309,7 @@
     "short_title": "Hardoll Solar Light",  
     "variation": [],
     "specification": [],
-    "image": "./image/product/solar/solar_light/03_002_009/03_002_009.jpeg"
+    "image": "/image/product/solar/solar_light/03_002_009/03_002_009.jpeg"
   },
   "03_002_010": {
     "model": " SPL-33WRGB-HEX-D2",
@@ -325,7 +325,7 @@
     "short_title": "Hardoll 10W Solar ",  
     "variation": [],
     "specification": [],
-    "image": "./image/product/solar/solar_light/03_002_010/03_002_010.jpeg"
+    "image": "/image/product/solar/solar_light/03_002_010/03_002_010.jpeg"
   },
   "03_003_001": {
     "model": "11.1V 10000mah Lithium ion Battery Pack",
@@ -340,7 +340,7 @@
     "short_title": "LRSA TECHNOLOGY PVT. LTD ",  
     "variation": [],
     "specification": [],
-    "image": "./image/product/solar/solar_battery/03_003_001/03_003_001.jpeg"
+    "image": "/image/product/solar/solar_battery/03_003_001/03_003_001.jpeg"
   },
   "03_003_002": {
     "model": "Gr_LFP_24V_100AH",
@@ -358,7 +358,7 @@
     "short_title": "GRAPHENE® 24V 100AH",  
     "variation": [],
     "specification": [],
-    "image": "./image/product/solar/solar_battery/03_003_002/03_003_002.jpeg"
+    "image": "/image/product/solar/solar_battery/03_003_002/03_003_002.jpeg"
   },
   "03_003_003": {
     "model": "ASHV-12V15AH",
@@ -379,7 +379,7 @@
     "short_title": "AshvaVolt® 12V 15Ah",  
     "variation": [],
     "specification": [],
-    "image": "./image/product/solar/solar_battery/03_003_003/03_003_003.jpeg"
+    "image": "/image/product/solar/solar_battery/03_003_003/03_003_003.jpeg"
   },
   "03_003_004": {
     "model": "Solar Battery",
@@ -397,7 +397,7 @@
     "short_title": "Litpax 12v-24Ah Lithium",  
     "variation": [],
     "specification": [],
-    "image": "./image/product/solar/solar_battery/03_003_004/03_003_004.jpeg"
+    "image": "/image/product/solar/solar_battery/03_003_004/03_003_004.jpeg"
   },
   "03_003_005": {
     "model": "2131",
@@ -417,7 +417,7 @@
     "short_title": "48v 20000Mah Lithium-Ion",  
     "variation": [],
     "specification": [],
-    "image": "./image/product/solar/solar_battery/03_003_005/03_003_005.jpeg"
+    "image": "/image/product/solar/solar_battery/03_003_005/03_003_005.jpeg"
   },
   "03_003_006": {
     "model": "2131",
@@ -435,7 +435,7 @@
     "short_title": "24V 10000Mah Lithium-Ion",  
     "variation": [],
     "specification": [],
-    "image": "./image/product/solar/solar_battery/03_003_006/03_003_006.jpeg"
+    "image": "/image/product/solar/solar_battery/03_003_006/03_003_006.jpeg"
   },
   "03_003_007": {
     "model": "Solar Battery",
@@ -452,7 +452,7 @@
     "short_title": "SAURALLY-12V Battery",  
     "variation": [],
     "specification": [],
-    "image": "./image/product/solar/solar_battery/03_003_007/03_003_007.jpeg"
+    "image": "/image/product/solar/solar_battery/03_003_007/03_003_007.jpeg"
   },
   "03_003_008": {
     "model": "ASHV-12V7AH",
@@ -470,7 +470,7 @@
     "short_title": "AshvaVolt® 12v Battery",  
     "variation": [],
     "specification": [],
-    "image": "./image/product/solar/solar_battery/03_003_008/03_003_008.jpeg"
+    "image": "/image/product/solar/solar_battery/03_003_008/03_003_008.jpeg"
   },
   "03_003_009": {
     "model": "Solar Battery",
@@ -484,7 +484,7 @@
     "short_title": "MAEnt™ 12V Battery",  
     "variation": [],
     "specification": [],
-    "image": "./image/product/solar/solar_battery/03_003_009/03_003_009.jpeg"
+    "image": "/image/product/solar/solar_battery/03_003_009/03_003_009.jpeg"
   },
   "03_003_010": {
     "model": "Solar Battery",
@@ -498,6 +498,6 @@
     "short_title": "MAEnt™ 12V Li-ion",  
     "variation": [],
     "specification": [],
-    "image": "./image/product/solar/solar_battery/03_003_010/03_003_010.jpeg"
+    "image": "/image/product/solar/solar_battery/03_003_010/03_003_010.jpeg"
   }
 }
