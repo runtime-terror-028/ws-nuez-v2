@@ -1,5 +1,6 @@
 .product_card_body {
     height: 50px !important;
+  
 }
 
 .card-body {
@@ -7,6 +8,7 @@
     justify-content: center !important;
     align-items: center !important;
     padding: 0 !important;
+    /* background-color: blueviolet; */
 }
 
 .Modal_body_image {
@@ -42,4 +44,20 @@
     .Modal_body_text {
         margin-top: 15px;
     }
+}
+
+
+.card_img {
+    opacity: 0;
+    transform: rotateX(90deg) scale(0.5); 
+    transition: opacity 0.2s ease-in, transform 1s ease-in; 
+}
+
+.card_img.visible {
+    opacity: 1; 
+    transform: rotateX(0deg) scale(1); 
+}
+
+.card_img.zoom-in {
+    transform: scale(1.00); 
 }
