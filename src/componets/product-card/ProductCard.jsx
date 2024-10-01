@@ -21,7 +21,7 @@ function ProductCard({ title, image, short_description, long_description, produc
 
   return (
     <>
-      <Card style={{ width: CARD_SIZE }} onClick={handleShow}>
+      <Card className='product_card' style={{ width: CARD_SIZE }} onClick={handleShow}>
         <Card.Img variant="top" src={image} width={CARD_SIZE} height={CARD_SIZE} />
         <Card.Body className="product_card_body">
           <Card.Title className="w-100 text-center">{title}</Card.Title>
