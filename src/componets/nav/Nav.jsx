@@ -56,7 +56,7 @@ function NavBar() {
       <Navbar sticky={'top'} expand="lg" className="main_nav">
         <Container fluid>
           <Navbar.Brand className="nav_logo" as={Link} to="/" onClick={handleHomeNavigation}>
-            <img alt="logo" src="./logo.png" width="150px" height="50px" />
+            <img alt="logo" src="/logo.png" width="150px" height="50px" />
           </Navbar.Brand>
           <Navbar.Toggle
             aria-controls="basic-navbar-nav"
@@ -74,6 +74,7 @@ function NavBar() {
               <NavDropdown
                 title={<span className="text-white nav_buttons">Products</span>}
                 id="basic-nav-dropdown"
+                className="nav_buttons"
               >
                 {/* Collapses the dropdown and navbar when an item is clicked */}
                 <NavDropdown.Item as={Link} to="/light" onClick={() => setIsNavCollapsed(true)}>

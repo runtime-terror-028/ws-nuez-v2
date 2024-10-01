@@ -25,7 +25,7 @@
 
 .main_nav .navbar-nav .dropdown-item:hover {
   background-color: #800000; /* Slightly darker on hover */
-  color: black;
+  color: white;
 }
 
 .cursor-pointer {
@@ -35,15 +35,17 @@
 
 
 
-
+.nav_buttons {
+  transform: scale(1);
+  transition: transform 0.7s ease;
+}
 
 .nav_buttons:hover {
   transform: scale(1.1);
-  transition: ease-in-out 0.5s;
+  transition: linear 0.7s;
+  color: white !important;
 }
-.nav_buttons {
-  transition: ease-in-out 0.3s;
-}
+
 .nav_logo:hover {
   transform: scale(1);
   transition: ease-in-out 1.5s;
@@ -67,18 +69,16 @@
   
   .main_nav .nav-link,
   .main_nav .dropdown-item {
-    color: black !important; /* Ensure links are readable */
+    color: black !important;
   }
   .product_button_color {
     color: black !important;
   }
 
 
-
-
-  .nav_buttons:hover {
+  /* .nav_buttons:hover {
     transform: scale(0.9) !important;
-  }
+  } */
   .nav_logo:hover {
     transform: scale(1) !important;
   }

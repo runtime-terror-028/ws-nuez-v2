@@ -1,85 +1,95 @@
-
-
-.contactus{
+.contactus {
   margin-top: 20px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   gap: 30px;
   background-color: #faebd7;
-  
+
   margin-bottom: 30px;
 }
-.contact_container_1{
+
+.contact_container_1 {
   display: flex;
   flex-direction: column;
   justify-content: center;
-
 }
-.contact_header{
+
+.contact_header {
   display: flex;
   justify-content: center;
   font-size: 26px;
   margin-bottom: 20px;
   font-weight: bold;
 }
-.contact_text_1{
+
+.contact_text_1 {
   font-size: 20px;
- text-align: center;
- padding-left: 250px;
- padding-right: 250px;
+  text-align: center;
+  padding-left: 250px;
+  padding-right: 250px;
 }
-.contact_container_2{
+
+.contact_container_2 {
   display: flex;
   flex-direction: column;
   justify-content: center;
   gap: 20px;
 }
-.contact_info_1{
-display: flex;
-justify-content: space-evenly;
-padding-left: 200px;
-padding-right:200px ;
+
+.contact_info_1 {
+  display: flex;
+  justify-content: space-evenly;
+  padding-left: 200px;
+  padding-right: 200px;
 
 }
-.contact_address , .contact_mail, .contact_phone {
+
+.contact_address,
+.contact_mail,
+.contact_phone {
   display: flex;
   gap: 10px;
 }
-.contact_text{
+
+.contact_text {
   font-size: 17px;
 }
-.contact_phone{
-padding-right: 100px;
+
+.contact_phone {
+  padding-right: 100px;
 
 }
-.contact_mail{
-padding-left: 100px;
+
+.contact_mail {
+  padding-left: 100px;
 }
 
-.contact_icon{
+.contact_icon {
   border-radius: 50%;
-  background-color:#f5deb3;
+  background-color: #edb243;
   height: 30px;
   width: 30px;
   display: flex;
   align-items: center;
   justify-content: center;
-font-size: 20px;
-transition:0.3s ease-in-out;
+  font-size: 20px;
+  transition: 0.3s ease-in-out;
 
 }
-.contact_icon:hover{
- background-color: #800000;
- cursor: pointer;
+
+.contact_icon:hover {
+  cursor: pointer;
 }
-.contact_info_2{
-display: flex;
-justify-content: center;
-padding-left: 50px;
-padding-right: 50px;
-padding-bottom: 20px;
+
+.contact_info_2 {
+  display: flex;
+  justify-content: center;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 20px;
 }
+
 @media screen and (max-width: 840px) {
   .contactus {
     height: fit-content;
@@ -90,7 +100,7 @@ padding-bottom: 20px;
 
   .contact_container_1 {
     width: 100%;
-    padding: 0 15px; 
+    padding: 0 15px;
   }
 
 
@@ -107,7 +117,8 @@ padding-bottom: 20px;
     gap: 15px;
   }
 
-  .contact_phone, .contact_mail {
+  .contact_phone,
+  .contact_mail {
     padding: 0;
   }
 
@@ -122,76 +133,3 @@ padding-bottom: 20px;
     padding-right: 20px;
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

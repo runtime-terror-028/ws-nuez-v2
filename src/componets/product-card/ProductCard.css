@@ -2,7 +2,15 @@
     height: 50px !important;
   
 }
-
+.product_card {
+    margin-bottom: 20px;
+    transition: linear 0.8s;
+}
+.product_card:hover {
+    cursor: pointer;
+    transition: linear 0.5s;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
 .card-body {
     display: flex !important;
     justify-content: center !important;

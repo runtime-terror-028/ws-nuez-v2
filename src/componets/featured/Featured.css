@@ -19,7 +19,7 @@
 .swiper-button-next::after,
 .swiper-button-prev::after {
     font-size: 1rem;
-} 
+}
 
 .featured_heading {
     font-size: 25px;
@@ -44,11 +44,24 @@
     margin-bottom: 50px;
 }
 
+.featured_view_more_button {
+    color: #800000 !important;
+    border-color: #800000 !important;
+    border: 2px solid !important;
+}
+
+.featured_view_more_button:hover {
+    background-color: #800000 !important;
+    color: white !important;
+}
+
 @media (max-width: 750px) {
+
     .swiper-button-next,
     .swiper-button-prev {
         display: none !important;
     }
+
     .featured_section_header {
         padding: 0 25px;
     }

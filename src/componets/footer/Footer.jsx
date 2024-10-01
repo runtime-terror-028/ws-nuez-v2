@@ -11,13 +11,13 @@ const Footer = () => {
     <>
       <footer id="footer">
         <div className="footer_social_container">
-          <a href="https://www.instagram.com/nueztech/" target="_blank">
+          <a className="text-dark" href="https://www.instagram.com/nueztech/" target="_blank">
             <FaInstagram className="footer_icon" />
           </a>
-          <a href="https://www.facebook.com/people/Nuez-Technologies-Pvt-Ltd/61560709572283/" target="_blank">
+          <a className="text-dark" href="https://www.facebook.com/people/Nuez-Technologies-Pvt-Ltd/61560709572283/" target="_blank">
             <FaFacebook className="footer_icon" />
           </a>
-          <a href="https://in.linkedin.com/company/nuez-technologies-pvt-ltd" target="_blank">
+          <a className="text-dark" href="https://in.linkedin.com/company/nuez-technologies-pvt-ltd" target="_blank">
             <FaLinkedin className="footer_icon" />
           </a>
         </div>

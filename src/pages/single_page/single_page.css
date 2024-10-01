@@ -94,12 +94,12 @@
   }
   
   
-  .single_product_section:nth-child(even)  .single_product_container {
+  .single_product_card:nth-child(even)  .single_product_container {
     display: flex;
     flex-direction: row;
   }
   
-  .single_product_section:nth-child(odd)  .single_product_container {
+  .single_product_card:nth-child(odd)  .single_product_container {
     display: flex;
     flex-direction: row-reverse; 
   }
