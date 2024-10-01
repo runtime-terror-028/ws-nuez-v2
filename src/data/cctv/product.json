@@ -16,7 +16,7 @@
     "short_title": "4 MP Powered",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/network_camera/02_001_001/02_001_001.jpeg"
+    "image": "/image/product/cctv/network_camera/02_001_001/02_001_001.jpeg"
   },
   "02_001_002": {
     "model": "DS-2CD2147G2H-LISU",
@@ -34,7 +34,7 @@
     "short_title": "4 MP Smart",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/network_camera/02_001_002/02_001_002.jpeg"
+    "image": "/image/product/cctv/network_camera/02_001_002/02_001_002.jpeg"
   },
   "02_001_003": {
     "model": "DS-2CD6D42G0-IS",
@@ -52,7 +52,7 @@
     "short_title": "Dual-Directional PanoVu",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/network_camera/02_001_003/02_001_003.jpeg"
+    "image": "/image/product/cctv/network_camera/02_001_003/02_001_003.jpeg"
   },
   "02_001_004": {
     "model": "DS-2CD6D54G2-IZHS(/NFC)",
@@ -70,7 +70,7 @@
     "short_title": "4-Directional Multisensor",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/network_camera/02_001_004/02_001_004.jpeg"
+    "image": "/image/product/cctv/network_camera/02_001_004/02_001_004.jpeg"
   },
   "02_001_005": {
     "model": "iDS-2CD8447G0/B-RS",
@@ -88,7 +88,7 @@
     "short_title": "DeepinView Triple-Lens Activity",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/network_camera/02_001_005/02_001_005.jpeg"
+    "image": "/image/product/cctv/network_camera/02_001_005/02_001_005.jpeg"
   },
   "02_001_006": {
     "model": "DS-2CD3146G2H-LIS(U)",
@@ -108,7 +108,7 @@
     "short_title": "4 MP Smart",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/network_camera/02_001_006/02_001_006.jpeg"
+    "image": "/image/product/cctv/network_camera/02_001_006/02_001_006.jpeg"
   },
   "02_001_007": {
     "model": "DS-2CD3523G2-IS",
@@ -124,7 +124,7 @@
     "short_title": "2 MP Acusense",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/network_camera/02_001_007/02_001_007.jpeg"
+    "image": "/image/product/cctv/network_camera/02_001_007/02_001_007.jpeg"
   },
   "02_001_008": {
     "model": "DS-2CD1023G2-LIDUF/4G/SL",
@@ -143,7 +143,7 @@
     "short_title": "2 MP Smart",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/network_camera/02_001_008/02_001_008.jpeg"
+    "image": "/image/product/cctv/network_camera/02_001_008/02_001_008.jpeg"
   },
   "02_001_009": {
     "model": "DS-2CD2421G0-I(D)W",
@@ -158,7 +158,7 @@
     "short_title": "2 MP Indoor",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/network_camera/02_001_009/02_001_009.jpeg"
+    "image": "/image/product/cctv/network_camera/02_001_009/02_001_009.jpeg"
   },
   "02_001_010": {
     "model": "DS-2DE2C400MWG-4G",
@@ -176,7 +176,7 @@
     "short_title": "4 MP Fixed",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/network_camera/02_001_010/02_001_010.jpeg"
+    "image": "/image/product/cctv/network_camera/02_001_010/02_001_010.jpeg"
   },
   "02_002_001": {
     "model": "DS-2DF7A436IXG-EL(Y)",
@@ -196,7 +196,7 @@
     "short_title": "7A Series 4MP",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/ptz_camera/02_002_001/02_002_001.jpeg"
+    "image": "/image/product/cctv/ptz_camera/02_002_001/02_002_001.jpeg"
   },
   "02_002_002": {
     "model": "DS-2DP3236ZIXS-D/440(F0)(P5)",
@@ -215,7 +215,7 @@
     "short_title": "32MP 360° Panoramic",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/ptz_camera/02_002_002/02_002_002.jpeg"
+    "image": "/image/product/cctv/ptz_camera/02_002_002/02_002_002.jpeg"
   },
   "02_002_003": {
     "model": "DS-2SF8C425MXS-DLW(14F1)(P3)",
@@ -234,7 +234,7 @@
     "short_title": "TandemVu 8C Series",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/ptz_camera/02_002_003/02_002_003.jpeg"
+    "image": "/image/product/cctv/ptz_camera/02_002_003/02_002_003.jpeg"
   },
   "02_002_004": {
     "model": "DS-2DE7A432IWG-EB",
@@ -252,7 +252,7 @@
     "short_title": "4 MP 32X",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/ptz_camera/02_002_004/02_002_004.jpeg"
+    "image": "/image/product/cctv/ptz_camera/02_002_004/02_002_004.jpeg"
   },
   "02_002_005": {
     "model": "DS-2SE4C225MWG-E/12(F0)",
@@ -271,7 +271,7 @@
     "short_title": "TandemVu 4-inch 2",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/ptz_camera/02_002_005/02_002_005.jpeg"
+    "image": "/image/product/cctv/ptz_camera/02_002_005/02_002_005.jpeg"
   },
   "02_002_006": {
     "model": "DS-2SE4C225MWG-E/26(F0)",
@@ -290,7 +290,7 @@
     "short_title": "TandemVu 6+2MP 25X",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/ptz_camera/02_002_006/02_002_006.jpeg"
+    "image": "/image/product/cctv/ptz_camera/02_002_006/02_002_006.jpeg"
   },
   "02_002_007": {
     "model": "DS-2SE7C432IWG-4G/14(F0)",
@@ -311,7 +311,7 @@
     "short_title": "TandemVu 4+4MP 32x",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/ptz_camera/02_002_007/02_002_007.jpeg"
+    "image": "/image/product/cctv/ptz_camera/02_002_007/02_002_007.jpeg"
   },
   "02_002_008": {
     "model": "DS-2DE5225W-AE3(T5)",
@@ -329,7 +329,7 @@
     "short_title": "2 MP 25X",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/ptz_camera/02_002_008/02_002_008.jpeg"
+    "image": "/image/product/cctv/ptz_camera/02_002_008/02_002_008.jpeg"
   },
   "02_002_009": {
     "model": "DS-2DE4215IW-DE(T5)",
@@ -348,7 +348,7 @@
     "short_title": "2 MP 15X",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/ptz_camera/02_002_009/02_002_009.jpeg"
+    "image": "/image/product/cctv/ptz_camera/02_002_009/02_002_009.jpeg"
   },
   "02_002_010": {
     "model": "DS-2DF3C400SCG-D(/4G)(/WL15 WL40)(F1)",
@@ -367,7 +367,7 @@
     "short_title": "3C Series 4MP",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/ptz_camera/02_002_010/02_002_010.jpeg"
+    "image": "/image/product/cctv/ptz_camera/02_002_010/02_002_010.jpeg"
   },
   "02_003_001": {
     "model": "DS-2CE12UF3T-E",
@@ -385,7 +385,7 @@
     "short_title": "4K ColorVu PoC",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/turbo_camera/02_003_001/02_003_001.jpeg"
+    "image": "/image/product/cctv/turbo_camera/02_003_001/02_003_001.jpeg"
   },
   "02_003_002": {
     "model": "DS-2CE72UF3T-E",
@@ -403,7 +403,7 @@
     "short_title": "4K ColorVu PoC",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/turbo_camera/02_003_002/02_003_002.jpeg"
+    "image": "/image/product/cctv/turbo_camera/02_003_002/02_003_002.jpeg"
   },
   "02_003_003": {
     "model": "DS-2CE59U7T-AVPIT3ZF",
@@ -421,7 +421,7 @@
     "short_title": "4K Ultra Low",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/turbo_camera/02_003_003/02_003_003.jpeg"
+    "image": "/image/product/cctv/turbo_camera/02_003_003/02_003_003.jpeg"
   },
   "02_003_004": {
     "model": "DS-2CE76U7T-ITMF",
@@ -439,7 +439,7 @@
     "short_title": "4K Ultra Low",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/turbo_camera/02_003_004/02_003_004.jpeg"
+    "image": "/image/product/cctv/turbo_camera/02_003_004/02_003_004.jpeg"
   },
   "02_003_005": {
     "model": "DS-2CE5AD3T-AVPIT3ZF",
@@ -458,7 +458,7 @@
     "short_title": "2 MP Ultra",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/turbo_camera/02_003_005/02_003_005.jpeg"
+    "image": "/image/product/cctv/turbo_camera/02_003_005/02_003_005.jpeg"
   },
   "02_003_006": {
     "model": "DS-2CE70D0T-PTLTS",
@@ -476,7 +476,7 @@
     "short_title": "2MP Two Way",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/turbo_camera/02_003_006/02_003_006.jpeg"
+    "image": "/image/product/cctv/turbo_camera/02_003_006/02_003_006.jpeg"
   },
   "02_003_007": {
     "model": "DS-2CC12D9T-A",
@@ -492,7 +492,7 @@
     "short_title": "2 MP Box",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/turbo_camera/02_003_007/02_003_007.jpeg"
+    "image": "/image/product/cctv/turbo_camera/02_003_007/02_003_007.jpeg"
   },
   "02_003_008": {
     "model": "DS-2CE16D9T-AIRAZH",
@@ -513,7 +513,7 @@
     "short_title": "2 MP Motorized",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/turbo_camera/02_003_008/02_003_008.jpeg"
+    "image": "/image/product/cctv/turbo_camera/02_003_008/02_003_008.jpeg"
   },
   "02_003_009": {
     "model": "DS-2CE12H0T-PIRLO",
@@ -528,7 +528,7 @@
     "short_title": "5 MP PIR",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/turbo_camera/02_003_009/02_003_009.jpeg"
+    "image": "/image/product/cctv/turbo_camera/02_003_009/02_003_009.jpeg"
   },
   "02_003_010": {
     "model": "DS-2CE12UF3T-PIRXO",
@@ -549,7 +549,7 @@
     "short_title": "4K ColorVu PIR",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/turbo_camera/02_003_010/02_003_010.jpeg"
+    "image": "/image/product/cctv/turbo_camera/02_003_010/02_003_010.jpeg"
   },
   "02_004_001": {
     "model": "iDS-7208HQHI-M1/FA",
@@ -567,7 +567,7 @@
     "short_title": "8-ch 1080p 1U",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/dvr/02_004_001/02_004_001.jpeg"
+    "image": "/image/product/cctv/dvr/02_004_001/02_004_001.jpeg"
   },
   "02_004_002": {
     "model": "iDS-7204HQHI-M1/XT",
@@ -586,7 +586,7 @@
     "short_title": "4-ch 1080p 1DVRU",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/dvr/02_004_002/02_004_002.jpeg"
+    "image": "/image/product/cctv/dvr/02_004_002/02_004_002.jpeg"
   },
   "02_004_003": {
     "model": "iDS-8116HQHI-M8/S",
@@ -604,7 +604,7 @@
     "short_title": "16-ch 1080P 2U",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/dvr/02_004_003/02_004_003.jpeg"
+    "image": "/image/product/cctv/dvr/02_004_003/02_004_003.jpeg"
   },
   "02_004_004": {
     "model": "iDS-9016HUHI-M8/S",
@@ -623,7 +623,7 @@
     "short_title": "16-ch 5MP 2U",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/dvr/02_004_004/02_004_004.jpeg"
+    "image": "/image/product/cctv/dvr/02_004_004/02_004_004.jpeg"
   },
   "02_004_005": {
     "model": "iDS-7104HUHI-M1/S",
@@ -641,7 +641,7 @@
     "short_title": "4-ch 5MP Mini",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/dvr/02_004_005/02_004_005.jpeg"
+    "image": "/image/product/cctv/dvr/02_004_005/02_004_005.jpeg"
   },
   "02_004_006": {
     "model": "iDS-7108HUHI-M1/S",
@@ -658,7 +658,7 @@
     "short_title": "8-ch 5MP Mini",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/dvr/02_004_006/02_004_006.jpeg"
+    "image": "/image/product/cctv/dvr/02_004_006/02_004_006.jpeg"
   },
   "02_004_007": {
     "model": "DS-8104AHGH(L)I-E4",
@@ -677,7 +677,7 @@
     "short_title": "4-ch 720P H.264",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/dvr/02_004_007/02_004_007.jpeg"
+    "image": "/image/product/cctv/dvr/02_004_007/02_004_007.jpeg"
   },
   "02_004_008": {
     "model": "DS-6701HFHI/V",
@@ -693,7 +693,7 @@
     "short_title": "1-ch 1080p H.264",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/dvr/02_004_008/02_004_008.jpeg"
+    "image": "/image/product/cctv/dvr/02_004_008/02_004_008.jpeg"
   },
   "02_004_009": {
     "model": "DS-1TP04I/AT",
@@ -706,7 +706,7 @@
     "short_title": "1U 4-ch POC",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/dvr/02_004_009/02_004_009.jpeg"
+    "image": "/image/product/cctv/dvr/02_004_009/02_004_009.jpeg"
   },
   "02_004_010": {
     "model": "DS-1TP08I/AT",
@@ -719,6 +719,6 @@
     "short_title": "1U 8-ch POC",
     "variation": [],
     "specification": [],
-    "image": "./image/product/cctv/dvr/02_004_010/02_004_010.jpeg"
+    "image": "/image/product/cctv/dvr/02_004_010/02_004_010.jpeg"
   }
 }

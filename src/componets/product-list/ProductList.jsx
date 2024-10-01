@@ -4,7 +4,7 @@ import Tab from 'react-bootstrap/Tab';
 import Tabs from 'react-bootstrap/Tabs';
 import "./ProductList.css";
 
-// Dynamically import JSON files
+// Json data path
 const loadJsonData = async (category_id) => {
   switch (category_id) {
     case 'light':
