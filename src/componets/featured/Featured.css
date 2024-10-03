@@ -66,3 +66,15 @@
         padding: 0 25px;
     }
 }
+
+
+.product_card {
+    opacity: 0; /* Initially hidden */
+    transform: translateX(100%); /* Start from the right */
+    transition: opacity 0.5s ease, transform 0.5s ease; /* Animation properties */
+  }
+  
+  .product_card.visible {
+    opacity: 1; /* Fade in */
+    transform: translateX(0); /* Move to original position */
+  }
