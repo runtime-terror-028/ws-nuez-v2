@@ -1,3 +1,9 @@
+:root {
+    --card_title_size: 16px;
+}
+
+
+
 .product_card_body {
     height: 50px !important;
   
@@ -38,7 +44,7 @@
     padding: 35px;
     max-height: 60vh;
     overflow-y: auto;
-
+    font-size: 14px !important;
 }
 
 @media (max-width: 750px) {
@@ -68,4 +74,9 @@
 
 .card_img.zoom-in {
     transform: scale(1.00); 
+}
+
+
+.card-title {
+    font-size: var(--card_title_size) !important;
 }

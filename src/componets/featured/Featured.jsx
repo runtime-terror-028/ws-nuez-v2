@@ -12,18 +12,14 @@ import Product_solar_data from '../../data/solar/product.json';
 import Category_data from '../../data/category.json';
 import Button from 'react-bootstrap/Button';
 import anime from 'animejs';
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useRef } from 'react';
 
-// card display rate (animation)
-const CARD_DISPLAY_RATE = 350;
-
-
+const CARD_ANIMATION_DURATION = 1500;
 const FEATURED_HEADING = "Our most selling products";
 
 function ProductCardList({ json_data }) {
   const cardRefs = useRef([]);
   const containerRef = useRef(null); // Reference for the Swiper container
-  const [hasAnimated, setHasAnimated] = useState(false); // State to track if animation has occurred
 
   useEffect(() => {
     // Setup the Intersection Observer
@@ -35,25 +31,17 @@ function ProductCardList({ json_data }) {
 
     const observer = new IntersectionObserver((entries) => {
       entries.forEach(entry => {
-        if (entry.isIntersecting && !hasAnimated) {
-          // Start the animation when the component is visible and hasn't animated yet
-          const timeline = anime.timeline({
-            easing: 'easeInOutQuad',
-            duration: 2000,
-          });
-
-          // Loop through the refs and create animations
+        if (entry.isIntersecting) {
+          // Start the animation when the component is visible
           cardRefs.current.forEach((ref, index) => {
-            timeline.add({
+            anime({
               targets: ref,
               translateX: [-100, 0],
               opacity: [0, 1],
-              duration: CARD_DISPLAY_RATE,
+              duration: CARD_ANIMATION_DURATION,
+              // delay: index * 300 // Stagger delay for each card
             });
           });
-
-          setHasAnimated(true); // Set the state to true to prevent reanimation
-          observer.disconnect(); // Stop observing after animation starts
         }
       });
     }, options);
@@ -67,7 +55,7 @@ function ProductCardList({ json_data }) {
         observer.unobserve(containerRef.current); // Cleanup the observer on unmount
       }
     };
-  }, [hasAnimated]); // Include hasAnimated in dependencies
+  }, []); // No dependencies, runs once on mount
 
   return (
     <div ref={containerRef}> {/* Wrap Swiper in a div to observe */}
