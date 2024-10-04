@@ -2,12 +2,18 @@ import { MdEmail } from "react-icons/md";
 import { MdLocalPhone } from "react-icons/md";
 import { MdLocationPin } from "react-icons/md";
 import './Contact.css';
-
+import AOS from 'aos'
+import 'aos/dist/aos.css'
+import { useEffect } from "react";
 const Contact = () => {
+  useEffect(() => {
+    AOS.init({duration:1000})
+  },[])
   return (
     <>
 
-      <div className="contactus">
+      <div className="contactus" data-aos="zoom-in">
+        
         <div className="contact_container_1">
           <div className="contact_header">Contact Us </div>
           <div className="contact_text_1">We appreciate your questions, comments, and feedback. Please don't hesitate to get in touch with us through any of the contact methods below.</div>
