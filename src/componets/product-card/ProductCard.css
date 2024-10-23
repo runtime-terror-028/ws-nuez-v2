@@ -80,3 +80,7 @@
 .card-title {
     font-size: var(--card_title_size) !important;
 }
+
+.product-card-hover:hover {
+    cursor: pointer;
+}

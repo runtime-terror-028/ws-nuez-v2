@@ -17,8 +17,8 @@ function NavBar() {
   useEffect(() => {
     if (location.pathname === '/' && scrollTarget) {
       scroll.scrollTo(document.getElementById(scrollTarget).offsetTop - 50, {
-        duration: 10,       // Adjust the duration of the scroll
-        smooth: 'linear',    // Use linear easing for equal-speed scroll
+        duration: 500,       // Adjust the duration of the scroll
+        smooth: 'easeInOutQuint', // Smoother easing for a better experience
       });
       setScrollTarget(null); // Reset after scroll
     }
@@ -31,8 +31,8 @@ function NavBar() {
       navigate('/');            // Redirect to home
     } else {
       scroll.scrollTo(document.getElementById(target).offsetTop - 50, {
-        duration: 10,       // Adjust the duration of the scroll
-        smooth: 'linear',    // Use linear easing for equal-speed scroll
+        duration: 500,       // Adjust the duration of the scroll
+        smooth: 'easeInOutQuint', // Smoother easing
       }); // If on home, scroll immediately
     }
     setIsNavCollapsed(true); // Close the Navbar after clicking
@@ -44,8 +44,8 @@ function NavBar() {
       navigate('/');            // Redirect to home if not already on home
     } else {
       scroll.scrollToTop({       // Scroll to top if on the home page
-        duration: 10,
-        smooth: 'linear',        // Use linear easing for equal-speed scroll
+        duration: 500,
+        smooth: 'easeInOutQuint', // Smoother easing
       });
     }
     setIsNavCollapsed(true);     // Close the Navbar after clicking
@@ -77,22 +77,22 @@ function NavBar() {
                 className="nav_buttons"
               >
                 {/* Collapses the dropdown and navbar when an item is clicked */}
-                <NavDropdown.Item as={Link} to="/light" onClick={() => setIsNavCollapsed(true)}>
+                <NavDropdown.Item onClick={() => {setIsNavCollapsed(true); navigate("/light")}}>
                   Light
                 </NavDropdown.Item>
-                <NavDropdown.Item as={Link} to="/cctv" onClick={() => setIsNavCollapsed(true)}>
+                <NavDropdown.Item onClick={() => {setIsNavCollapsed(true); navigate("/cctv")}}>
                   CCTV
                 </NavDropdown.Item>
-                <NavDropdown.Item as={Link} to="/automation" onClick={() => setIsNavCollapsed(true)}>
+                <NavDropdown.Item onClick={() => {setIsNavCollapsed(true); navigate("/automation")}}>
                   Home Automation
                 </NavDropdown.Item>
-                <NavDropdown.Item as={Link} to="/solar" onClick={() => setIsNavCollapsed(true)}>
+                <NavDropdown.Item onClick={() => {setIsNavCollapsed(true); navigate("/solar")}}>
                   Solar Solutions
                 </NavDropdown.Item>
-                <NavDropdown.Item as={Link} to="/bms" onClick={() => setIsNavCollapsed(true)}>
+                <NavDropdown.Item onClick={() => {setIsNavCollapsed(true); navigate("/bms")} }>
                   BMS
                 </NavDropdown.Item>
-                <NavDropdown.Item as={Link} to="/smart-bench" onClick={() => setIsNavCollapsed(true)}>
+                <NavDropdown.Item onClick={() => {setIsNavCollapsed(true); navigate("/smart-bench")}}>
                   Smart Bench
                 </NavDropdown.Item>
               </NavDropdown>
