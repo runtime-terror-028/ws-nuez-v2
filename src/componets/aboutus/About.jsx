@@ -19,10 +19,10 @@ const About = () => {
             </div>
             <div className="about_text_container" data-aos="fade-left">
               <ul className="aboutus_ul">
-                <li>NUEZ Technologies delivers innovative solutions for smart living, blending comfort, convenience, and security.</li>
-                <li>From Solar LED Streetlights to Home Theater systems, NUEZ Technologies enhances your lifestyle with cutting-edge technology.</li>
-                <li>Experience the future of home automation and safety with NUEZ Technologies’ comprehensive smart solutions.</li>
-                <li>NUEZ Technologies: Your go-to provider for seamless integration of smart systems and enhanced home experiences.</li>
+                <li>Nuez Technologies delivers innovative solutions for smart living, blending comfort, convenience, and security.</li>
+                <li>From Solar LED Streetlights to Home Theater systems, Nuez Technologies enhances your lifestyle with cutting-edge technology.</li>
+                <li>Experience the future of home automation and safety with Nuez Technologies’ comprehensive smart solutions.</li>
+                <li>Nuez Technologies: Your go-to provider for seamless integration of smart systems and enhanced home experiences.</li>
               </ul>
 
             </div>
@@ -34,9 +34,9 @@ const About = () => {
             </div>
             <div className="about_text_container" data-aos="fade-right">
               <ul className="aboutus_ul">
-                <li>At NUEZ Technologies, we tailor solutions to fit your needs, not the other way around.</li>
+                <li>At Nuez Technologies, we tailor solutions to fit your needs, not the other way around.</li>
                 <li>We partner with top automation companies to deliver the best features, prices, and solutions for your unique requirements.</li>
-                <li>NUEZ Technologies customizes smart solutions to match your reality, ensuring optimal functionality and value.</li>
+                <li>Nuez Technologies customizes smart solutions to match your reality, ensuring optimal functionality and value.</li>
                 <li>Our approach focuses on finding the perfect fit for your needs by collaborating with leading automation experts.</li>
               </ul>
             </div>
@@ -49,10 +49,10 @@ const About = () => {
             <div className="about_text_container" data-aos="fade-left">
 
               <ul className="aboutus_ul">
-                <li> NUEZ Technologies provides a complete automation journey: from consulting and planning to installation and after-sales service.</li>
-                <li>Discover the future of home automation with NUEZ Technologies—your one-stop shop for seamless system design and support</li>
-                <li>Step into a smarter home with NUEZ Technologies, where end-to-end automation solutions and exceptional service meet.</li>
-                <li>Join thousands of satisfied customers and experience unparalleled convenience and innovation with NUEZ Technologies’ comprehensive automation solutions.</li>
+                <li> Nuez Technologies provides a complete automation journey: from consulting and planning to installation and after-sales service.</li>
+                <li>Discover the future of home automation with Nuez Technologies—your one-stop shop for seamless system design and support</li>
+                <li>Step into a smarter home with Nuez Technologies, where end-to-end automation solutions and exceptional service meet.</li>
+                <li>Join thousands of satisfied customers and experience unparalleled convenience and innovation with Nuez Technologies’ comprehensive automation solutions.</li>
               </ul>
             </div>
 
