@@ -437,15 +437,21 @@
     "footer": "View all products",
     "short_description": "",
     "product_list": [
-      "01_006_001"
+      "01_006_001",
+      "01_006_002",
+      "01_006_003",
+      "01_006_004",
+      "01_006_005",
+      "01_006_006",
+      "01_006_007"
      
     ]
   },
 
   
   "01_007": {
-    "title": "Utility Lights",
-    "header": "Utility Lights",
+    "title": "More",
+    "header": "More",
     "footer": "View all products",
     "short_description": "",
     "product_list": [

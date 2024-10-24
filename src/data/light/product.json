@@ -135,7 +135,6 @@
     ],
     "image": "/image/product/light/hanging_lamps/01_001_008/01_001_008_1.jpeg"
   },
- 
   "01_001_009": {
     "model": "K11",
     "short_description": "",
@@ -1031,7 +1030,8 @@
       "FINISH: BRASS GOLD",
       "MATERIAL: METAL + GLASS",
       "PRICE: 8400"
-    ], "image": "/image/product/light/ceiling_lamps/01_002_011/01_002_011_1.jpeg"
+    ],
+    "image": "/image/product/light/ceiling_lamps/01_002_011/01_002_011_1.jpeg"
   },
   "01_002_012": {
     "model": "C6055-S",
@@ -1047,7 +1047,8 @@
       "FINISH: BRASS GOLD",
       "MATERIAL: METAL + GLASS",
       "PRICE: 7600"
-    ], "image": "/image/product/light/ceiling_lamps/01_002_012/01_002_012_1.jpeg"
+    ],
+    "image": "/image/product/light/ceiling_lamps/01_002_012/01_002_012_1.jpeg"
   },
   "01_003_001": {
     "model": "2042-2W",
@@ -1218,7 +1219,6 @@
     ],
     "image": "/image/product/light/wall_lamps/01_003_010/01_003_010_1.jpeg"
   },
-  
   "01_003_011": {
     "model": "882-S,B-1",
     "short_description": "",
@@ -2917,1072 +2917,1075 @@
     ],
     "image": "/image/product/light/floor_&_table_lamps/01_004_010/01_004_010_1.jpeg"
   },
-  
-    "01_004_011": {
-      "model": "6626T",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 6626T",
-      "short_title": "6626T",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 6626T",
-        "LAMP: 1XE27",
-        "SIZE: D400MM X H700MM",
-        "FINISH: ANTIQUE BRASS",
-        "MATERIAL: METAL + MARBLE + FABRIC SHADE",
-        "PRICE: 8600"
-      ],
+  "01_004_011": {
+    "model": "6626T",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 6626T",
+    "short_title": "6626T",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 6626T",
+      "LAMP: 1XE27",
+      "SIZE: D400MM X H700MM",
+      "FINISH: ANTIQUE BRASS",
+      "MATERIAL: METAL + MARBLE + FABRIC SHADE",
+      "PRICE: 8600"
+    ],
     "image": "/image/product/light/floor_&_table_lamps/01_004_011/01_004_011_1.jpeg"
-    },
-    "01_004_012": {
-      "model": "LM217-F",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS LM217-F",
-      "short_title": "LM217-F",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: LM217-F",
-        "LAMP: 1XE27",
-        "SIZE: W580MM X H1660MM",
-        "FINISH: BLACK + GOLD",
-        "MATERIAL: METAL + FABRIC SHADE",
-        "PRICE: 13000"
-      ],
+  },
+  "01_004_012": {
+    "model": "LM217-F",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS LM217-F",
+    "short_title": "LM217-F",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: LM217-F",
+      "LAMP: 1XE27",
+      "SIZE: W580MM X H1660MM",
+      "FINISH: BLACK + GOLD",
+      "MATERIAL: METAL + FABRIC SHADE",
+      "PRICE: 13000"
+    ],
     "image": "/image/product/light/floor_&_table_lamps/01_004_012/01_004_012_1.jpeg"
-    },
-    "01_004_013": {
-      "model": "3250-F",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 3250-F",
-      "short_title": "3250-F",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 3250-F",
-        "LAMP: 1XE27",
-        "SIZE: W600MM X H1500MM",
-        "FINISH: ANTIQUE BRASS + BLACK",
-        "MATERIAL: METAL + FABRIC SHADE",
-        "PRICE: 9800"
-      ],
+  },
+  "01_004_013": {
+    "model": "3250-F",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 3250-F",
+    "short_title": "3250-F",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 3250-F",
+      "LAMP: 1XE27",
+      "SIZE: W600MM X H1500MM",
+      "FINISH: ANTIQUE BRASS + BLACK",
+      "MATERIAL: METAL + FABRIC SHADE",
+      "PRICE: 9800"
+    ],
     "image": "/image/product/light/floor_&_table_lamps/01_004_013/01_004_013_1.jpeg"
-    },
-    "01_004_014": {
-      "model": "LM216-T",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS LM216-T",
-      "short_title": "LM216-T",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: LM216-T",
-        "LAMP: 1XE27",
-        "SIZE: D390MM X H690MM",
-        "FINISH: BLACK + GOLD + COPPER",
-        "MATERIAL: METAL + FABRIC SHADE",
-        "PRICE: 8800"
-      ],
+  },
+  "01_004_014": {
+    "model": "LM216-T",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS LM216-T",
+    "short_title": "LM216-T",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: LM216-T",
+      "LAMP: 1XE27",
+      "SIZE: D390MM X H690MM",
+      "FINISH: BLACK + GOLD + COPPER",
+      "MATERIAL: METAL + FABRIC SHADE",
+      "PRICE: 8800"
+    ],
     "image": "/image/product/light/floor_&_table_lamps/01_004_014/01_004_014_1.jpeg"
-    },
-    "01_004_015": {
-      "model": "3260-F COP",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 3260-F COP",
-      "short_title": "3260-F COP",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 3260-F COP",
-        "LAMP: 1XE27",
-        "SIZE: W600MM X H1500MM",
-        "FINISH: COPPER",
-        "MATERIAL: METAL + FABRIC SHADE",
-        "PRICE: 9000"
-      ],
+  },
+  "01_004_015": {
+    "model": "3260-F COP",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 3260-F COP",
+    "short_title": "3260-F COP",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 3260-F COP",
+      "LAMP: 1XE27",
+      "SIZE: W600MM X H1500MM",
+      "FINISH: COPPER",
+      "MATERIAL: METAL + FABRIC SHADE",
+      "PRICE: 9000"
+    ],
     "image": "/image/product/light/floor_&_table_lamps/01_004_015/01_004_015_1.jpeg"
-    },
-    "01_004_016": {
-      "model": "3260-F GD",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 3260-F GD",
-      "short_title": "3260-F GD",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 3260-F GD",
-        "LAMP: 1XE27",
-        "SIZE: W600MM X H1500MM",
-        "FINISH: GOLD",
-        "MATERIAL: METAL + FABRIC SHADE",
-        "PRICE: 9000"
-      ],
+  },
+  "01_004_016": {
+    "model": "3260-F GD",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 3260-F GD",
+    "short_title": "3260-F GD",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 3260-F GD",
+      "LAMP: 1XE27",
+      "SIZE: W600MM X H1500MM",
+      "FINISH: GOLD",
+      "MATERIAL: METAL + FABRIC SHADE",
+      "PRICE: 9000"
+    ],
     "image": "/image/product/light/floor_&_table_lamps/01_004_016/01_004_016_1.jpeg"
-    },
-    "01_004_017": {
-      "model": "8003-DW",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 8003-DW",
-      "short_title": "8003-DW",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 8003-DW",
-        "LAMP: 1XE27",
-        "SIZE: D450MM X H1350MM",
-        "FINISH: BROWN",
-        "MATERIAL: METAL + WOOD + FABRIC SHADE",
-        "PRICE: 7600"
-      ],
+  },
+  "01_004_017": {
+    "model": "8003-DW",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 8003-DW",
+    "short_title": "8003-DW",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 8003-DW",
+      "LAMP: 1XE27",
+      "SIZE: D450MM X H1350MM",
+      "FINISH: BROWN",
+      "MATERIAL: METAL + WOOD + FABRIC SHADE",
+      "PRICE: 7600"
+    ],
     "image": "/image/product/light/floor_&_table_lamps/01_004_017/01_004_017_1.jpeg"
-    },
-    "01_004_018": {
-      "model": "8003-LW",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 8003-LW",
-      "short_title": "8003-LW",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 8003-LW",
-        "LAMP: 1XE27",
-        "SIZE: D450MM X H1350MM",
-        "FINISH: LIGHT WOOD",
-        "MATERIAL: METAL + WOOD + FABRIC SHADE",
-        "PRICE: 7600"
-      ],
+  },
+  "01_004_018": {
+    "model": "8003-LW",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 8003-LW",
+    "short_title": "8003-LW",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 8003-LW",
+      "LAMP: 1XE27",
+      "SIZE: D450MM X H1350MM",
+      "FINISH: LIGHT WOOD",
+      "MATERIAL: METAL + WOOD + FABRIC SHADE",
+      "PRICE: 7600"
+    ],
     "image": "/image/product/light/floor_&_table_lamps/01_004_018/01_004_018_1.jpeg"
-    },
-    "01_004_019": {
-      "model": "CP033",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS CP033",
-      "short_title": "CP033",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: CP033",
-        "LAMP: 1XE27",
-        "SIZE: D450MM X H1500MM",
-        "FINISH: BROWN",
-        "MATERIAL: WOOD + FABRIC",
-        "PRICE: 13000"
-      ],
+  },
+  "01_004_019": {
+    "model": "CP033",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS CP033",
+    "short_title": "CP033",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: CP033",
+      "LAMP: 1XE27",
+      "SIZE: D450MM X H1500MM",
+      "FINISH: BROWN",
+      "MATERIAL: WOOD + FABRIC",
+      "PRICE: 13000"
+    ],
     "image": "/image/product/light/floor_&_table_lamps/01_004_019/01_004_019_1.jpeg"
-    },
-    "01_004_020": {
-      "model": "CP031",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS CP031",
-      "short_title": "CP031",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: CP031",
-        "LAMP: 1XE27",
-        "SIZE: D450MM X H1500MM",
-        "FINISH: BROWN",
-        "MATERIAL: WOOD + FABRIC",
-        "PRICE: 13000"
-      ],
+  },
+  "01_004_020": {
+    "model": "CP031",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS CP031",
+    "short_title": "CP031",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: CP031",
+      "LAMP: 1XE27",
+      "SIZE: D450MM X H1500MM",
+      "FINISH: BROWN",
+      "MATERIAL: WOOD + FABRIC",
+      "PRICE: 13000"
+    ],
     "image": "/image/product/light/floor_&_table_lamps/01_004_020/01_004_020_1.jpeg"
-    },
-    "01_004_021": {
-      "model": "3502-AB",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 3502-AB",
-      "short_title": "3502-AB",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 3502-AB",
-        "LAMP: 1XE27",
-        "SIZE: D600MM X H1500MM",
-        "FINISH: MATT GOLD + BROWN",
-        "MATERIAL: METAL + WOOD",
-        "PRICE: 9800"
-      ],
+  },
+  "01_004_021": {
+    "model": "3502-AB",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 3502-AB",
+    "short_title": "3502-AB",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 3502-AB",
+      "LAMP: 1XE27",
+      "SIZE: D600MM X H1500MM",
+      "FINISH: MATT GOLD + BROWN",
+      "MATERIAL: METAL + WOOD",
+      "PRICE: 9800"
+    ],
     "image": "/image/product/light/floor_&_table_lamps/01_004_021/01_004_021_1.jpeg"
-    },
-    "01_004_022": {
-      "model": "3503",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 3503",
-      "short_title": "3503",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 3503",
-        "LAMP: 1XE27",
-        "SIZE: D600MM X H1500MM",
-        "FINISH: CHROME + LIGHT WOOD",
-        "MATERIAL: METAL + WOOD + FABRIC",
-        "PRICE: 8000"
-      ],
+  },
+  "01_004_022": {
+    "model": "3503",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 3503",
+    "short_title": "3503",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 3503",
+      "LAMP: 1XE27",
+      "SIZE: D600MM X H1500MM",
+      "FINISH: CHROME + LIGHT WOOD",
+      "MATERIAL: METAL + WOOD + FABRIC",
+      "PRICE: 8000"
+    ],
     "image": "/image/product/light/floor_&_table_lamps/01_004_022/01_004_022_1.jpeg"
-    },
-    "01_004_023": {
-      "model": "3150-1F",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 3150-1F",
-      "short_title": "3150-1F",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 3150-1F",
-        "LAMP: 1XE27",
-        "SIZE: D450MM X H1500MM",
-        "FINISH: SN",
-        "MATERIAL: METAL + FABRIC SHADE",
-        "PRICE: 4600"
-      ],
+  },
+  "01_004_023": {
+    "model": "3150-1F",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 3150-1F",
+    "short_title": "3150-1F",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 3150-1F",
+      "LAMP: 1XE27",
+      "SIZE: D450MM X H1500MM",
+      "FINISH: SN",
+      "MATERIAL: METAL + FABRIC SHADE",
+      "PRICE: 4600"
+    ],
     "image": "/image/product/light/floor_&_table_lamps/01_004_023/01_004_023_1.jpeg"
-    },
-    "01_004_024": {
-      "model": "3160-1T",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 3160-1T",
-      "short_title": "3160-1T",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 3160-1T",
-        "LAMP: 1XE27",
-        "SIZE: D230MM X H420MM",
-        "FINISH: SN",
-        "MATERIAL: METAL + FABRIC SHADE",
-        "PRICE: 3200"
-      ],
+  },
+  "01_004_024": {
+    "model": "3160-1T",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 3160-1T",
+    "short_title": "3160-1T",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 3160-1T",
+      "LAMP: 1XE27",
+      "SIZE: D230MM X H420MM",
+      "FINISH: SN",
+      "MATERIAL: METAL + FABRIC SHADE",
+      "PRICE: 3200"
+    ],
     "image": "/image/product/light/floor_&_table_lamps/01_004_024/01_004_024_1.jpeg"
-    },
-    "01_004_025": {
-      "model": "9818-TL",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 9818-TL",
-      "short_title": "9818-TL",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 9818-TL",
-        "LAMP: 2XE27",
-        "SIZE: D300MM X H470MM",
-        "FINISH: ANTIQUE BRASS + WHITE",
-        "MATERIAL: METAL",
-        "PRICE: 9000"
-      ],
+  },
+  "01_004_025": {
+    "model": "9818-TL",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 9818-TL",
+    "short_title": "9818-TL",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 9818-TL",
+      "LAMP: 2XE27",
+      "SIZE: D300MM X H470MM",
+      "FINISH: ANTIQUE BRASS + WHITE",
+      "MATERIAL: METAL",
+      "PRICE: 9000"
+    ],
     "image": "/image/product/light/floor_&_table_lamps/01_004_025/01_004_025_1.jpeg"
-    },
-    "01_004_026": {
-      "model": "FL 01",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS FL 01",
-      "short_title": "FL 01",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: FL 01",
-        "LAMP: LED",
-        "SIZE: D350MM X H630MM",
-        "FINISH: ANTIQUE BRASS",
-        "MATERIAL: METAL + GLASS + WOOD",
-        "PRICE: 29000"
-      ],
+  },
+  "01_004_026": {
+    "model": "FL 01",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS FL 01",
+    "short_title": "FL 01",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: FL 01",
+      "LAMP: LED",
+      "SIZE: D350MM X H630MM",
+      "FINISH: ANTIQUE BRASS",
+      "MATERIAL: METAL + GLASS + WOOD",
+      "PRICE: 29000"
+    ],
     "image": "/image/product/light/floor_&_table_lamps/01_004_026/01_004_026_1.jpeg"
-    },
-    "01_004_027": {
-      "model": "FL 2202",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS FL 2202",
-      "short_title": "FL 2202",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: FL 2202",
-        "LAMP: LED",
-        "SIZE: D360MM X L600MM",
-        "FINISH: GREY + BLACK",
-        "MATERIAL: METAL + WOOD + ACRYLIC",
-        "PRICE: 19600"
-      ],
+  },
+  "01_004_027": {
+    "model": "FL 2202",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS FL 2202",
+    "short_title": "FL 2202",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: FL 2202",
+      "LAMP: LED",
+      "SIZE: D360MM X L600MM",
+      "FINISH: GREY + BLACK",
+      "MATERIAL: METAL + WOOD + ACRYLIC",
+      "PRICE: 19600"
+    ],
     "image": "/image/product/light/floor_&_table_lamps/01_004_027/01_004_027_1.jpeg"
-    },
-    "01_004_028": {
-      "model": "088-F",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 088-F",
-      "short_title": "088-F",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 088-F",
-        "LAMP: 1XE27",
-        "SIZE: D340MM X H1640MM",
-        "FINISH: ANTIQUE BRASS",
-        "MATERIAL: METAL + GLASS",
-        "PRICE: 16000"
-      ],
+  },
+  "01_004_028": {
+    "model": "088-F",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 088-F",
+    "short_title": "088-F",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 088-F",
+      "LAMP: 1XE27",
+      "SIZE: D340MM X H1640MM",
+      "FINISH: ANTIQUE BRASS",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 16000"
+    ],
     "image": "/image/product/light/floor_&_table_lamps/01_004_028/01_004_028_1.jpeg"
-    },
-    "01_004_029": {
-      "model": "GEF 151",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS GEF 151",
-      "short_title": "GEF 151",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: GEF 151",
-        "LAMP: 1XE27",
-        "SIZE: W400MM X H1600MM",
-        "FINISH: ANTIQUE BRASS",
-        "MATERIAL: METAL + GLASS",
-        "PRICE: 17000"
-      ],
+  },
+  "01_004_029": {
+    "model": "GEF 151",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS GEF 151",
+    "short_title": "GEF 151",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: GEF 151",
+      "LAMP: 1XE27",
+      "SIZE: W400MM X H1600MM",
+      "FINISH: ANTIQUE BRASS",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 17000"
+    ],
     "image": "/image/product/light/floor_&_table_lamps/01_004_029/01_004_029_1.jpeg"
-    },
-    "01_004_030": {
-      "model": "5200-6FL",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 5200-6FL",
-      "short_title": "5200-6FL",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 5200-6FL",
-        "LAMP: 6XG4",
-        "SIZE: W280MM X H1600MM",
-        "FINISH: ANTIQUE BRASS + BLACK",
-        "MATERIAL: METAL + GLASS",
-        "PRICE: 15000"
-      ],
+  },
+  "01_004_030": {
+    "model": "5200-6FL",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 5200-6FL",
+    "short_title": "5200-6FL",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 5200-6FL",
+      "LAMP: 6XG4",
+      "SIZE: W280MM X H1600MM",
+      "FINISH: ANTIQUE BRASS + BLACK",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 15000"
+    ],
     "image": "/image/product/light/floor_&_table_lamps/01_004_030/01_004_030_1.jpeg"
-    },
-    "01_004_031": {
-      "model": "5201-2F",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 5201-2F",
-      "short_title": "5201-2F",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 5201-2F",
-        "LAMP: 2XE27",
-        "SIZE: W400MM X H1400MM",
-        "FINISH: ANTIQUE BRASS",
-        "MATERIAL: METAL + GLASS",
-        "PRICE: 15000"
-      ],
-  "image": "/image/product/light/floor_&_table_lamps/01_004_031/01_004_031_1.jpeg"
-    },
-    "01_004_032": {
-      "model": "6501-F",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 6501-F",
-      "short_title": "6501-F",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 6501-F",
-        "LAMP: LED",
-        "SIZE: D200MM X H1250MM",
-        "FINISH: BLACK",
-        "MATERIAL: METAL + ACRYLIC",
-        "PRICE: 12000"
-      ],
+  },
+  "01_004_031": {
+    "model": "5201-2F",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 5201-2F",
+    "short_title": "5201-2F",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 5201-2F",
+      "LAMP: 2XE27",
+      "SIZE: W400MM X H1400MM",
+      "FINISH: ANTIQUE BRASS",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 15000"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_031/01_004_031_1.jpeg"
+  },
+  "01_004_032": {
+    "model": "6501-F",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 6501-F",
+    "short_title": "6501-F",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 6501-F",
+      "LAMP: LED",
+      "SIZE: D200MM X H1250MM",
+      "FINISH: BLACK",
+      "MATERIAL: METAL + ACRYLIC",
+      "PRICE: 12000"
+    ],
     "image": "/image/product/light/floor_&_table_lamps/01_004_032/01_004_032_1.jpeg"
-    },
-    "01_004_033": {
-      "model": "6502-T",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 6502-T",
-      "short_title": "6502-T",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 6502-T",
-        "LAMP: LED",
-        "SIZE: D150MM X H480MM",
-        "FINISH: BLACK",
-        "MATERIAL: METAL + ACRYLIC",
-        "PRICE: 7000"
-      ],
-  "image": "/image/product/light/floor_&_table_lamps/01_004_033/01_004_033_1.jpeg"
-    },
-    "01_004_034": {
-      "model": "800-3F, 1F",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 800-3F, 1F",
-      "short_title": "800-3F, 1F",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 800-3F, 1F",
-        "LAMP: 1XE27",
-        "SIZE: (3F) L2100MM, H1600MM X (1F) H2450MM, H1850MM",
-        "FINISH: SN",
-        "MATERIAL: METAL + MARBLE",
-        "PRICE: 3F-11600,1F-16000"
-      ],
-   "image": "/image/product/light/floor_&_table_lamps/01_004_034/01_004_034_1.jpeg"
-    },
-    "01_004_035": {
-      "model": "2008-FL",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 2008-FL",
-      "short_title": "2008-FL",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 2008-FL",
-        "LAMP: 1XE27",
-        "SIZE: L2100MM X H1800MM",
-        "FINISH: ANTIQUE BRASS + WHITE",
-        "MATERIAL: METAL + MARBLE",
-        "PRICE: 19000"
-      ],
-  "image": "/image/product/light/floor_&_table_lamps/01_004_035/01_004_035_1.jpeg"
-    },
-    "01_004_036": {
-      "model": "2097-F",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 2097-F",
-      "short_title": "2097-F",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 2097-F",
-        "LAMP: 1XE27",
-        "SIZE: L1600MM X H2000MM X W400MM",
-        "FINISH: BLACK",
-        "MATERIAL: METAL + FABRIC SHADE",
-        "PRICE: 17000"
-      ],
-      "image": "/image/product/light/floor_&_table_lamps/01_004_036/01_004_036_1.jpeg"    },
-    "01_004_037": {
-      "model": "5203-T",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 5203-T",
-      "short_title": "5203-T",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 5203-T",
-        "LAMP: 1XE27",
-        "SIZE: L270MM X H650MM X W180MM",
-        "FINISH: ANTIQUE BRASS",
-        "MATERIAL: METAL + MARBLE"
-      ],
-      "image": "/image/product/light/floor_&_table_lamps/01_004_037/01_004_037_1.jpeg"    },
-    "01_004_038": {
-      "model": "063-F",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 063-F",
-      "short_title": "063-F",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 063-F",
-        "LAMP: 1XE27",
-        "SIZE: L275MM X H1575MM X W250MM",
-        "FINISH: ANTIQUE BRASS",
-        "MATERIAL: METAL + MARBLE"
-      ],
-      "image": "/image/product/light/floor_&_table_lamps/01_004_038/01_004_038_1.jpeg"    },
-    "01_004_039": {
-      "model": "8516-T",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 8516-T",
-      "short_title": "8516-T",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 8516-T",
-        "LAMP: 1XE27",
-        "SIZE: L425MM X H475MM",
-        "FINISH: ANTIQUE BRASS + DARK WOOD",
-        "MATERIAL: METAL + ACRYLIC",
-        "PRICE: 7200"
-      ],
-      "image": "/image/product/light/floor_&_table_lamps/01_004_039/01_004_039_1.jpeg"    },
-    "01_004_040": {
-      "model": "8517-F",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 8517-F",
-      "short_title": "8517-F",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 8517-F",
-        "LAMP: LED",
-        "SIZE: W150MM X H1420MM X L460MM",
-        "FINISH: ANTIQUE BRASS + DARK WOOD",
-        "MATERIAL: METAL + ACRYLIC",
-        "PRICE: 13000"
-      ],
+  },
+  "01_004_033": {
+    "model": "6502-T",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 6502-T",
+    "short_title": "6502-T",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 6502-T",
+      "LAMP: LED",
+      "SIZE: D150MM X H480MM",
+      "FINISH: BLACK",
+      "MATERIAL: METAL + ACRYLIC",
+      "PRICE: 7000"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_033/01_004_033_1.jpeg"
+  },
+  "01_004_034": {
+    "model": "800-3F, 1F",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 800-3F, 1F",
+    "short_title": "800-3F, 1F",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 800-3F, 1F",
+      "LAMP: 1XE27",
+      "SIZE: (3F) L2100MM, H1600MM X (1F) H2450MM, H1850MM",
+      "FINISH: SN",
+      "MATERIAL: METAL + MARBLE",
+      "PRICE: 3F-11600,1F-16000"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_034/01_004_034_1.jpeg"
+  },
+  "01_004_035": {
+    "model": "2008-FL",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 2008-FL",
+    "short_title": "2008-FL",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 2008-FL",
+      "LAMP: 1XE27",
+      "SIZE: L2100MM X H1800MM",
+      "FINISH: ANTIQUE BRASS + WHITE",
+      "MATERIAL: METAL + MARBLE",
+      "PRICE: 19000"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_035/01_004_035_1.jpeg"
+  },
+  "01_004_036": {
+    "model": "2097-F",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 2097-F",
+    "short_title": "2097-F",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 2097-F",
+      "LAMP: 1XE27",
+      "SIZE: L1600MM X H2000MM X W400MM",
+      "FINISH: BLACK",
+      "MATERIAL: METAL + FABRIC SHADE",
+      "PRICE: 17000"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_036/01_004_036_1.jpeg"
+  },
+  "01_004_037": {
+    "model": "5203-T",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 5203-T",
+    "short_title": "5203-T",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 5203-T",
+      "LAMP: 1XE27",
+      "SIZE: L270MM X H650MM X W180MM",
+      "FINISH: ANTIQUE BRASS",
+      "MATERIAL: METAL + MARBLE"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_037/01_004_037_1.jpeg"
+  },
+  "01_004_038": {
+    "model": "063-F",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 063-F",
+    "short_title": "063-F",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 063-F",
+      "LAMP: 1XE27",
+      "SIZE: L275MM X H1575MM X W250MM",
+      "FINISH: ANTIQUE BRASS",
+      "MATERIAL: METAL + MARBLE"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_038/01_004_038_1.jpeg"
+  },
+  "01_004_039": {
+    "model": "8516-T",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 8516-T",
+    "short_title": "8516-T",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 8516-T",
+      "LAMP: 1XE27",
+      "SIZE: L425MM X H475MM",
+      "FINISH: ANTIQUE BRASS + DARK WOOD",
+      "MATERIAL: METAL + ACRYLIC",
+      "PRICE: 7200"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_039/01_004_039_1.jpeg"
+  },
+  "01_004_040": {
+    "model": "8517-F",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 8517-F",
+    "short_title": "8517-F",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 8517-F",
+      "LAMP: LED",
+      "SIZE: W150MM X H1420MM X L460MM",
+      "FINISH: ANTIQUE BRASS + DARK WOOD",
+      "MATERIAL: METAL + ACRYLIC",
+      "PRICE: 13000"
+    ],
     "image": "/image/product/light/floor_&_table_lamps/01_004_040/01_004_040_1.jpeg"
-    },
-    "01_004_041": {
-      "model": "8595-BK-AB",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 8595-BK-AB",
-      "short_title": "8595-BK-AB",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 8595-BK-AB",
-        "LAMP: 1XE27",
-        "SIZE: W150MM X H520MM X L300MM",
-        "FINISH: ANTIQUE BRASS + BLACK + WHITE",
-        "MATERIAL: METAL",
-        "PRICE: 5900"
-      ],
-      "image": "/image/product/light/floor_&_table_lamps/01_004_041/01_004_041_1.jpeg"
-    },
-    "01_004_042": {
-      "model": "8596-AB-BK",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 8596-AB-BK",
-      "short_title": "8596-AB-BK",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 8596-AB-BK",
-        "LAMP: 1XE27",
-        "SIZE: W150MM X H570MM X L270MM",
-        "FINISH: ANTIQUE BRASS + BLACK + WHITE",
-        "MATERIAL: METAL",
-        "PRICE: 5900"
-      ],
-      "image": "/image/product/light/floor_&_table_lamps/01_004_042/01_004_042_1.jpeg"
-    },
-    "01_004_043": {
-      "model": "8595-AB-BK",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 8595-AB-BK",
-      "short_title": "8595-AB-BK",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 8595-AB-BK",
-        "LAMP: 1XE27",
-        "SIZE: W150MM X H520MM X L300MM",
-        "FINISH: ANTIQUE BRASS + BLACK + WHITE",
-        "MATERIAL: METAL",
-        "PRICE: 5900"
-      ],
-      "image": "/image/product/light/floor_&_table_lamps/01_004_043/01_004_043_1.jpeg"
-    },
-    "01_004_044": {
-      "model": "8596-CONE",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 8596-CONE",
-      "short_title": "8596-CONE",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 8596-CONE",
-        "LAMP: 1XE27",
-        "SIZE: W160MM X H570MM X L300MM",
-        "FINISH: ANTIQUE BRASS + BLACK + WHITE",
-        "MATERIAL: METAL",
-        "PRICE: 5900"
-      ],
-      "image": "/image/product/light/floor_&_table_lamps/01_004_044/01_004_044_1.jpeg"
-    },
-    "01_004_045": {
-      "model": "8596-F-BK",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 8596-F-BK",
-      "short_title": "8596-F-BK",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 8596-F-BK",
-        "LAMP: 1XE27",
-        "SIZE: W150MM X H570MM X L270MM",
-        "FINISH: ANTIQUE BRASS + BLACK + WHITE",
-        "MATERIAL: METAL",
-        "PRICE: 5900"
-      ],
-      "image": "/image/product/light/floor_&_table_lamps/01_004_045/01_004_045_1.jpeg"
-    },
-    "01_004_046": {
-      "model": "8596-BK-AB",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 8596-BK-AB",
-      "short_title": "8596-BK-AB",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 8596-BK-AB",
-        "LAMP: 1XE27",
-        "SIZE: W150MM X H570MM X L270MM",
-        "FINISH: ANTIQUE BRASS + BLACK + WHITE",
-        "MATERIAL: METAL",
-        "PRICE: 5900"
-      ],
-      "image": "/image/product/light/floor_&_table_lamps/01_004_046/01_004_046_1.jpeg"
-    },
-    "01_004_047": {
-      "model": "8598-BK",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 8598-BK",
-      "short_title": "8598-BK",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 8598-BK",
-        "LAMP: 1XE27",
-        "SIZE: W150MM X H540MM X L370MM",
-        "FINISH: ANTIQUE BRASS + BLACK + WHITE",
-        "MATERIAL: METAL",
-        "PRICE: 5900"
-      ],
-      "image": "/image/product/light/floor_&_table_lamps/01_004_047/01_004_047_1.jpeg"
-    },
-    "01_004_048": {
-      "model": "8596-F-AB",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 8596-F-AB",
-      "short_title": "8596-F-AB",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 8596-F-AB",
-        "LAMP: 1XE27",
-        "SIZE: W150MM X H570MM X L270MM",
-        "FINISH: ANTIQUE BRASS + BLACK + WHITE",
-        "MATERIAL: METAL",
-        "PRICE: 5900"
-      ],
-      "image": "/image/product/light/floor_&_table_lamps/01_004_048/01_004_048_1.jpeg"
-    },
-    "01_004_049": {
-      "model": "8597-AB",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 8597-AB",
-      "short_title": "8597-AB",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 8597-AB",
-        "LAMP: 1XE27",
-        "SIZE: W150MM X H520MM X L300MM",
-        "FINISH: ANTIQUE BRASS + BLACK + WHITE",
-        "MATERIAL: METAL",
-        "PRICE: 5900"
-      ],
-      "image": "/image/product/light/floor_&_table_lamps/01_004_049/01_004_049_1.jpeg"
-    },
-    "01_004_050": {
-      "model": "TL-8520",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS TL-8520",
-      "short_title": "TL-8520",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: TL-8520",
-        "LAMP: 1XE27",
-        "SIZE: L225MM X H475MM",
-        "FINISH: ANTIQUE BRASS + WHITE MARBLE",
-        "MATERIAL: METAL",
-        "PRICE: 4800"
-      ],
-      "image": "/image/product/light/floor_&_table_lamps/01_004_050/01_004_050_1.jpeg"
-    },
-    "01_004_051": {
-      "model": "TL-8300",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS TL-8300",
-      "short_title": "TL-8300",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: TL-8300",
-        "LAMP: 1XE27",
-        "SIZE: D150 X H235MM",
-        "FINISH: WHITE MARBLE + BLACK MARBLE",
-        "MATERIAL: METAL + GLASS",
-        "PRICE: 4500"
-      ],
-      "image": "/image/product/light/floor_&_table_lamps/01_004_051/01_004_051_1.jpeg"
-    },
-    "01_004_052": {
-      "model": "TL-8500 (FL ON REQUEST)",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS TL-8500 (FL ON REQUEST)",
-      "short_title": "TL-8500 (FL ON REQUEST)",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: TL-8500 (FL ON REQUEST)",
-        "LAMP: 1XE27",
-        "SIZE: D200MM X H475MM",
-        "FINISH: BLACK MARBLE + ANTIQUE BRASS",
-        "MATERIAL: METAL + GLASS",
-        "PRICE: 4900"
-      ],
-      "image": "/image/product/light/floor_&_table_lamps/01_004_052/01_004_052_1.jpeg"
-    },
-    "01_004_053": {
-      "model": "TL-8445 (FL ON REQUEST)",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS TL-8445 (FL ON REQUEST)",
-      "short_title": "TL-8445 (FL ON REQUEST)",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: TL-8445 (FL ON REQUEST)",
-        "LAMP: 1XE27",
-        "SIZE: D150MM X H475MM",
-        "FINISH: WHITE MARBLE + ANTIQUE BRASS",
-        "MATERIAL: METAL + GLASS",
-        "PRICE: 4900"
-      ],
-      "image": "/image/product/light/floor_&_table_lamps/01_004_053/01_004_053_1.jpeg"
-    },
-    "01_004_054": {
-      "model": "GET13",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS GET13",
-      "short_title": "GET13",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: GET13",
-        "LAMP: LED 3COLOUR",
-        "SIZE: D110MM X H380MM",
-        "FINISH: BLACK",
-        "MATERIAL: METAL + ACRYLIC",
-        "PRICE: 3400"
-      ],
-      "image": "/image/product/light/floor_&_table_lamps/01_004_054/01_004_054_1.jpeg"
-    },
-    "01_004_055": {
-      "model": "GET11",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS GET11",
-      "short_title": "GET11",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: GET11",
-        "LAMP: LED 3COLOUR",
-        "SIZE: D90MM X H230MM",
-        "FINISH: ANTIQUE BRASS",
-        "MATERIAL: METAL + ACRYLIC",
-        "PRICE: 2400"
-      ],
-      "image": "/image/product/light/floor_&_table_lamps/01_004_055/01_004_055_1.jpeg"
-    },
-    "01_004_056": {
-      "model": "GET12",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS GET12",
-      "short_title": "GET12",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: GET12",
-        "LAMP: LED 3COLOUR",
-        "SIZE: D90MM X H230MM",
-        "FINISH: ANTIQUE BRASS",
-        "MATERIAL: METAL + ACRYLIC",
-        "PRICE: 2400"
-      ],
-      "image": "/image/product/light/floor_&_table_lamps/01_004_056/01_004_056_1.jpeg"
-    },
-    "01_004_057": {
-      "model": "25622-TL",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 25622-TL",
-      "short_title": "25622-TL",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 25622-TL",
-        "LAMP: 1XE27",
-        "SIZE: D250MM X H460MM",
-        "FINISH: MATTGOLD",
-        "MATERIAL: METAL",
-        "PRICE: 8800"
-      ],
-      "image": "/image/product/light/floor_&_table_lamps/01_004_057/01_004_057_1.jpeg"
-    },
-    "01_004_058": {
-      "model": "25622-S-TL",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 25622-S-TL",
-      "short_title": "25622-S-TL",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 25622-S-TL",
-        "LAMP: 1XE27",
-        "SIZE: D250MM X H250MM",
-        "FINISH: MATTGOLD",
-        "MATERIAL: METAL",
-        "PRICE: 7200"
-      ],
-      "image": "/image/product/light/floor_&_table_lamps/01_004_058/01_004_058_1.jpeg"
-    },
-    "01_004_059": {
-      "model": "6619-T-BK",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 6619-T-BK",
-      "short_title": "6619-T-BK",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 6619-T-BK",
-        "LAMP: 1XE27",
-        "SIZE: H63MM X D380MM",
-        "FINISH: BLACK MARBLE + ANTIQUE BRASS",
-        "MATERIAL: METAL + FABRIC SHADE",
-        "PRICE: 13000"
-      ],
-      "image": "/image/product/light/floor_&_table_lamps/01_004_059/01_004_059_1.jpeg"
-    },
-    "01_004_060": {
-      "model": "6619-T-WH",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 6619-T-WH",
-      "short_title": "6619-T-WH",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 6619-T-WH",
-        "LAMP: 1XE27",
-        "SIZE: D300MM X H530MM",
-        "FINISH: ANTIQUE BRASS + WHITE MARBLE",
-        "MATERIAL: METAL + FABRIC SHADE",
-        "PRICE: 13000"
-      ],
-      "image": "/image/product/light/floor_&_table_lamps/01_004_060/01_004_060_1.jpeg"
-    },
-    "01_004_061": {
-      "model": "6619-T-GY",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 6619-T-GY",
-      "short_title": "6619-T-GY",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 6619-T-GY",
-        "LAMP: 1XE27",
-        "SIZE: D300MM X H530MM",
-        "FINISH: ANTIQUE BRASS + GREY",
-        "MATERIAL: METAL + FABRIC SHADE",
-        "PRICE: 13000"
-      ],
-      "image": "/image/product/light/floor_&_table_lamps/01_004_061/01_004_061_1.jpeg"
-    },
-    "01_004_062": {
-      "model": "6622-T-BK",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 6622-T-BK",
-      "short_title": "6622-T-BK",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 6622-T-BK",
-        "LAMP: 1XE27",
-        "SIZE: D200MM X H470MM",
-        "FINISH: ANTIQUE BRASS + BLACK MARBLE FINISH",
-        "MATERIAL: METAL + FABRIC SHADE",
-        "PRICE: 7600"
-      ],
-      "image": "/image/product/light/floor_&_table_lamps/01_004_062/01_004_062_1.jpeg"
-    },
-    "01_004_063": {
-      "model": "40305-GD",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 40305-GD",
-      "short_title": "40305-GD",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 40305-GD",
-        "LAMP: 1XE27",
-        "SIZE: D250MM X H400MM",
-        "FINISH: MATT GOLD",
-        "MATERIAL: METAL + FABRIC SHADE",
-        "PRICE: 3600"
-      ],
-      "image": "/image/product/light/floor_&_table_lamps/01_004_063/01_004_063_1.jpeg"
-    },
-    "01_004_064": {
-      "model": "2500-TL",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS 2500-TL",
-      "short_title": "2500-TL",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: 2500-TL",
-        "LAMP: 1XE27",
-        "SIZE: D200MM X H250MM",
-        "FINISH: ANTIQUE BRASS",
-        "MATERIAL: METAL + PLA",
-        "PRICE: 4400"
-      ],
-      "image": "/image/product/light/floor_&_table_lamps/01_004_064/01_004_064_1.jpeg"
-    },
-    "01_004_065": {
-      "model": "TL2016",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS TL2016",
-      "short_title": "TL2016",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: TL2016",
-        "LAMP: 1XE27",
-        "SIZE: D260MM X H430MM",
-        "FINISH: BLACK",
-        "MATERIAL: METAL + FABRIC SHADE",
-        "PRICE: 3400"
-      ],
-      "image": "/image/product/light/floor_&_table_lamps/01_004_065/01_004_065_1.jpeg"
-    },
-    "01_004_066": {
-      "model": "TL2205D-DW",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS TL2205D-DW",
-      "short_title": "TL2205D-DW",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: TL2205D-DW",
-        "LAMP: 1XE27",
-        "SIZE: D230MM X H380MM",
-        "FINISH: DARK WOOD",
-        "MATERIAL: METAL + FABRIC SHADE",
-        "PRICE: 3800"
-      ],
-      "image": "/image/product/light/floor_&_table_lamps/01_004_066/01_004_066_1.jpeg"
-    },
-    "01_004_067": {
-      "model": "TL2205C-LW",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS TL2205C-LW",
-      "short_title": "TL2205C-LW",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: TL2205C-LW",
-        "LAMP: 1XE27",
-        "SIZE: D230MM X H380MM",
-        "FINISH: LIGHT WOOD",
-        "MATERIAL: METAL + FABRIC SHADE",
-        "PRICE: 3800"
-      ],
-      "image": "/image/product/light/floor_&_table_lamps/01_004_067/01_004_067_1.jpeg"
-    },
-    "01_004_068": {
-      "model": "TL2206C-DW",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS TL2206C-DW",
-      "short_title": "TL2206C-DW",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: TL2206C-DW",
-        "LAMP: 1XE27",
-        "SIZE: D260MM X H410MM",
-        "FINISH: DARK WOOD",
-        "MATERIAL: METAL + FABRIC SHADE",
-        "PRICE: 3800"
-      ],
-      "image": "/image/product/light/floor_&_table_lamps/01_004_068/01_004_068_1.jpeg"
-    },
-    "01_004_069": {
-      "model": "TL2206D-LW",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS TL2206D-LW",
-      "short_title": "TL2206D-LW",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: TL2206D-LW",
-        "LAMP: 1XE27",
-        "SIZE: D260MM X H410MM",
-        "FINISH: LIGHT WOOD",
-        "MATERIAL: METAL + FABRIC SHADE",
-        "PRICE: 3800"
-      ],
-      "image": "/image/product/light/floor_&_table_lamps/01_004_069/01_004_069_1.jpeg"
-    },
-    "01_004_070": {
-      "model": "TL2209C-AC",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS TL2209C-AC",
-      "short_title": "TL2209C-AC",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: TL2209C-AC",
-        "LAMP: 1XE27",
-        "SIZE: D230MM X H380MM",
-        "FINISH: ANTIQUE COPPER",
-        "MATERIAL: METAL + FABRIC SHADE",
-        "PRICE: 3800"
-      ],
-      "image": "/image/product/light/floor_&_table_lamps/01_004_070/01_004_070_1.jpeg"
-    },
-    "01_004_071": {
-      "model": "TL2208D-AC",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS TL2208D-AC",
-      "short_title": "TL2208D-AC",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: TL2208D-AC",
-        "LAMP: 1XE27",
-        "SIZE: D260MM X H410MM",
-        "FINISH: ANTIQUE COPPER",
-        "MATERIAL: METAL + FABRIC SHADE",
-        "PRICE: 3800"
-      ],
-      "image": "/image/product/light/floor_&_table_lamps/01_004_071/01_004_071_1.jpeg"
-    },
-    "01_004_072": {
-      "model": "TL2208C-AB",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS TL2208C-AB",
-      "short_title": "TL2208C-AB",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: TL2208C-AB",
-        "LAMP: 1XE27",
-        "SIZE: D260MM X H410MM",
-        "FINISH: ANTIQUE BRASS",
-        "MATERIAL: METAL + FABRIC SHADE",
-        "PRICE: 3800"
-      ],
-      "image": "/image/product/light/floor_&_table_lamps/01_004_072/01_004_072_1.jpeg"
-    },
-    "01_004_073": {
-      "model": "TL2209D-AB",
-      "short_description": "",
-      "long_description": [],
-      "long_title": "FLOOR LAMPS & TABLE LAMPS TL2209D-AB",
-      "short_title": "TL2209D-AB",
-      "variation": [],
-      "specification": [
-        "ITEM NO.: TL2209D-AB",
-        "LAMP: 1XE27",
-        "SIZE: D230MM X H380MM",
-        "FINISH: ANTIQUE BRASS",
-        "MATERIAL: METAL + FABRIC SHADE",
-        "PRICE: 3800"
-      ],
-      "image": "/image/product/light/floor_&_table_lamps/01_004_073/01_004_073_1.jpeg"
-    },
+  },
+  "01_004_041": {
+    "model": "8595-BK-AB",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 8595-BK-AB",
+    "short_title": "8595-BK-AB",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 8595-BK-AB",
+      "LAMP: 1XE27",
+      "SIZE: W150MM X H520MM X L300MM",
+      "FINISH: ANTIQUE BRASS + BLACK + WHITE",
+      "MATERIAL: METAL",
+      "PRICE: 5900"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_041/01_004_041_1.jpeg"
+  },
+  "01_004_042": {
+    "model": "8596-AB-BK",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 8596-AB-BK",
+    "short_title": "8596-AB-BK",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 8596-AB-BK",
+      "LAMP: 1XE27",
+      "SIZE: W150MM X H570MM X L270MM",
+      "FINISH: ANTIQUE BRASS + BLACK + WHITE",
+      "MATERIAL: METAL",
+      "PRICE: 5900"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_042/01_004_042_1.jpeg"
+  },
+  "01_004_043": {
+    "model": "8595-AB-BK",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 8595-AB-BK",
+    "short_title": "8595-AB-BK",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 8595-AB-BK",
+      "LAMP: 1XE27",
+      "SIZE: W150MM X H520MM X L300MM",
+      "FINISH: ANTIQUE BRASS + BLACK + WHITE",
+      "MATERIAL: METAL",
+      "PRICE: 5900"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_043/01_004_043_1.jpeg"
+  },
+  "01_004_044": {
+    "model": "8596-CONE",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 8596-CONE",
+    "short_title": "8596-CONE",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 8596-CONE",
+      "LAMP: 1XE27",
+      "SIZE: W160MM X H570MM X L300MM",
+      "FINISH: ANTIQUE BRASS + BLACK + WHITE",
+      "MATERIAL: METAL",
+      "PRICE: 5900"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_044/01_004_044_1.jpeg"
+  },
+  "01_004_045": {
+    "model": "8596-F-BK",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 8596-F-BK",
+    "short_title": "8596-F-BK",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 8596-F-BK",
+      "LAMP: 1XE27",
+      "SIZE: W150MM X H570MM X L270MM",
+      "FINISH: ANTIQUE BRASS + BLACK + WHITE",
+      "MATERIAL: METAL",
+      "PRICE: 5900"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_045/01_004_045_1.jpeg"
+  },
+  "01_004_046": {
+    "model": "8596-BK-AB",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 8596-BK-AB",
+    "short_title": "8596-BK-AB",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 8596-BK-AB",
+      "LAMP: 1XE27",
+      "SIZE: W150MM X H570MM X L270MM",
+      "FINISH: ANTIQUE BRASS + BLACK + WHITE",
+      "MATERIAL: METAL",
+      "PRICE: 5900"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_046/01_004_046_1.jpeg"
+  },
+  "01_004_047": {
+    "model": "8598-BK",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 8598-BK",
+    "short_title": "8598-BK",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 8598-BK",
+      "LAMP: 1XE27",
+      "SIZE: W150MM X H540MM X L370MM",
+      "FINISH: ANTIQUE BRASS + BLACK + WHITE",
+      "MATERIAL: METAL",
+      "PRICE: 5900"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_047/01_004_047_1.jpeg"
+  },
+  "01_004_048": {
+    "model": "8596-F-AB",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 8596-F-AB",
+    "short_title": "8596-F-AB",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 8596-F-AB",
+      "LAMP: 1XE27",
+      "SIZE: W150MM X H570MM X L270MM",
+      "FINISH: ANTIQUE BRASS + BLACK + WHITE",
+      "MATERIAL: METAL",
+      "PRICE: 5900"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_048/01_004_048_1.jpeg"
+  },
+  "01_004_049": {
+    "model": "8597-AB",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 8597-AB",
+    "short_title": "8597-AB",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 8597-AB",
+      "LAMP: 1XE27",
+      "SIZE: W150MM X H520MM X L300MM",
+      "FINISH: ANTIQUE BRASS + BLACK + WHITE",
+      "MATERIAL: METAL",
+      "PRICE: 5900"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_049/01_004_049_1.jpeg"
+  },
+  "01_004_050": {
+    "model": "TL-8520",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS TL-8520",
+    "short_title": "TL-8520",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: TL-8520",
+      "LAMP: 1XE27",
+      "SIZE: L225MM X H475MM",
+      "FINISH: ANTIQUE BRASS + WHITE MARBLE",
+      "MATERIAL: METAL",
+      "PRICE: 4800"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_050/01_004_050_1.jpeg"
+  },
+  "01_004_051": {
+    "model": "TL-8300",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS TL-8300",
+    "short_title": "TL-8300",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: TL-8300",
+      "LAMP: 1XE27",
+      "SIZE: D150 X H235MM",
+      "FINISH: WHITE MARBLE + BLACK MARBLE",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 4500"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_051/01_004_051_1.jpeg"
+  },
+  "01_004_052": {
+    "model": "TL-8500 (FL ON REQUEST)",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS TL-8500 (FL ON REQUEST)",
+    "short_title": "TL-8500 (FL ON REQUEST)",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: TL-8500 (FL ON REQUEST)",
+      "LAMP: 1XE27",
+      "SIZE: D200MM X H475MM",
+      "FINISH: BLACK MARBLE + ANTIQUE BRASS",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 4900"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_052/01_004_052_1.jpeg"
+  },
+  "01_004_053": {
+    "model": "TL-8445 (FL ON REQUEST)",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS TL-8445 (FL ON REQUEST)",
+    "short_title": "TL-8445 (FL ON REQUEST)",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: TL-8445 (FL ON REQUEST)",
+      "LAMP: 1XE27",
+      "SIZE: D150MM X H475MM",
+      "FINISH: WHITE MARBLE + ANTIQUE BRASS",
+      "MATERIAL: METAL + GLASS",
+      "PRICE: 4900"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_053/01_004_053_1.jpeg"
+  },
+  "01_004_054": {
+    "model": "GET13",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS GET13",
+    "short_title": "GET13",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: GET13",
+      "LAMP: LED 3COLOUR",
+      "SIZE: D110MM X H380MM",
+      "FINISH: BLACK",
+      "MATERIAL: METAL + ACRYLIC",
+      "PRICE: 3400"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_054/01_004_054_1.jpeg"
+  },
+  "01_004_055": {
+    "model": "GET11",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS GET11",
+    "short_title": "GET11",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: GET11",
+      "LAMP: LED 3COLOUR",
+      "SIZE: D90MM X H230MM",
+      "FINISH: ANTIQUE BRASS",
+      "MATERIAL: METAL + ACRYLIC",
+      "PRICE: 2400"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_055/01_004_055_1.jpeg"
+  },
+  "01_004_056": {
+    "model": "GET12",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS GET12",
+    "short_title": "GET12",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: GET12",
+      "LAMP: LED 3COLOUR",
+      "SIZE: D90MM X H230MM",
+      "FINISH: ANTIQUE BRASS",
+      "MATERIAL: METAL + ACRYLIC",
+      "PRICE: 2400"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_056/01_004_056_1.jpeg"
+  },
+  "01_004_057": {
+    "model": "25622-TL",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 25622-TL",
+    "short_title": "25622-TL",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 25622-TL",
+      "LAMP: 1XE27",
+      "SIZE: D250MM X H460MM",
+      "FINISH: MATTGOLD",
+      "MATERIAL: METAL",
+      "PRICE: 8800"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_057/01_004_057_1.jpeg"
+  },
+  "01_004_058": {
+    "model": "25622-S-TL",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 25622-S-TL",
+    "short_title": "25622-S-TL",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 25622-S-TL",
+      "LAMP: 1XE27",
+      "SIZE: D250MM X H250MM",
+      "FINISH: MATTGOLD",
+      "MATERIAL: METAL",
+      "PRICE: 7200"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_058/01_004_058_1.jpeg"
+  },
+  "01_004_059": {
+    "model": "6619-T-BK",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 6619-T-BK",
+    "short_title": "6619-T-BK",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 6619-T-BK",
+      "LAMP: 1XE27",
+      "SIZE: H63MM X D380MM",
+      "FINISH: BLACK MARBLE + ANTIQUE BRASS",
+      "MATERIAL: METAL + FABRIC SHADE",
+      "PRICE: 13000"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_059/01_004_059_1.jpeg"
+  },
+  "01_004_060": {
+    "model": "6619-T-WH",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 6619-T-WH",
+    "short_title": "6619-T-WH",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 6619-T-WH",
+      "LAMP: 1XE27",
+      "SIZE: D300MM X H530MM",
+      "FINISH: ANTIQUE BRASS + WHITE MARBLE",
+      "MATERIAL: METAL + FABRIC SHADE",
+      "PRICE: 13000"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_060/01_004_060_1.jpeg"
+  },
+  "01_004_061": {
+    "model": "6619-T-GY",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 6619-T-GY",
+    "short_title": "6619-T-GY",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 6619-T-GY",
+      "LAMP: 1XE27",
+      "SIZE: D300MM X H530MM",
+      "FINISH: ANTIQUE BRASS + GREY",
+      "MATERIAL: METAL + FABRIC SHADE",
+      "PRICE: 13000"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_061/01_004_061_1.jpeg"
+  },
+  "01_004_062": {
+    "model": "6622-T-BK",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 6622-T-BK",
+    "short_title": "6622-T-BK",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 6622-T-BK",
+      "LAMP: 1XE27",
+      "SIZE: D200MM X H470MM",
+      "FINISH: ANTIQUE BRASS + BLACK MARBLE FINISH",
+      "MATERIAL: METAL + FABRIC SHADE",
+      "PRICE: 7600"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_062/01_004_062_1.jpeg"
+  },
+  "01_004_063": {
+    "model": "40305-GD",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 40305-GD",
+    "short_title": "40305-GD",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 40305-GD",
+      "LAMP: 1XE27",
+      "SIZE: D250MM X H400MM",
+      "FINISH: MATT GOLD",
+      "MATERIAL: METAL + FABRIC SHADE",
+      "PRICE: 3600"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_063/01_004_063_1.jpeg"
+  },
+  "01_004_064": {
+    "model": "2500-TL",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS 2500-TL",
+    "short_title": "2500-TL",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: 2500-TL",
+      "LAMP: 1XE27",
+      "SIZE: D200MM X H250MM",
+      "FINISH: ANTIQUE BRASS",
+      "MATERIAL: METAL + PLA",
+      "PRICE: 4400"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_064/01_004_064_1.jpeg"
+  },
+  "01_004_065": {
+    "model": "TL2016",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS TL2016",
+    "short_title": "TL2016",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: TL2016",
+      "LAMP: 1XE27",
+      "SIZE: D260MM X H430MM",
+      "FINISH: BLACK",
+      "MATERIAL: METAL + FABRIC SHADE",
+      "PRICE: 3400"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_065/01_004_065_1.jpeg"
+  },
+  "01_004_066": {
+    "model": "TL2205D-DW",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS TL2205D-DW",
+    "short_title": "TL2205D-DW",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: TL2205D-DW",
+      "LAMP: 1XE27",
+      "SIZE: D230MM X H380MM",
+      "FINISH: DARK WOOD",
+      "MATERIAL: METAL + FABRIC SHADE",
+      "PRICE: 3800"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_066/01_004_066_1.jpeg"
+  },
+  "01_004_067": {
+    "model": "TL2205C-LW",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS TL2205C-LW",
+    "short_title": "TL2205C-LW",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: TL2205C-LW",
+      "LAMP: 1XE27",
+      "SIZE: D230MM X H380MM",
+      "FINISH: LIGHT WOOD",
+      "MATERIAL: METAL + FABRIC SHADE",
+      "PRICE: 3800"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_067/01_004_067_1.jpeg"
+  },
+  "01_004_068": {
+    "model": "TL2206C-DW",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS TL2206C-DW",
+    "short_title": "TL2206C-DW",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: TL2206C-DW",
+      "LAMP: 1XE27",
+      "SIZE: D260MM X H410MM",
+      "FINISH: DARK WOOD",
+      "MATERIAL: METAL + FABRIC SHADE",
+      "PRICE: 3800"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_068/01_004_068_1.jpeg"
+  },
+  "01_004_069": {
+    "model": "TL2206D-LW",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS TL2206D-LW",
+    "short_title": "TL2206D-LW",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: TL2206D-LW",
+      "LAMP: 1XE27",
+      "SIZE: D260MM X H410MM",
+      "FINISH: LIGHT WOOD",
+      "MATERIAL: METAL + FABRIC SHADE",
+      "PRICE: 3800"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_069/01_004_069_1.jpeg"
+  },
+  "01_004_070": {
+    "model": "TL2209C-AC",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS TL2209C-AC",
+    "short_title": "TL2209C-AC",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: TL2209C-AC",
+      "LAMP: 1XE27",
+      "SIZE: D230MM X H380MM",
+      "FINISH: ANTIQUE COPPER",
+      "MATERIAL: METAL + FABRIC SHADE",
+      "PRICE: 3800"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_070/01_004_070_1.jpeg"
+  },
+  "01_004_071": {
+    "model": "TL2208D-AC",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS TL2208D-AC",
+    "short_title": "TL2208D-AC",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: TL2208D-AC",
+      "LAMP: 1XE27",
+      "SIZE: D260MM X H410MM",
+      "FINISH: ANTIQUE COPPER",
+      "MATERIAL: METAL + FABRIC SHADE",
+      "PRICE: 3800"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_071/01_004_071_1.jpeg"
+  },
+  "01_004_072": {
+    "model": "TL2208C-AB",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS TL2208C-AB",
+    "short_title": "TL2208C-AB",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: TL2208C-AB",
+      "LAMP: 1XE27",
+      "SIZE: D260MM X H410MM",
+      "FINISH: ANTIQUE BRASS",
+      "MATERIAL: METAL + FABRIC SHADE",
+      "PRICE: 3800"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_072/01_004_072_1.jpeg"
+  },
+  "01_004_073": {
+    "model": "TL2209D-AB",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FLOOR LAMPS & TABLE LAMPS TL2209D-AB",
+    "short_title": "TL2209D-AB",
+    "variation": [],
+    "specification": [
+      "ITEM NO.: TL2209D-AB",
+      "LAMP: 1XE27",
+      "SIZE: D230MM X H380MM",
+      "FINISH: ANTIQUE BRASS",
+      "MATERIAL: METAL + FABRIC SHADE",
+      "PRICE: 3800"
+    ],
+    "image": "/image/product/light/floor_&_table_lamps/01_004_073/01_004_073_1.jpeg"
+  },
   "01_005_001": {
     "model": "5331-T",
     "short_description": "",
@@ -4238,18 +4241,12 @@
     ],
     "image": "/image/product/light/familes/01_005_015/01_005_015_1.jpeg"
   },
-
-
-
-
-
-  
   "01_006_001": {
     "model": "5110-F",
     "short_description": "",
     "long_description": [],
-    "long_title": "FAMILIES 5110-F",
-    "short_title": "FAMILIES 5110-F",
+    "long_title": "ARDENT",
+    "short_title": "ARDENT",
     "variation": [],
     "specification": [
       "LED :  CREE / BRIDGELUX",
@@ -4263,6 +4260,124 @@
       "HEATSINK COLOUR: GREY",
       "MATERIAL: ALUMINUM DIE CASTING"
     ],
-    "image": "/image/product/light/familes/01_005_015/01_005_015_1.jpeg"
+    "image": "/image/product/light/spot_light/01_006_001/01_006_001.png"
+  },
+  "01_006_002": {
+    "model": "5110-F",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "ARDENT SERIES" ,
+    "short_title": "ARDENT SERIES",
+    "variation": [],
+    "specification": [
+      "LED: CREE / BRIDGELUX",
+      "DRIVER: PHILIPS / FULHAM / OSRAM",
+      "COLOUR: TEMP 2700K / 3000K / 4000K / 6500K",
+      "REFLECTOR: SHINLAND / INDIAN",
+      "SHINLAND LENS: 7W / 12W - 40°",
+      "LUMEN EFFICIENCY: 120-140 LM / W",
+      "LED BEAM ANGLE: 15° / 24° / 36° / 60°",
+      "RING COLOUR: WHITE / BLACK / GOLD / CHROME / SILVER / WINE",
+      "HEATSINK COLOUR: GREY",
+      "MATERIAL: ALUMINUM DIE CASTING"
+    ],
+    "image": "/image/product/light/spot_light/01_006_002/01_006_002.png"
+  },
+  "01_006_003": {
+    "model": "5110-F",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "SWIFT ",
+    "short_title": "SWIFT ",
+    "variation": [],
+    "specification": [
+      "LED: CREE / BRIDGELUX",
+      "DRIVER: PHILIPS / FULHAM / OSRAM",
+      "COLOUR TEMP: 2700K / 3000K / 4000K / 6500K",
+      "REFLECTOR: GR",
+      "LUMEN EFFICIENCY: 120-140 LM / W",
+      "LED BEAM ANGLE: 24° / 36° / 60°",
+      "ING COLOUR: WHITE / BLACK / ROSE GOLD / CHROME",
+      "HEATSINK COLOUR: BLACK / WHITE",
+      "MATERIAL: ALUMINUM DIE CASTING"
+    ],
+    "image": "/image/product/light/spot_light/01_006_003/01_006_003.png"
+  },
+  "01_006_004": {
+    "model": "5110-F",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "SUNFLOWER ",
+    "short_title": "SUNFLOWER ",
+    "variation": [],
+    "specification": [
+      "LED: CREE / BRIDGELUX",
+      "DRIVER: PHILIPS / FULHAM / OSRAM",
+      "COLOUR TEMP: 2700K / 3000K / 4000K / 6500K",
+      "REFLECTOR: GR",
+      "LUMEN EFFICIENCY: 120-140 LM / W",
+      "LED BEAM ANGLE: 24° / 36° / 60°",
+      "RING COLOUR: WHITE / BLACK / ROSE GOLD / CHROME",
+      "HEATSINK COLOUR: BLACK / WHITE",
+      "MATERIAL: ALUMINUM DIE CASTING"
+    ],
+    "image": "/image/product/light/spot_light/01_006_004/01_006_004.png"
+  },
+  "01_006_005": {
+    "model": "5110-F",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "IP65 SPOT LIGHT",
+    "short_title": "IP65 SPOT LIGHT",
+    "variation": [],
+    "specification": [
+      "LED: BRIDGELUX / CREE",
+      "DRIVER: PHILIPS / FULHAM / OSRAM",
+      "COLOUR: TEMP 2700K / 3000K / 4000K / 6500K",
+      "LUMEN EFFICIENCY: 120-140 LM / W",
+      "LED BEAM ANGLE: 40°",
+      "RING COLOUR: BLACK / WHITE / CHROME",
+      "BODY COLOUR: BLACK / WHITE",
+      "MATERIAL: ALUMINUM DIE CASTING"
+    ],
+    "image": "/image/product/light/spot_light/01_006_005/01_006_005.png"
+  },
+  "01_006_006": {
+    "model": "5110-F",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "PULLOUT SINGLE",
+    "short_title": "PULLOUT SINGLE",
+    "variation": [],
+    "specification": [
+      "LED: BRIDGELUX / CREE",
+      "DRIVER: PHILIPS / FULHAM / OSRAM",
+      "COLOUR TEMP: 2700K / 3000K / 4000K / 6500K",
+      "LUMEN EFFICIENCY: 120-140 LM / W",
+      "REFLECTOR: GR",
+      "LED BEAM ANGLE: 15° / 24° / 38° / 60°",
+      "BODY COLOUR: BLACK / WHITE",
+      "MATERIAL: ALUMINUM DIE CASTING"
+    ],
+    "image": "/image/product/light/spot_light/01_006_006/01_006_006.png"
+  },
+  "01_006_007": {
+    "model": "5110-F",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "PULLOUT DOUBLE",
+    "short_title": "PULLOUT DOUBLE",
+    "variation": [],
+    "specification": [
+      "LED: BRIDGELUX / CREE",
+      "DRIVER: PHILIPS / FULHAM / OSRAM",
+      "COLOUR TEMP: 2700K / 3000K / 4000K / 6500K",
+      "LUMEN EFFICIENCY: 120-140 LM / W",
+      "REFLECTOR: GR",
+      "LED BEAM ANGLE: 15° / 24° / 38° / 60°",
+      "BODY COLOUR: BLACK / WHITE",
+      "MATERIAL: ALUMINUM DIE CASTING"
+    ],
+    "image": "/image/product/light/spot_light/01_006_007/01_006_007.png"
   }
 }
