@@ -430,5 +430,26 @@
       "01_005_014",
       "01_005_015"
     ]
+  },
+  "01_006": {
+    "title": "Spot Lights",
+    "header": "Spot Lights",
+    "footer": "View all products",
+    "short_description": "",
+    "product_list": [
+      "01_006_001"
+     
+    ]
+  },
+
+  
+  "01_007": {
+    "title": "Utility Lights",
+    "header": "Utility Lights",
+    "footer": "View all products",
+    "short_description": "",
+    "product_list": [
+     
+    ]
   }
 }

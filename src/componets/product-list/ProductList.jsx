@@ -123,6 +123,7 @@ function ProductList({ category_id }) {
                         short_description={product.short_description}
                         long_description={product.long_description}
                         product_spec={product.specification}
+                        product_var={product.variation}
                       />
                     </div>
                   ) : null;
