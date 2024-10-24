@@ -4237,5 +4237,32 @@
       "PRICE: 7400"
     ],
     "image": "/image/product/light/familes/01_005_015/01_005_015_1.jpeg"
+  },
+
+
+
+
+
+  
+  "01_006_001": {
+    "model": "5110-F",
+    "short_description": "",
+    "long_description": [],
+    "long_title": "FAMILIES 5110-F",
+    "short_title": "FAMILIES 5110-F",
+    "variation": [],
+    "specification": [
+      "LED :  CREE / BRIDGELUX",
+      "DRIVER:  PHILIPS / FULHAM / OSRAM",
+      "COLOUR TEMP: 2700K / 3000K / 4000K / 6500K",
+      "REFLECTOR:  SHINLAND / INDIAN",
+      "SHINLAND LENS: 7W / 12W - 40°",
+      "LUMEN EFFICIENCY: 120-140 LM / W",
+      "LED BEAM ANGLE: 15° / 24° / 36° / 60°",
+      "RING COLOUR: WHITE / BLACK / CHROME /GOLD / SILVER / WINE",
+      "HEATSINK COLOUR: GREY",
+      "MATERIAL: ALUMINUM DIE CASTING"
+    ],
+    "image": "/image/product/light/familes/01_005_015/01_005_015_1.jpeg"
   }
 }
