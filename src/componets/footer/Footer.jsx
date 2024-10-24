@@ -22,7 +22,7 @@ const Footer = () => {
           </a>
         </div>
         <div className="footer_buttom">
-          © 2000-2024, NUEZ Technologies Pvt Ltd
+          © 2000-2024, Nuez Technologies Pvt Ltd
           <br />
           All right reserved.
         </div>
