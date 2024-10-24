@@ -5,7 +5,7 @@ import Tabs from 'react-bootstrap/Tabs';
 import anime from 'animejs';
 import './ProductList.css';
 
-// Json data path
+// Function to load JSON data based on category_id
 const loadJsonData = async (category_id) => {
   switch (category_id) {
     case 'light':
@@ -37,41 +37,35 @@ function ProductList({ category_id }) {
   const [productData, setProductData] = useState(null);
   const [categoryData, setCategoryData] = useState(null);
   const [activeKey, setActiveKey] = useState(null);
-  const cardRefs = useRef([]); // Ref for each tab's product cards
+  const cardRefs = useRef([]);
 
   useEffect(() => {
-    // Load the appropriate JSON data based on the category_id
     const fetchData = async () => {
       const { ProductData, CategoryData } = await loadJsonData(category_id);
       setProductData(ProductData.default);
       setCategoryData(CategoryData.default);
 
-      // Set first category key as the default active key
       if (CategoryData) {
         const firstCategoryKey = Object.keys(CategoryData.default)[0];
         setActiveKey(firstCategoryKey);
       }
     };
-
     fetchData();
   }, [category_id]);
 
   useEffect(() => {
-    // Only animate the current tab's product cards
     if (activeKey && cardRefs.current.length > 0) {
-      // Filter out null values from the refs array before animating
       cardRefs.current = cardRefs.current.filter((ref) => ref != null);
-
       anime({
         targets: cardRefs.current,
         translateX: [50, 0],
         opacity: [0, 1],
         easing: 'easeOutQuad',
         duration: 800,
-        delay: anime.stagger(100), // Stagger animation for each card
+        delay: anime.stagger(100),
       });
     }
-  }, [activeKey]); // Re-run animation whenever activeKey changes
+  }, [activeKey]);
 
   if (!productData || !categoryData) {
     return <div>Loading...</div>;
@@ -87,7 +81,7 @@ function ProductList({ category_id }) {
         onSelect={(k) => {
           if (k !== activeKey) {
             setActiveKey(k);
-            cardRefs.current = []; // Reset cardRefs when the tab changes
+            cardRefs.current = [];
           }
         }}
         variant="underline"
@@ -104,13 +98,48 @@ function ProductList({ category_id }) {
                 activeKey === categoryKey ? '' : 'd-none'
               } d-flex flex-direction-row justify-content-evenly flex-wrap gap-4 product_card_container`}
             >
-              {categoryData[categoryKey].product_list.map(
-                (productId, index) => {
+              {categoryKey === 'spotlight' ? (
+                categoryData[categoryKey].product_list.map((product, index) => (
+                  <div
+                    key={product.id}
+                    className="fullwidth-image-container"
+                    ref={(el) => {
+                      if (activeKey === categoryKey) {
+                        cardRefs.current[index] = el;
+                      }
+                    }}
+                  >
+                    <img
+                      src={product.image}
+                      alt={`PDF 1 Image ${index + 1}`} // Updated alt text
+                      className="fullwidth-image"
+                    />
+                  </div>
+                ))
+              ) : categoryKey === 'catalogue' ? (
+                categoryData[categoryKey].product_list.map((product, index) => (
+                  <div
+                    key={product.id}
+                    className="fullwidth-image-container"
+                    ref={(el) => {
+                      if (activeKey === categoryKey) {
+                        cardRefs.current[index] = el;
+                      }
+                    }}
+                  >
+                    <img
+                      src={product.image}
+                      alt={`PDF 2 Image ${index + 1}`} // Updated alt text
+                      className="fullwidth-image"
+                    />
+                  </div>
+                ))
+              ) : (
+                categoryData[categoryKey].product_list.map((productId, index) => {
                   const product = productData[productId];
                   return product ? (
                     <div
                       ref={(el) => {
-                        // Only assign refs for the currently active tab's products
                         if (activeKey === categoryKey) {
                           cardRefs.current[index] = el;
                         }
@@ -126,8 +155,10 @@ function ProductList({ category_id }) {
                         product_var={product.variation}
                       />
                     </div>
-                  ) : null;
-                }
+                  ) : (
+                    <div key={productId}>Product not available</div> // Fallback message
+                  );
+                })
               )}
             </div>
           </Tab>

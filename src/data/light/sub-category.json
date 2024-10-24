@@ -57,7 +57,6 @@
       "01_001_050"
     ]
   },
-
   "01_002": {
     "title": "Ceiling Lamps",
     "header": "Ceiling Lamps",
@@ -431,31 +430,148 @@
       "01_005_015"
     ]
   },
-  "01_006": {
-    "title": "Spot Lights",
-    "header": "Spot Lights",
-    "footer": "View all products",
+  "spotlight": {
+    "title": "Spotlight",
+    "header": "Spotlight",
+    "footer": "",
     "short_description": "",
     "product_list": [
-      "01_006_001",
-      "01_006_002",
-      "01_006_003",
-      "01_006_004",
-      "01_006_005",
-      "01_006_006",
-      "01_006_007"
-     
+      {
+        "id": "image_1",
+        "image": "/image/spot_light/doc1.jpg"
+      },
+      {
+        "id": "image_2",
+        "image": "/image/spot_light/doc2.jpg"
+      },
+      {
+        "id": "image_3",
+        "image": "/image/spot_light/doc3.jpg"
+      },
+      {
+        "id": "image_4",
+        "image": "/image/spot_light/doc4.jpg"
+      }
     ]
   },
-
-  
-  "01_007": {
-    "title": "More",
-    "header": "More",
-    "footer": "View all products",
+  "catalogue": {
+    "title": "Catalogue",
+    "header": "Catalogue",
+    "footer": "",
     "short_description": "",
     "product_list": [
-     
+      {
+        "id": "image_1",
+        "image": "/image/cat/cat_1.jpg"
+      },
+      {
+        "id": "image_1",
+        "image": "/image/cat/cat_2.jpg"
+      },
+      {
+        "id": "image_1",
+        "image": "/image/cat/cat_3.jpg"
+      },
+      {
+        "id": "image_1",
+        "image": "/image/cat/cat_4.jpg"
+      },
+      {
+        "id": "image_1",
+        "image": "/image/cat/cat_5.jpg"
+      },
+      {
+        "id": "image_1",
+        "image": "/image/cat/cat_6.jpg"
+      },
+      {
+        "id": "image_1",
+        "image": "/image/cat/cat_7.jpg"
+      },
+      {
+        "id": "image_1",
+        "image": "/image/cat/cat_8.jpg"
+      },
+      {
+        "id": "image_1",
+        "image": "/image/cat/cat_9.jpg"
+      },
+      {
+        "id": "image_1",
+        "image": "/image/cat/cat_10.jpg"
+      },
+      {
+        "id": "image_1",
+        "image": "/image/cat/cat_11.jpg"
+      },
+      {
+        "id": "image_1",
+        "image": "/image/cat/cat_12.jpg"
+      },
+      {
+        "id": "image_1",
+        "image": "/image/cat/cat_13.jpg"
+      },
+      {
+        "id": "image_1",
+        "image": "/image/cat/cat_14.jpg"
+      },
+      {
+        "id": "image_1",
+        "image": "/image/cat/cat_15.jpg"
+      },
+      {
+        "id": "image_1",
+        "image": "/image/cat/cat_16.jpg"
+      },
+      {
+        "id": "image_1",
+        "image": "/image/cat/cat_17.jpg"
+      },
+      {
+        "id": "image_1",
+        "image": "/image/cat/cat_18.jpg"
+      },
+      {
+        "id": "image_1",
+        "image": "/image/cat/cat_19.jpg"
+      },
+      {
+        "id": "image_1",
+        "image": "/image/cat/cat_20.jpg"
+      },
+      {
+        "id": "image_1",
+        "image": "/image/cat/cat_21.jpg"
+      },
+      {
+        "id": "image_1",
+        "image": "/image/cat/cat_22.jpg"
+      },
+      {
+        "id": "image_1",
+        "image": "/image/cat/cat_23.jpg"
+      },
+      {
+        "id": "image_1",
+        "image": "/image/cat/cat_24.jpg"
+      },
+      {
+        "id": "image_1",
+        "image": "/image/cat/cat_25.jpg"
+      },
+      {
+        "id": "image_1",
+        "image": "/image/cat/cat_26.jpg"
+      },
+      {
+        "id": "image_1",
+        "image": "/image/cat/cat_27.jpg"
+      },
+      {
+        "id": "image_1",
+        "image": "/image/cat/cat_28.jpg"
+      }
     ]
   }
 }
